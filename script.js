@@ -14,10 +14,14 @@ document.addEventListener("DOMContentLoaded", async () => {
   const page = window.location.pathname;
 
   // ✅ DO NOT load data on index page
-  if (page.includes("index.html") || page === "/") {
-    loadBooks();
-    return;
-  }
+  if (
+  page.includes("index.html") ||
+  page === "/" ||
+  page.endsWith("/")
+) {
+  loadBooks();
+  return;
+}
 
   // ✅ Load only when needed
   try {
@@ -36,6 +40,8 @@ document.addEventListener("DOMContentLoaded", async () => {
 async function loadBooks() {
   const app = document.getElementById("app");
 
+  app.innerHTML = ""; // ✅ IMPORTANT RESET
+
   const files = [
     "bhagavad-gita.json",
     "quran.json",
@@ -46,6 +52,8 @@ async function loadBooks() {
     "rigved.json",
     "gurbani.json"
   ];
+
+  let loaded = 0;
 
   for (let file of files) {
     try {
@@ -65,14 +73,16 @@ async function loadBooks() {
       };
 
       app.appendChild(btn);
+      loaded++;
 
     } catch (err) {
       console.error("❌ Failed:", file);
     }
   }
 
-  if (app.innerHTML === "Loading...") {
-    app.innerHTML = "<p style='color:white'>Nothing loaded</p>";
+  // ✅ fallback if nothing loads
+  if (loaded === 0) {
+    app.innerHTML = "<p style='color:white'>Nothing loaded ❌</p>";
   }
 }
 // ------------------ CHAPTERS ------------------
