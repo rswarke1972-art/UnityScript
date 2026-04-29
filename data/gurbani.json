@@ -1,0 +1,1618 @@
+{
+  "id": "guru_granth_sahib",
+  "name": "Guru Granth Sahib",
+
+  "chapters": [
+    {
+      "name": "Raag Asa",
+
+      "verses": [
+        {
+  "id": "gurbani_1",
+
+  "verse": {
+    "original_gurmukhi": "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+    "transliteration": "Ik Onkar Sat Naam Karta Purakh Nirbhau Nirvair Akaal Moorat Ajooni Saibhang Gur Prasad",
+    "translation": "There is One Reality. Truth is Its Name. It is the Creator, without fear, without hatred, timeless, beyond birth, self-existent, realized through the Guru’s grace."
+  },
+
+  "source": {
+    "text": "Guru Granth Sahib",
+    "tradition": "Sikhism",
+    "author_speaker": "Guru Nanak",
+    "type": "foundational_statement",
+    "context": "The opening and foundational statement of the entire scripture."
+  },
+
+  "meaning": {
+    "word_by_word": "Ik (One), Onkar (ultimate reality), Sat (truth), Naam (essence), Karta (creator), Purakh (being), Nirbhau (fearless), Nirvair (without enmity), Akaal (timeless), Ajooni (unborn), Saibhang (self-existent), Gur Prasad (known through grace)",
+    "overall": "Reality is one, eternal, fearless, beyond duality, and self-existent."
+  },
+
+  "interpretation": {
+    "traditional": "There is one eternal, formless God.",
+    "core_principle": "All existence is rooted in a single unified reality.",
+    "linguistic_note": "Each term defines a property of ultimate existence, not just a name."
+  },
+
+  "explanation": {
+    "simple": "There is one ultimate reality.",
+    "deep": "This is not a prayer it is a **definition of reality**. Before any teaching, system, or path, Guru Nanak establishes: reality is one, beyond fear, beyond division, beyond time. Everything else in the scripture explains how to understand this."
+  },
+
+  "reasoning": {
+    "logic": {
+      "premise": "Ultimate truth must be complete and independent.",
+      "observation": "It is described as timeless, fearless, self-existent.",
+      "conclusion": "Reality is absolute and unified."
+    },
+    "flow": "Unity → Truth → Creation → Timelessness → Realization"
+  },
+
+  "tension": {
+    "human_doubt": "Why define reality first?",
+    "resolution": "Because without knowing what is true, no path can be correct."
+  },
+
+  "contrast": {
+    "ignorance": "Seeing division and duality.",
+    "wisdom": "Recognizing unity."
+  },
+
+  "analogy": "Like defining the laws of a system before using it.",
+
+  "real_life": "Clarity about reality reduces fear and confusion.",
+
+  "practice": {
+    "actions": [
+      "See unity instead of division.",
+      "Act without fear or hatred.",
+      "Seek truth beyond appearances."
+    ],
+    "reflection_questions": [
+      "Do I see unity or separation?",
+      "What fears influence my actions?",
+      "What is truly constant?"
+    ]
+  },
+
+  "perspectives": {
+    "spiritual": "Reality is one and eternal.",
+    "philosophical": "Unity is the base of existence.",
+    "practical": "Clarity reduces confusion.",
+    "leadership": "Seeing unity improves judgment."
+  },
+
+  "cross_links": {
+    "similar_ideas": [
+      {
+        "text": "Rigveda",
+        "reference": "1.164.46",
+        "idea": "Truth is one, expressed in many ways."
+      },
+      {
+        "text": "Isha Upanishad",
+        "reference": "1.1",
+        "idea": "All existence is one reality."
+      },
+      {
+        "text": "Quran",
+        "reference": "112:1",
+        "idea": "God is One."
+      }
+    ]
+  },
+
+  "meta": {
+    "theme": "unity",
+    "mode": "absolute",
+    "duality": "non-dual",
+    "principle_strength": "absolute",
+    "difficulty": "advanced"
+  },
+
+  "insight": "Everything begins with unity division is a later perception."
+},
+
+{
+  "id": "gurbani_2",
+
+  "verse": {
+    "original_gurmukhi": "ਹੁਕਮੀ ਹੋਵਨਿ ਆਕਾਰ ਹੁਕਮੁ ਨ ਕਹਿਆ ਜਾਈ ॥ ਹੁਕਮੀ ਹੋਵਨਿ ਜੀਅ ਹੁਕਮਿ ਮਿਲੈ ਵਡਿਆਈ ॥ ਹੁਕਮੀ ਉਤਮੁ ਨੀਚੁ ਹੁਕਮਿ ਲਿਖਿ ਦੁਖ ਸੁਖ ਪਾਈਅਹਿ ॥ ਇਕਨਾ ਹੁਕਮੀ ਬਖਸੀਸ ਇਕਿ ਹੁਕਮੀ ਸਦਾ ਭਵਾਈਅਹਿ ॥ ਹੁਕਮੈ ਅੰਦਰਿ ਸਭੁ ਕੋ ਬਾਹਰਿ ਹੁਕਮ ਨ ਕੋਇ ॥ ਨਾਨਕ ਹੁਕਮੈ ਜੇ ਬੁਝੈ ਤ ਹਉਮੈ ਕਹੈ ਨ ਕੋਇ ॥੨॥",
+    "transliteration": "hukmee hovan aakaar hukam na kahiaa jaa-ee hukmee hovan jee-a hukam milai vadi-aa-ee hukmee utam neech hukam likh dukh sukh paa-ee-ah iknaa hukmee bakhsees ik hukmee sadaa bhavaa-ee-ah hukmai andar sabh ko baahar hukam na ko-ay naanak hukmai je bujhai ta haumai kahai na ko-ay",
+    "translation": "By Hukam (Divine Order), forms come into being; Hukam cannot be fully described. By Hukam, beings are created, and by Hukam, honor is obtained. By Hukam, some are high and some low; by Hukam, pain and pleasure are written. Some receive grace by Hukam, others wander endlessly. All are within Hukam nothing is outside it. O Nanak, one who understands Hukam does not speak in ego."
+  },
+
+  "source": {
+    "text": "Guru Granth Sahib",
+    "tradition": "Sikhism",
+    "author_speaker": "Guru Nanak",
+    "type": "universal_law",
+    "context": "Defines Hukam as the governing principle of all existence."
+  },
+
+  "meaning": {
+    "word_by_word": "hukam (divine order), aakaar (forms), jee-a (beings), vadi-aa-ee (honor), dukh/sukh (pain/pleasure), bakhsees (grace), haumai (ego)",
+    "overall": "Everything exists and functions within a universal order."
+  },
+
+  "interpretation": {
+    "traditional": "All creation and experience occur under Hukam.",
+    "core_principle": "Nothing exists outside universal order.",
+    "linguistic_note": "Hukam is not a command it is the law of reality itself."
+  },
+
+  "explanation": {
+    "simple": "Everything happens according to Hukam.",
+    "deep": "After asking how to reach truth (Verse 1), this verse explains reality: **everything is already governed by Hukam** creation, success, suffering, even grace. The illusion is thinking we are independent. Understanding Hukam dissolves ego (haumai)."
+  },
+
+  "reasoning": {
+    "logic": {
+      "premise": "A universal system governs existence.",
+      "observation": "All aspects of life follow Hukam.",
+      "conclusion": "Understanding this removes ego."
+    },
+    "flow": "Existence → Order → Awareness → Ego dissolution → Clarity"
+  },
+
+  "tension": {
+    "human_doubt": "If everything is Hukam, what is my role?",
+    "resolution": "To understand and align not to control."
+  },
+
+  "contrast": {
+    "ignorance": "Believing ‘I control everything’.",
+    "wisdom": "Recognizing a greater system."
+  },
+
+  "analogy": "Like living within laws of physics you don’t control them, but you can understand and work with them.",
+
+  "real_life": "Life becomes easier when you align with reality instead of resisting it.",
+
+  "practice": {
+    "actions": [
+      "Observe patterns instead of resisting.",
+      "Reduce ego-driven thinking.",
+      "Align actions with reality."
+    ],
+    "reflection_questions": [
+      "Where am I resisting reality?",
+      "Do I think I control everything?",
+      "What happens if I align?"
+    ]
+  },
+
+  "perspectives": {
+    "spiritual": "All existence flows within Hukam.",
+    "philosophical": "Reality operates through universal laws.",
+    "practical": "Understanding systems reduces struggle.",
+    "leadership": "Work with systems, not against them."
+  },
+
+  "cross_links": {
+    "similar_ideas": [
+      {
+        "text": "Rigveda",
+        "reference": "Ṛta",
+        "idea": "Cosmic order governs reality."
+      },
+      {
+        "text": "Bhagavad Gita",
+        "reference": "3.27",
+        "idea": "Nature performs actions; ego thinks it is the doer."
+      },
+      {
+        "text": "Quran",
+        "reference": "54:49",
+        "idea": "Everything is created with measure."
+      }
+    ]
+  },
+
+  "meta": {
+    "theme": "order",
+    "mode": "absolute",
+    "duality": "non-dual",
+    "principle_strength": "absolute",
+    "difficulty": "advanced"
+  },
+
+  "insight": "Understanding the universal order dissolves ego and brings clarity."
+},
+
+{
+  "id": "gurbani_3",
+
+  "verse": {
+    "original_gurmukhi": "ਗਾਵੈ ਕੋ ਤਾਣੁ ਹੋਵੈ ਕਿਸੈ ਤਾਣੁ ॥ ਗਾਵੈ ਕੋ ਦਾਤਿ ਜਾਣੈ ਨੀਸਾਣੁ ॥ ਗਾਵੈ ਕੋ ਗੁਣ ਵਡਿਆਈਆ ਚਾਰ ॥ ਗਾਵੈ ਕੋ ਵਿਦਿਆ ਵਿਖਮੁ ਵੀਚਾਰੁ ॥ ਗਾਵੈ ਕੋ ਸਾਜਿ ਕਰੇ ਤਨੁ ਖੇਹ ॥ ਗਾਵੈ ਕੋ ਜੀਅ ਲੈ ਫਿਰਿ ਦੇਹ ॥ ਗਾਵੈ ਕੋ ਜਾਪੈ ਦਿਸੈ ਦੂਰਿ ॥ ਗਾਵੈ ਕੋ ਵੇਖੈ ਹਾਦਰਾ ਹਦੂਰਿ ॥ ਕਥਨਾ ਕਥੀ ਨ ਆਵੈ ਤੋਟਿ ॥ ਕਥਿ ਕਥਿ ਕਥੀ ਕੋਟੀ ਕੋਟਿ ਕੋਟਿ ॥ ਦੇਦਾ ਦੇ ਲੈਦੇ ਥਕਿ ਪਾਹਿ ॥ ਜੁਗਾ ਜੁਗੰਤਰਿ ਖਾਹੀ ਖਾਹਿ ॥ ਹੁਕਮੀ ਹੁਕਮੁ ਚਲਾਏ ਰਾਹੁ ॥ ਨਾਨਕ ਵਿਗਸੈ ਵੇਪਰਵਾਹੁ ॥੩॥",
+    "transliteration": "gaavai ko taan hovai kisai taan gaavai ko daat jaanai neesaan gaavai ko gun vadi-aa-ee-aa chaar gaavai ko vidiaa vikham veechaar gaavai ko saaj kare tan kheh gaavai ko jee-a lai fir deh gaavai ko jaapai disai door gaavai ko vekhai haadraa hadoor kathnaa kathee na aavai tot kath kath kathee kotee kot kot dedaa de laide thak paahi jugaa jugantar khaahee khaahi hukmee hukam chalaae raahu naanak vigsai veparvaahu",
+    "translation": "Some sing of His power, others of His gifts. Some sing of His virtues and greatness, others of knowledge and deep reflection. Some sing of Him creating the body and reducing it to dust; others of Him taking life and giving it again. Some see Him far away, others see Him ever-present. Endless are the descriptions millions speak of Him, yet none can fully express Him. He keeps giving, while people tire of receiving. Through ages, He sustains all. By Hukam, He runs the path. O Nanak, the carefree One rejoices."
+  },
+
+  "source": {
+    "text": "Guru Granth Sahib",
+    "tradition": "Sikhism",
+    "author_speaker": "Guru Nanak",
+    "type": "limit_of_description",
+    "context": "Shows the infinite nature of reality and the limits of human description."
+  },
+
+  "meaning": {
+    "word_by_word": "gaavai (sing/praise), taan (power), daat (gift), gun (qualities), vidiaa (knowledge), hukam (order), veparvaah (carefree/independent)",
+    "overall": "Reality is infinite and cannot be fully described by human language or understanding."
+  },
+
+  "interpretation": {
+    "traditional": "People describe God in many ways, but none can fully express Him.",
+    "core_principle": "Infinite reality cannot be captured by limited perception.",
+    "linguistic_note": "Repetition of 'gaavai ko' emphasizes diversity of perspectives."
+  },
+
+  "explanation": {
+    "simple": "People describe reality in many ways, but it cannot be fully described.",
+    "deep": "This verse expands beyond Hukam into **infinity**. Different people perceive different aspects power, knowledge, creation, presence. All are partially true, but none are complete. Reality is infinite, while human understanding is limited. Even continuous explanation (‘koti kot’) cannot exhaust it."
+  },
+
+  "reasoning": {
+    "logic": {
+      "premise": "Finite minds cannot fully grasp infinite reality.",
+      "observation": "People describe reality differently.",
+      "conclusion": "All descriptions are partial."
+    },
+    "flow": "Reality → Perception → Expression → Limitation → Humility"
+  },
+
+  "tension": {
+    "human_doubt": "If reality cannot be fully known, what is the point of seeking?",
+    "resolution": "To understand progressively, not completely."
+  },
+
+  "contrast": {
+    "ignorance": "Believing one view is complete truth.",
+    "wisdom": "Recognizing limits of understanding."
+  },
+
+  "analogy": "Like trying to describe the ocean with a single cup of water.",
+
+  "real_life": "Different perspectives can all hold partial truth.",
+
+  "practice": {
+    "actions": [
+      "Stay open to multiple perspectives.",
+      "Avoid claiming absolute knowledge.",
+      "Seek deeper understanding with humility."
+    ],
+    "reflection_questions": [
+      "Do I think I know everything?",
+      "Am I open to other views?",
+      "Where are my limits?"
+    ]
+  },
+
+  "perspectives": {
+    "spiritual": "Reality is infinite.",
+    "philosophical": "Knowledge is always partial.",
+    "practical": "Humility improves learning.",
+    "leadership": "Multiple perspectives strengthen decisions."
+  },
+
+  "cross_links": {
+    "similar_ideas": [
+      {
+        "text": "Rigveda",
+        "reference": "1.164.46",
+        "idea": "Truth is one, expressed in many ways."
+      },
+      {
+        "text": "Isha Upanishad",
+        "reference": "1.4",
+        "idea": "Reality is beyond full comprehension."
+      },
+      {
+        "text": "Quran",
+        "reference": "18:109",
+        "idea": "Words cannot exhaust the knowledge of God."
+      }
+    ]
+  },
+
+  "meta": {
+    "theme": "infinity",
+    "mode": "absolute",
+    "duality": "non-dual",
+    "principle_strength": "absolute",
+    "difficulty": "advanced"
+  },
+
+  "insight": "Reality is infinite every description is only a partial view."
+},
+
+{
+  "id": "gurbani_4",
+
+  "verse": {
+    "original_gurmukhi": "ਸਾਚਾ ਸਾਹਿਬੁ ਸਾਚੁ ਨਾਇ ਭਾਖਿਆ ਭਾਉ ਅਪਾਰੁ ॥ ਆਖਹਿ ਮੰਗਹਿ ਦੇਹਿ ਦੇਹਿ ਦਾਤਿ ਕਰੇ ਦਾਤਾਰੁ ॥ ਫੇਰਿ ਕਿ ਅਗੈ ਰਖੀਐ ਜਿਤੁ ਦਿਸੈ ਦਰਬਾਰੁ ॥ ਮੁਹੌ ਕਿ ਬੋਲਣੁ ਬੋਲੀਐ ਜਿਤੁ ਸੁਣਿ ਧਰੇ ਪਿਆਰੁ ॥ ਅੰਮ੍ਰਿਤ ਵੇਲਾ ਸਚੁ ਨਾਉ ਵਡਿਆਈ ਵੀਚਾਰੁ ॥ ਕਰਮੀ ਆਵੈ ਕਪੜਾ ਨਦਰੀ ਮੋਖੁ ਦੁਆਰੁ ॥ ਨਾਨਕ ਏਵੈ ਜਾਣੀਐ ਸਭੁ ਆਪੇ ਸਚਿਆਰੁ ॥੪॥",
+    "transliteration": "saachaa saahib saach naa-ay bhaakhiaa bhaao apaar aakhahi mangahi deh deh daat kare daataar fer ki agai rakhee-ai jit disai darbaar muho ki bolan bolee-ai jit sun dhare pi-aar amrit velaa sach naa-o vadi-aa-ee veechaar karmee aavai kaprhaa nadree mokh du-aar naanak evai jaanee-ai sabh aape sachiaar",
+    "translation": "True is the Master, True is His Name; speak with infinite love. People ask and receive, for the Giver keeps giving. What offering can we place before Him to behold His Court? What words can we speak to earn His love? In the ambrosial hours, meditate on the True Name and reflect on His greatness. By actions one receives the body, by grace the gate of liberation is found. O Nanak, thus know that the True One is all by Himself."
+  },
+
+  "source": {
+    "text": "Guru Granth Sahib",
+    "tradition": "Sikhism",
+    "author_speaker": "Guru Nanak",
+    "type": "practice_guidance",
+    "context": "Moves from understanding reality to how one should live and connect with it."
+  },
+
+  "meaning": {
+    "word_by_word": "saach (truth), naam (essence), bhao (love), daataar (giver), amrit velaa (early ambrosial time), nadar (grace), mokh (liberation)",
+    "overall": "Truth is realized through love, remembrance, reflection, and grace."
+  },
+
+  "interpretation": {
+    "traditional": "Meditate on the Divine Name with love, especially in early hours, and seek grace.",
+    "core_principle": "Connection requires love, awareness, and grace not just effort.",
+    "linguistic_note": "'Amrit Vela' signifies a state of clarity, not just a time of day."
+  },
+
+  "explanation": {
+    "simple": "Speak with love, remember truth, and seek grace.",
+    "deep": "After defining reality and its infinity, this verse gives **method**: not control, but **love (bhaav), remembrance (naam), reflection (vichaar), and grace (nadar)**. Effort gives you life (‘kaprha’), but liberation comes through grace. This balances effort and surrender."
+  },
+
+  "reasoning": {
+    "logic": {
+      "premise": "Infinite reality cannot be controlled.",
+      "observation": "Love and remembrance create connection.",
+      "conclusion": "Grace completes what effort cannot."
+    },
+    "flow": "Awareness → Love → Practice → Grace → Liberation"
+  },
+
+  "tension": {
+    "human_doubt": "If grace is needed, what is the role of effort?",
+    "resolution": "Effort prepares; grace completes."
+  },
+
+  "contrast": {
+    "ignorance": "Trying to force outcomes.",
+    "wisdom": "Balancing effort with surrender."
+  },
+
+  "analogy": "Like preparing the field (effort) but needing rain (grace) for growth.",
+
+  "real_life": "Hard work matters, but results often depend on factors beyond control.",
+
+  "practice": {
+    "actions": [
+      "Start your day with clarity and reflection.",
+      "Act with love and sincerity.",
+      "Accept outcomes with humility."
+    ],
+    "reflection_questions": [
+      "Do I act with love or ego?",
+      "Am I aware or mechanical?",
+      "Can I accept what I cannot control?"
+    ]
+  },
+
+  "perspectives": {
+    "spiritual": "Grace completes the path.",
+    "philosophical": "Effort and surrender must balance.",
+    "practical": "Consistency + humility leads to growth.",
+    "leadership": "Do your best, accept uncertainty."
+  },
+
+  "cross_links": {
+    "similar_ideas": [
+      {
+        "text": "Bhagavad Gita",
+        "reference": "2.47",
+        "idea": "Focus on action, not results."
+      },
+      {
+        "text": "Rigveda",
+        "reference": "1.1",
+        "idea": "Transformation leads to connection."
+      },
+      {
+        "text": "Quran",
+        "reference": "13:28",
+        "idea": "Hearts find peace in remembrance."
+      }
+    ]
+  },
+
+  "meta": {
+    "theme": "practice",
+    "mode": "absolute",
+    "duality": "non-dual",
+    "principle_strength": "absolute",
+    "difficulty": "intermediate"
+  },
+
+  "insight": "Effort prepares the path but grace completes it."
+},
+
+{
+  "id": "gurbani_5",
+
+  "verse": {
+    "original_gurmukhi": "ਥਾਪਿਆ ਨ ਜਾਇ ਕੀਤਾ ਨ ਹੋਇ ॥ ਆਪੇ ਆਪਿ ਨਿਰੰਜਨੁ ਸੋਇ ॥ ਜਿਨਿ ਸੇਵਿਆ ਤਿਨਿ ਪਾਇਆ ਮਾਨੁ ॥ ਨਾਨਕ ਗਾਵੀਐ ਗੁਣੀ ਨਿਧਾਨੁ ॥ ਗਾਵੀਐ ਸੁਣੀਐ ਮਨਿ ਰਖੀਐ ਭਾਉ ॥ ਦੁਖੁ ਪਰਹਰਿ ਸੁਖੁ ਘਰਿ ਲੈ ਜਾਇ ॥ ਗੁਰਮੁਖਿ ਨਾਦੰ ਗੁਰਮੁਖਿ ਵੇਦੰ ਗੁਰਮੁਖਿ ਰਹਿਆ ਸਮਾਈ ॥ ਗੁਰੁ ਈਸਰੁ ਗੁਰੁ ਗੋਰਖੁ ਬਰਮਾ ਗੁਰੁ ਪਾਰਬਤੀ ਮਾਈ ॥ ਜੇ ਹਉ ਜਾਣਾ ਆਖਾ ਨਾਹੀ ਕਹਣਾ ਕਥਨੁ ਨ ਜਾਈ ॥ ਗੁਰਾ ਇਕ ਦੇਹਿ ਬੁਝਾਈ ॥ ਸਭਨਾ ਜੀਆ ਕਾ ਇਕੁ ਦਾਤਾ ਸੋ ਮੈ ਵਿਸਰਿ ਨ ਜਾਈ ॥੫॥",
+    "transliteration": "thaapiaa na jaa-ay keetaa na ho-ay aape aap niranjan so-ay jin seviaa tin paaiaa maan naanak gaavee-ai gunee nidhaan gaavee-ai sunee-ai man rakhee-ai bhaao dukh parhar sukh ghar lai jaa-ay gurmukh naadam gurmukh vedam gurmukh rahiaa samaa-ee gur eesar gur gorakh barmaa gur paarbatee maa-ee je hau jaanaa aakhaa naahee kahnaa kathan na jaa-ee guraa ik deh bujhaa-ee sabhnaa jeeaa kaa ik daataa so mai visar na jaa-ee",
+    "translation": "He cannot be established, nor can He be created; He exists by Himself, pure and untouched. Those who serve Him are honored. O Nanak, sing the praises of the treasure of virtues. By singing, listening, and keeping love in the mind, suffering departs and peace comes. Through the Guru, divine sound and knowledge are realized; through the Guru, one merges into the truth. The Guru is Shiva, Vishnu, Brahma, Parvati all forms of wisdom. Even if I knew, I could not fully express it. O Guru, give me understanding. There is one giver for all beings may I never forget Him."
+  },
+
+  "source": {
+    "text": "Guru Granth Sahib",
+    "tradition": "Sikhism",
+    "author_speaker": "Guru Nanak",
+    "type": "realization_path",
+    "context": "Explains the role of the Guru and the method of internalizing truth."
+  },
+
+  "meaning": {
+    "word_by_word": "niranjan (pure), seviaa (serve), maan (honor), gunee nidhaan (treasure of virtues), gurmukh (guided by Guru), naad (divine sound), ved (knowledge), daataa (giver)",
+    "overall": "Truth is realized through the Guru, devotion, and internalization of divine qualities."
+  },
+
+  "interpretation": {
+    "traditional": "The Guru is the medium through which divine knowledge and realization occur.",
+    "core_principle": "Guidance and internalization lead to transformation.",
+    "linguistic_note": "'Gurmukh' means one oriented toward the Guru aligned with truth."
+  },
+
+  "explanation": {
+    "simple": "Through the Guru, one understands truth and finds peace.",
+    "deep": "This verse introduces the **Guru as the bridge**. Not a person alone, but a **principle of guidance and illumination**. Singing (expression), listening (absorption), and love (internalization) create transformation. Knowledge is not external it becomes lived reality through alignment with the Guru."
+  },
+
+  "reasoning": {
+    "logic": {
+      "premise": "Infinite truth cannot be understood alone.",
+      "observation": "The Guru provides understanding and connection.",
+      "conclusion": "Guided alignment leads to realization."
+    },
+    "flow": "Guidance → Practice → Understanding → Internalization → Peace"
+  },
+
+  "tension": {
+    "human_doubt": "Why is a Guru needed?",
+    "resolution": "Because self-driven understanding is limited without guidance."
+  },
+
+  "contrast": {
+    "ignorance": "Relying only on personal understanding.",
+    "wisdom": "Seeking and following guidance."
+  },
+
+  "analogy": "Like needing a teacher to understand a complex system.",
+
+  "real_life": "Mentorship and guidance accelerate growth and clarity.",
+
+  "practice": {
+    "actions": [
+      "Learn from authentic sources.",
+      "Reflect deeply on knowledge.",
+      "Internalize values, not just information."
+    ],
+    "reflection_questions": [
+      "Who or what guides me?",
+      "Do I apply what I learn?",
+      "Am I truly understanding or just collecting knowledge?"
+    ]
+  },
+
+  "perspectives": {
+    "spiritual": "The Guru connects to truth.",
+    "philosophical": "Knowledge requires guidance.",
+    "practical": "Learning needs direction.",
+    "leadership": "Guided growth is faster and deeper."
+  },
+
+  "cross_links": {
+    "similar_ideas": [
+      {
+        "text": "Rigveda",
+        "reference": "1.1",
+        "idea": "Agni acts as the guiding force."
+      },
+      {
+        "text": "Bhagavad Gita",
+        "reference": "4.34",
+        "idea": "Approach a teacher for knowledge."
+      },
+      {
+        "text": "Quran",
+        "reference": "16:43",
+        "idea": "Ask those who know."
+      }
+    ]
+  },
+
+  "meta": {
+    "theme": "guidance",
+    "mode": "absolute",
+    "duality": "non-dual",
+    "principle_strength": "absolute",
+    "difficulty": "intermediate"
+  },
+
+  "insight": "True understanding comes through guidance, practice, and internalization."
+},
+
+{
+  "id": "gurbani_6",
+
+  "verse": {
+    "original_gurmukhi": "ਤੀਰਥਿ ਨਾਵਾ ਜੇ ਤਿਸੁ ਭਾਵਾ ਵਿਣੁ ਭਾਣੇ ਕਿ ਨਾਇ ਕਰੀ ॥ ਜੇਤੀ ਸਿਰਠਿ ਉਪਾਈ ਵੇਖਾ ਵਿਣੁ ਕਰਮਾ ਕਿ ਮਿਲੈ ਲਈ ॥ ਮਤਿ ਵਿਚਿ ਰਤਨ ਜਵਾਹਰ ਮਾਣਿਕ ਜੇ ਇਕ ਗੁਰ ਕੀ ਸਿਖ ਸੁਣੀ ॥ ਗੁਰਾ ਇਕ ਦੇਹਿ ਬੁਝਾਈ ॥ ਸਭਨਾ ਜੀਆ ਕਾ ਇਕੁ ਦਾਤਾ ਸੋ ਮੈ ਵਿਸਰਿ ਨ ਜਾਈ ॥੬॥",
+    "transliteration": "tirath naavaa je tis bhaavaa vin bhaane ke naa-e karee jetee sirath upaa-ee vekhaa vin karmaa ke milai la-ee mat vich ratn javaahar maanik je ik gur kee sikh sunee guraa ik deh bujhaa-ee sabhnaa jeeaa kaa ik daataa so mai visar na jaa-ee",
+    "translation": "Pilgrimage bathing is meaningful only if it pleases Him; without His will, what is the use of it? I see all creation without right actions, nothing is obtained. Within the mind are jewels and treasures, if one listens to the Guru’s teaching. O Guru, give me understanding. There is one giver for all beings may I never forget Him."
+  },
+
+  "source": {
+    "text": "Guru Granth Sahib",
+    "tradition": "Sikhism",
+    "author_speaker": "Guru Nanak",
+    "type": "inner_realization",
+    "context": "Rejects empty rituals and emphasizes inner transformation through understanding."
+  },
+
+  "meaning": {
+    "word_by_word": "tirath (pilgrimage), bhaanaa (divine will), karmaa (actions), mat (mind/intellect), ratn (jewels), gur sikh (Guru’s teaching), daataa (giver)",
+    "overall": "External rituals are meaningless without inner alignment and understanding."
+  },
+
+  "interpretation": {
+    "traditional": "Rituals alone do not lead to realization; inner transformation is essential.",
+    "core_principle": "Inner understanding matters more than external action.",
+    "linguistic_note": "'Mat vich ratn' indicates that truth already exists within the mind."
+  },
+
+  "explanation": {
+    "simple": "Rituals don’t work without understanding.",
+    "deep": "This verse dismantles **ritualism**. Actions like pilgrimage have no value unless aligned with truth. The real treasure is inside (‘ratn’), but it is unlocked through understanding the Guru’s teaching. This shifts focus from **external practice → internal realization**."
+  },
+
+  "reasoning": {
+    "logic": {
+      "premise": "External actions alone do not change inner state.",
+      "observation": "Truth exists within but requires understanding.",
+      "conclusion": "Inner transformation is necessary for realization."
+    },
+    "flow": "Action → Reflection → Understanding → Inner change → Realization"
+  },
+
+  "tension": {
+    "human_doubt": "If rituals don’t work, why do people follow them?",
+    "resolution": "Because they mistake outer action for inner transformation."
+  },
+
+  "contrast": {
+    "ignorance": "Focusing only on external practices.",
+    "wisdom": "Developing inner understanding."
+  },
+
+  "analogy": "Like cleaning the outside of a container while the inside remains dirty.",
+
+  "real_life": "Real change happens internally, not just through visible actions.",
+
+  "practice": {
+    "actions": [
+      "Focus on inner growth.",
+      "Understand before practicing.",
+      "Align actions with awareness."
+    ],
+    "reflection_questions": [
+      "Am I just performing or truly understanding?",
+      "What is happening inside me?",
+      "Where is my focus outer or inner?"
+    ]
+  },
+
+  "perspectives": {
+    "spiritual": "Inner realization matters more than rituals.",
+    "philosophical": "Truth exists within.",
+    "practical": "Understanding leads to meaningful action.",
+    "leadership": "Substance over appearance."
+  },
+
+  "cross_links": {
+    "similar_ideas": [
+      {
+        "text": "Isha Upanishad",
+        "reference": "1.9",
+        "idea": "Ignorance of truth leads to darkness."
+      },
+      {
+        "text": "Bhagavad Gita",
+        "reference": "6.5",
+        "idea": "Self must elevate itself."
+      },
+      {
+        "text": "Quran",
+        "reference": "2:177",
+        "idea": "Righteousness is not in rituals but in inner truth."
+      }
+    ]
+  },
+
+  "meta": {
+    "theme": "inner_transformation",
+    "mode": "absolute",
+    "duality": "non-dual",
+    "principle_strength": "absolute",
+    "difficulty": "intermediate"
+  },
+
+  "insight": "Outer actions are empty without inner understanding and alignment."
+},
+
+{
+  "id": "gurbani_7",
+
+  "verse": {
+    "original_gurmukhi": "ਜੇ ਜੁਗ ਚਾਰੇ ਆਰਜਾ ਹੋਰ ਦਸੂਣੀ ਹੋਇ ॥ ਨਵਾ ਖੰਡਾ ਵਿਚਿ ਜਾਣੀਐ ਨਾਲਿ ਚਲੈ ਸਭੁ ਕੋਇ ॥ ਚੰਗਾ ਨਾਉ ਰਖਾਇ ਕੈ ਜਸੁ ਕੀਰਤਿ ਜਗਿ ਲੇਇ ॥ ਜੇ ਤਿਸੁ ਨਦਰਿ ਨ ਆਵਈ ਤ ਵਾਤ ਨ ਪੁਛੈ ਕੇ ॥ ਕੀਟਾ ਅੰਦਰਿ ਕੀਟੁ ਕਰਿ ਦੋਸੀ ਦੋਸੁ ਧਰੇ ॥ ਨਾਨਕ ਨਿਰਗੁਣਿ ਗੁਣੁ ਕਰੇ ਗੁਣਵੰਤਿਆ ਗੁਣੁ ਦੇ ॥ ਤੇਹਾ ਕੋਇ ਨ ਸੁਝਈ ਜਿ ਤਿਸੁ ਗੁਣੁ ਕੋਇ ਕਰੇ ॥੭॥",
+    "transliteration": "je jug chaare aarjaa hor dasoonee ho-ay navaa khandaa vich jaanee-ai naal chalai sabh ko-ay changaa naa-o rakhaa-ay kai jas keerat jag le-ay je tis nadar na aavee ta vaat na puchhai ke keetaa andar keet kar dosee dos dhare naanak nirgun gun kare gunvanti-aa gun de tehaa ko-ay na sujh-ee je tis gun ko-ay kare",
+    "translation": "Even if one were to live through the four ages, or even ten times longer; even if one were known across all regions and followed by all; even if one gained a great reputation and fame throughout the world if one does not receive His grace, no one will care in the end. Like a worm among worms, one is considered insignificant. O Nanak, the One blesses the unworthy with virtue and grants virtue to the virtuous. No one can bestow qualities upon Him."
+  },
+
+  "source": {
+    "text": "Guru Granth Sahib",
+    "tradition": "Sikhism",
+    "author_speaker": "Guru Nanak",
+    "type": "ego_dissolution",
+    "context": "Explains the limits of worldly success and the importance of divine grace."
+  },
+
+  "meaning": {
+    "word_by_word": "aarjaa (lifespan), naa-o (name/reputation), nadar (grace), keet (worm), nirgun (without qualities), gun (virtue)",
+    "overall": "Worldly success is meaningless without grace and inner worth."
+  },
+
+  "interpretation": {
+    "traditional": "Fame, status, and long life have no value without divine grace.",
+    "core_principle": "External success does not define true worth.",
+    "linguistic_note": "'Nadar' (grace) is central it determines true value beyond worldly metrics."
+  },
+
+  "explanation": {
+    "simple": "Fame and success don’t matter without grace.",
+    "deep": "This verse attacks **ego through achievement**. Even maximum success long life, fame, influence becomes meaningless without connection to truth (grace). True value is not self-made; it is recognized through alignment. The verse also flips hierarchy: the One gives value even to the ‘unworthy’."
+  },
+
+  "reasoning": {
+    "logic": {
+      "premise": "Worldly success is temporary.",
+      "observation": "Recognition depends on deeper alignment (grace).",
+      "conclusion": "True worth is not defined by external success."
+    },
+    "flow": "Achievement → Ego → Impermanence → Grace → True value"
+  },
+
+  "tension": {
+    "human_doubt": "If success doesn’t matter, why strive?",
+    "resolution": "Strive for alignment, not ego-driven recognition."
+  },
+
+  "contrast": {
+    "ignorance": "Measuring life by fame and status.",
+    "wisdom": "Measuring life by inner value and alignment."
+  },
+
+  "analogy": "Like building a huge structure on weak foundation it collapses without support.",
+
+  "real_life": "Recognition without substance does not last.",
+
+  "practice": {
+    "actions": [
+      "Focus on inner growth over external validation.",
+      "Detach from ego-driven success.",
+      "Seek alignment with truth."
+    ],
+    "reflection_questions": [
+      "Do I seek validation or truth?",
+      "What defines my worth?",
+      "Am I building substance or image?"
+    ]
+  },
+
+  "perspectives": {
+    "spiritual": "Grace defines true value.",
+    "philosophical": "External success is temporary.",
+    "practical": "Substance matters more than image.",
+    "leadership": "Integrity over reputation."
+  },
+
+  "cross_links": {
+    "similar_ideas": [
+      {
+        "text": "Bhagavad Gita",
+        "reference": "2.71",
+        "idea": "Freedom comes from detachment."
+      },
+      {
+        "text": "Dhammapada",
+        "reference": "1.9",
+        "idea": "Fame without wisdom is empty."
+      },
+      {
+        "text": "Bible",
+        "reference": "Matthew 16:26",
+        "idea": "What does it profit to gain the world but lose the soul?"
+      }
+    ]
+  },
+
+  "meta": {
+    "theme": "ego",
+    "mode": "absolute",
+    "duality": "non-dual",
+    "principle_strength": "absolute",
+    "difficulty": "intermediate"
+  },
+
+  "insight": "Without grace and inner alignment, even the greatest success becomes meaningless."
+},
+
+{
+  "id": "gurbani_8",
+
+  "verse": {
+    "original_gurmukhi": "ਸੁਣਿਐ ਸਿਧ ਪੀਰ ਸੁਰਿ ਨਾਥ ॥ ਸੁਣਿਐ ਧਰਤਿ ਧਵਲ ਆਕਾਸ ॥ ਸੁਣਿਐ ਦੀਪ ਲੋਅ ਪਾਤਾਲ ॥ ਸੁਣਿਐ ਪੋਹਿ ਨ ਸਕੈ ਕਾਲੁ ॥ ਨਾਨਕ ਭਗਤਾ ਸਦਾ ਵਿਗਾਸੁ ॥ ਸੁਣਿਐ ਦੂਖ ਪਾਪ ਕਾ ਨਾਸੁ ॥੮॥",
+    "transliteration": "suniai sidh peer sur naath suniai dharat dhaval aakaas suniai deep lo-a paataal suniai poh na sakai kaal naanak bhagtaa sadaa vigaas suniai dookh paap kaa naas",
+    "translation": "By listening (deeply), one attains the status of the Siddhas, Pirs, and spiritual leaders. By listening, one understands the earth, the supporting power, and the heavens. By listening, one realizes the worlds and the underworlds. By listening, death cannot touch. O Nanak, devotees remain in bliss; by listening, suffering and sin are destroyed."
+  },
+
+  "source": {
+    "text": "Guru Granth Sahib",
+    "tradition": "Sikhism",
+    "author_speaker": "Guru Nanak",
+    "type": "practice_deepening",
+    "context": "Introduces 'Suniai' (deep listening) as a transformative spiritual practice."
+  },
+
+  "meaning": {
+    "word_by_word": "suniai (listening), sidh (perfected beings), peer (spiritual guides), naath (masters), kaal (death/time), vigaas (bliss)",
+    "overall": "Deep listening leads to understanding, transformation, and freedom from suffering."
+  },
+
+  "interpretation": {
+    "traditional": "Listening to divine truth leads to spiritual elevation and liberation.",
+    "core_principle": "True listening transforms consciousness.",
+    "linguistic_note": "'Suniai' implies not just hearing but deep absorption and awareness."
+  },
+
+  "explanation": {
+    "simple": "Deep listening brings understanding and peace.",
+    "deep": "This verse introduces **Suniai (deep listening)** as a core practice. Not passive hearing, but **total absorption**. Through this, knowledge becomes experience. Fear (death), suffering, and confusion begin to dissolve because reality is directly understood."
+  },
+
+  "reasoning": {
+    "logic": {
+      "premise": "Understanding requires more than surface knowledge.",
+      "observation": "Deep listening leads to insight.",
+      "conclusion": "Absorption transforms awareness."
+    },
+    "flow": "Listening → Absorption → Understanding → Transformation → Freedom"
+  },
+
+  "tension": {
+    "human_doubt": "How can just listening create such change?",
+    "resolution": "Because true listening changes perception, not just information."
+  },
+
+  "contrast": {
+    "ignorance": "Hearing without understanding.",
+    "wisdom": "Listening with full awareness."
+  },
+
+  "analogy": "Like truly understanding a concept instead of just memorizing it.",
+
+  "real_life": "Deep listening improves learning, relationships, and clarity.",
+
+  "practice": {
+    "actions": [
+      "Listen fully without distraction.",
+      "Absorb meaning, not just words.",
+      "Reflect on what you hear."
+    ],
+    "reflection_questions": [
+      "Do I really listen or just hear?",
+      "Am I present when learning?",
+      "What did I truly understand today?"
+    ]
+  },
+
+  "perspectives": {
+    "spiritual": "Listening connects to truth.",
+    "philosophical": "Awareness comes through attention.",
+    "practical": "Better listening improves understanding.",
+    "leadership": "Listening builds insight and trust."
+  },
+
+  "cross_links": {
+    "similar_ideas": [
+      {
+        "text": "Upanishads",
+        "reference": "Shravana",
+        "idea": "Listening is the first step of knowledge."
+      },
+      {
+        "text": "Dhammapada",
+        "reference": "1.1",
+        "idea": "Awareness shapes reality."
+      },
+      {
+        "text": "Bible",
+        "reference": "Romans 10:17",
+        "idea": "Faith comes by hearing."
+      }
+    ]
+  },
+
+  "meta": {
+    "theme": "listening",
+    "mode": "absolute",
+    "duality": "non-dual",
+    "principle_strength": "absolute",
+    "difficulty": "intermediate"
+  },
+
+  "insight": "True listening transforms knowledge into direct experience."
+},
+
+{
+  "id": "gurbani_9",
+
+  "verse": {
+    "original_gurmukhi": "ਸੁਣਿਐ ਈਸਰੁ ਬਰਮਾ ਇੰਦੁ ॥ ਸੁਣਿਐ ਮੁਖਿ ਸਾਲਾਹਣ ਮੰਦੁ ॥ ਸੁਣਿਐ ਜੋਗ ਜੁਗਤਿ ਤਨਿ ਭੇਦ ॥ ਸੁਣਿਐ ਸਾਸਤ ਸਿਮ੍ਰਿਤਿ ਵੇਦ ॥ ਨਾਨਕ ਭਗਤਾ ਸਦਾ ਵਿਗਾਸੁ ॥ ਸੁਣਿਐ ਦੂਖ ਪਾਪ ਕਾ ਨਾਸੁ ॥੯॥",
+    "transliteration": "suniai eesar barmaa ind suniai mukh saalaahan mand suniai jog jugat tan bhed suniai saasat simrit ved naanak bhagtaa sadaa vigaas suniai dookh paap kaa naas",
+    "translation": "By listening, one understands Shiva, Brahma, Indra. By listening, even the ignorant begin to praise. By listening, one learns the ways of yoga and the secrets of the body. By listening, one understands scriptures like the Shastras, Smritis, and Vedas. O Nanak, devotees remain in bliss; by listening, suffering and sin are destroyed."
+  },
+
+  "source": {
+    "text": "Guru Granth Sahib",
+    "tradition": "Sikhism",
+    "author_speaker": "Guru Nanak",
+    "type": "practice_deepening",
+    "context": "Expands the power of 'Suniai' (deep listening) across knowledge, spirituality, and transformation."
+  },
+
+  "meaning": {
+    "word_by_word": "suniai (deep listening), eesar (Shiva), barmaa (Brahma), ind (Indra), jog (union/practice), ved (knowledge texts)",
+    "overall": "Deep listening unlocks understanding across all levels divine, intellectual, and experiential."
+  },
+
+  "interpretation": {
+    "traditional": "Listening to divine truth leads to knowledge of scriptures and realization of deeper truths.",
+    "core_principle": "True listening unlocks all forms of knowledge.",
+    "linguistic_note": "Repetition of 'suniai' reinforces it as a central transformative practice."
+  },
+
+  "explanation": {
+    "simple": "Deep listening leads to knowledge and understanding.",
+    "deep": "This verse expands Suniai from experience to **total knowledge access**. It includes divine understanding (deities), intellectual knowledge (scriptures), and experiential insight (yoga, body). Even the ignorant become aware. Listening is shown as a **gateway to all dimensions of knowledge**."
+  },
+
+  "reasoning": {
+    "logic": {
+      "premise": "Knowledge requires proper reception.",
+      "observation": "Deep listening enables understanding across domains.",
+      "conclusion": "Listening is foundational to all learning and realization."
+    },
+    "flow": "Listening → Understanding → Knowledge → Insight → Transformation"
+  },
+
+  "tension": {
+    "human_doubt": "Can listening alone lead to knowledge?",
+    "resolution": "When listening becomes deep awareness, it transforms perception and understanding."
+  },
+
+  "contrast": {
+    "ignorance": "Passive hearing without attention.",
+    "wisdom": "Active, aware listening leading to insight."
+  },
+
+  "analogy": "Like tuning into a signal clearly to receive full information.",
+
+  "real_life": "Good listeners learn faster and understand deeper.",
+
+  "practice": {
+    "actions": [
+      "Listen actively and attentively.",
+      "Seek meaning beyond words.",
+      "Reflect on what you hear."
+    ],
+    "reflection_questions": [
+      "Do I truly understand what I hear?",
+      "Am I attentive while learning?",
+      "What deeper meaning did I grasp?"
+    ]
+  },
+
+  "perspectives": {
+    "spiritual": "Listening reveals divine truth.",
+    "philosophical": "Understanding begins with awareness.",
+    "practical": "Listening improves learning.",
+    "leadership": "Insight comes from listening."
+  },
+
+  "cross_links": {
+    "similar_ideas": [
+      {
+        "text": "Upanishads",
+        "reference": "Shravana",
+        "idea": "Listening is the first step of knowledge."
+      },
+      {
+        "text": "Dhammapada",
+        "reference": "1.1",
+        "idea": "Mind shapes understanding."
+      },
+      {
+        "text": "Bible",
+        "reference": "James 1:19",
+        "idea": "Be quick to listen, slow to speak."
+      }
+    ]
+  },
+
+  "meta": {
+    "theme": "listening",
+    "mode": "absolute",
+    "duality": "non-dual",
+    "principle_strength": "absolute",
+    "difficulty": "intermediate"
+  },
+
+  "insight": "Deep listening is the gateway to all knowledge and transformation."
+},
+
+{
+  "id": "gurbani_10",
+
+  "verse": {
+    "original_gurmukhi": "ਸੁਣਿਐ ਸਤੁ ਸੰਤੋਖੁ ਗਿਆਨੁ ॥ ਸੁਣਿਐ ਅਠਸਠਿ ਕਾ ਇਸਨਾਨੁ ॥ ਸੁਣਿਐ ਪੜਿ ਪੜਿ ਪਾਵਹਿ ਮਾਨੁ ॥ ਸੁਣਿਐ ਲਾਗੈ ਸਹਜਿ ਧਿਆਨੁ ॥ ਨਾਨਕ ਭਗਤਾ ਸਦਾ ਵਿਗਾਸੁ ॥ ਸੁਣਿਐ ਦੂਖ ਪਾਪ ਕਾ ਨਾਸੁ ॥੧੦॥",
+    "transliteration": "suniai sat santokh gi-aan suniai athsath kaa isnaan suniai parh parh paaveh maan suniai laagai sahaj dhiaan naanak bhagtaa sadaa vigaas suniai dookh paap kaa naas",
+    "translation": "By listening, truth, contentment, and knowledge arise. By listening, one gains the merit of sacred pilgrimages. By listening, one earns honor through understanding. By listening, meditation comes naturally. O Nanak, devotees remain in bliss; by listening, suffering and sin are destroyed."
+  },
+
+  "source": {
+    "text": "Guru Granth Sahib",
+    "tradition": "Sikhism",
+    "author_speaker": "Guru Nanak",
+    "type": "practice_completion",
+    "context": "Completes the section on 'Suniai' (deep listening), showing its full transformative effects."
+  },
+
+  "meaning": {
+    "word_by_word": "suniai (deep listening), sat (truth), santokh (contentment), gyaan (knowledge), isnaan (purification), sahaj (natural state), dhiaan (meditation)",
+    "overall": "Deep listening naturally produces truth, contentment, knowledge, and inner stability."
+  },
+
+  "interpretation": {
+    "traditional": "Listening to divine truth brings virtues, purity, and natural meditation.",
+    "core_principle": "Right absorption leads to natural transformation.",
+    "linguistic_note": "'Sahaj dhiaan' indicates effortless meditation not forced practice."
+  },
+
+  "explanation": {
+    "simple": "Deep listening brings truth, peace, and understanding.",
+    "deep": "This verse completes the **Suniai cycle**. Listening leads to inner virtues (truth, contentment), replaces rituals (pilgrimage), builds understanding, and finally results in **effortless meditation (sahaj)**. Transformation becomes natural not forced."
+  },
+
+  "reasoning": {
+    "logic": {
+      "premise": "Proper input shapes internal state.",
+      "observation": "Deep listening produces virtues and clarity.",
+      "conclusion": "Transformation becomes natural through right absorption."
+    },
+    "flow": "Listening → Absorption → Virtues → Stability → Natural meditation"
+  },
+
+  "tension": {
+    "human_doubt": "Why does meditation feel difficult?",
+    "resolution": "Because it is forced without proper understanding and absorption."
+  },
+
+  "contrast": {
+    "ignorance": "Forcing practices without understanding.",
+    "wisdom": "Allowing transformation through awareness."
+  },
+
+  "analogy": "Like learning so deeply that skill becomes automatic.",
+
+  "real_life": "Deep understanding makes actions natural and effortless.",
+
+  "practice": {
+    "actions": [
+      "Focus on deep understanding.",
+      "Let growth happen naturally.",
+      "Avoid forcing mental states."
+    ],
+    "reflection_questions": [
+      "Am I forcing or understanding?",
+      "Do I feel natural or strained?",
+      "What happens when I deeply absorb?"
+    ]
+  },
+
+  "perspectives": {
+    "spiritual": "Listening leads to natural meditation.",
+    "philosophical": "Understanding creates inner stability.",
+    "practical": "Deep learning leads to ease.",
+    "leadership": "Clarity creates effortless action."
+  },
+
+  "cross_links": {
+    "similar_ideas": [
+      {
+        "text": "Bhagavad Gita",
+        "reference": "6.26",
+        "idea": "Mind becomes steady through practice and understanding."
+      },
+      {
+        "text": "Dhammapada",
+        "reference": "1.2",
+        "idea": "Well-trained mind brings peace."
+      },
+      {
+        "text": "Quran",
+        "reference": "13:28",
+        "idea": "Hearts find peace in remembrance."
+      }
+    ]
+  },
+
+  "meta": {
+    "theme": "natural_transformation",
+    "mode": "absolute",
+    "duality": "non-dual",
+    "principle_strength": "absolute",
+    "difficulty": "intermediate"
+  },
+
+  "insight": "When understanding is deep, transformation becomes effortless."
+},
+
+{
+  "id": "gurbani_11",
+
+  "verse": {
+    "original_gurmukhi": "ਮੰਨੇ ਕੀ ਗਤਿ ਕਹੀ ਨ ਜਾਇ ॥ ਜੇ ਕੋ ਕਹੈ ਪਿਛੈ ਪਛੁਤਾਇ ॥ ਕਾਗਦਿ ਕਲਮ ਨ ਲਿਖਣਹਾਰੁ ॥ ਮੰਨੇ ਕਾ ਬਹਿ ਕਰਨਿ ਵੀਚਾਰੁ ॥ ਐਸਾ ਨਾਮੁ ਨਿਰੰਜਨੁ ਹੋਇ ॥ ਜੇ ਕੋ ਮੰਨਿ ਜਾਣੈ ਮਨਿ ਕੋਇ ॥੧੧॥",
+    "transliteration": "manne kee gat kahee na jaa-ay je ko kahai pichhai pachhutaa-ay kaagad kalam na likhanhaar manne kaa bahi karan veechaar aisaa naam niranjan ho-ay je ko mann jaanai man ko-ay",
+    "translation": "The state of one who truly believes (accepts) cannot be described. Even if someone tries to describe it, they will regret it. No paper, pen, or writer can record it. Only those who experience it can reflect upon it. Such is the pure Name; only one who truly accepts it understands within."
+  },
+
+  "source": {
+    "text": "Guru Granth Sahib",
+    "tradition": "Sikhism",
+    "author_speaker": "Guru Nanak",
+    "type": "inner_state",
+    "context": "Begins the section of 'Mannai' (deep acceptance/faith), following 'Suniai' (listening)."
+  },
+
+  "meaning": {
+    "word_by_word": "mannai (acceptance/inner belief), gat (state), kaagad (paper), kalam (pen), veechaar (reflection), niranjan (pure)",
+    "overall": "True realization through inner acceptance cannot be described it must be experienced."
+  },
+
+  "interpretation": {
+    "traditional": "The state of true faith and acceptance is beyond words.",
+    "core_principle": "Experience goes beyond description.",
+    "linguistic_note": "'Mannai' is deeper than belief it is total inner acceptance and alignment."
+  },
+
+  "explanation": {
+    "simple": "True realization cannot be explained it must be experienced.",
+    "deep": "After listening (Suniai), comes **Mannai (acceptance)**. Listening gives knowledge; acceptance transforms being. This verse says that the resulting state cannot be written or described it is beyond language. It marks the shift from **knowing → being**."
+  },
+
+  "reasoning": {
+    "logic": {
+      "premise": "Experience is deeper than description.",
+      "observation": "The state of realization cannot be expressed in words.",
+      "conclusion": "True understanding must be lived, not explained."
+    },
+    "flow": "Listening → Understanding → Acceptance → Experience → Beyond words"
+  },
+
+  "tension": {
+    "human_doubt": "Why can’t truth be fully explained?",
+    "resolution": "Because language is limited, but experience is direct."
+  },
+
+  "contrast": {
+    "ignorance": "Trying to understand only through words.",
+    "wisdom": "Moving toward direct experience."
+  },
+
+  "analogy": "Like trying to explain taste without actually tasting.",
+
+  "real_life": "Some things (love, peace, clarity) must be experienced, not just explained.",
+
+  "practice": {
+    "actions": [
+      "Move beyond theory into practice.",
+      "Internalize what you learn.",
+      "Focus on experience, not just knowledge."
+    ],
+    "reflection_questions": [
+      "Do I only understand intellectually?",
+      "Have I experienced what I know?",
+      "What am I truly living?"
+    ]
+  },
+
+  "perspectives": {
+    "spiritual": "Truth is realized through inner acceptance.",
+    "philosophical": "Experience transcends language.",
+    "practical": "Practice is more important than theory.",
+    "leadership": "Real understanding comes from doing."
+  },
+
+  "cross_links": {
+    "similar_ideas": [
+      {
+        "text": "Upanishads",
+        "reference": "Neti Neti",
+        "idea": "Truth is beyond description."
+      },
+      {
+        "text": "Dhammapada",
+        "reference": "1.19",
+        "idea": "Knowledge without practice is empty."
+      },
+      {
+        "text": "Bible",
+        "reference": "Psalm 34:8",
+        "idea": "Taste and see."
+      }
+    ]
+  },
+
+  "meta": {
+    "theme": "experience",
+    "mode": "absolute",
+    "duality": "non-dual",
+    "principle_strength": "absolute",
+    "difficulty": "advanced"
+  },
+
+  "insight": "True understanding is not explained it is experienced."
+},
+
+{
+  "id": "gurbani_12",
+
+  "verse": {
+    "original_gurmukhi": "ਮੰਨੇ ਸੁਰਤਿ ਹੋਵੈ ਮਨਿ ਬੁਧਿ ॥ ਮੰਨੇ ਸਗਲ ਭਵਣ ਕੀ ਸੁਧਿ ॥ ਮੰਨੇ ਮੁਹਿ ਚੋਟਾ ਨਾ ਖਾਇ ॥ ਮੰਨੇ ਜਮ ਕੈ ਸਾਥਿ ਨ ਜਾਇ ॥ ਐਸਾ ਨਾਮੁ ਨਿਰੰਜਨੁ ਹੋਇ ॥ ਜੇ ਕੋ ਮੰਨਿ ਜਾਣੈ ਮਨਿ ਕੋਇ ॥੧੨॥",
+    "transliteration": "manne surat hovai man budh manne sagal bhavan kee sudh manne muhi chotaa naa khaa-ay manne jam kai saath na jaa-ay aisaa naam niranjan ho-ay je ko mann jaanai man ko-ay",
+    "translation": "Through acceptance, awareness and understanding arise in the mind. Through acceptance, one gains knowledge of all realms. Through acceptance, one is not struck down. Through acceptance, one does not go with the messenger of death. Such is the pure Name; only one who truly accepts it understands within."
+  },
+
+  "source": {
+    "text": "Guru Granth Sahib",
+    "tradition": "Sikhism",
+    "author_speaker": "Guru Nanak",
+    "type": "state_of_acceptance",
+    "context": "Describes the effects of 'Mannai' (deep acceptance) on awareness and existence."
+  },
+
+  "meaning": {
+    "word_by_word": "mannai (acceptance), surat (awareness), budh (intellect), sudh (knowledge), jam (death), niranjan (pure)",
+    "overall": "Acceptance leads to awareness, knowledge, and freedom from fear."
+  },
+
+  "interpretation": {
+    "traditional": "Through true faith and acceptance, one gains wisdom and transcends fear of death.",
+    "core_principle": "Inner acceptance transforms perception and removes fear.",
+    "linguistic_note": "'Surat' indicates awakened consciousness, not just attention."
+  },
+
+  "explanation": {
+    "simple": "Acceptance brings awareness and removes fear.",
+    "deep": "This verse explains the **effects of Mannai**. Acceptance is not passive it activates awareness (surat), clarity (budh), and understanding. Fear (death, harm) dissolves because identity shifts from ego to reality. Acceptance leads to **fearlessness through understanding**."
+  },
+
+  "reasoning": {
+    "logic": {
+      "premise": "Fear comes from ignorance and ego.",
+      "observation": "Acceptance creates awareness and clarity.",
+      "conclusion": "Awareness removes fear and confusion."
+    },
+    "flow": "Acceptance → Awareness → Understanding → Fearlessness → Stability"
+  },
+
+  "tension": {
+    "human_doubt": "How can acceptance remove fear of death?",
+    "resolution": "Because fear comes from attachment and misunderstanding, which dissolve through awareness."
+  },
+
+  "contrast": {
+    "ignorance": "Living in fear and confusion.",
+    "wisdom": "Living with clarity and acceptance."
+  },
+
+  "analogy": "Like understanding a system so well that uncertainty disappears.",
+
+  "real_life": "Clarity reduces anxiety and builds confidence.",
+
+  "practice": {
+    "actions": [
+      "Accept reality instead of resisting it.",
+      "Develop awareness in daily life.",
+      "Observe thoughts without attachment."
+    ],
+    "reflection_questions": [
+      "What am I afraid of?",
+      "What happens if I accept instead of resist?",
+      "Am I aware or reactive?"
+    ]
+  },
+
+  "perspectives": {
+    "spiritual": "Acceptance leads to liberation.",
+    "philosophical": "Awareness removes fear.",
+    "practical": "Clarity builds confidence.",
+    "leadership": "Understanding reduces uncertainty."
+  },
+
+  "cross_links": {
+    "similar_ideas": [
+      {
+        "text": "Bhagavad Gita",
+        "reference": "2.11",
+        "idea": "The wise do not grieve."
+      },
+      {
+        "text": "Dhammapada",
+        "reference": "1.5",
+        "idea": "Awareness leads to peace."
+      },
+      {
+        "text": "Quran",
+        "reference": "10:62",
+        "idea": "No fear for those aligned with truth."
+      }
+    ]
+  },
+
+  "meta": {
+    "theme": "awareness",
+    "mode": "absolute",
+    "duality": "non-dual",
+    "principle_strength": "absolute",
+    "difficulty": "intermediate"
+  },
+
+  "insight": "True acceptance awakens awareness and removes fear."
+},
+
+{
+  "id": "gurbani_13",
+
+  "verse": {
+    "original_gurmukhi": "ਮੰਨੇ ਮਾਰਗਿ ਠਾਕ ਨ ਪਾਇ ॥ ਮੰਨੇ ਪਤਿ ਸਿਉ ਪਰਗਟੁ ਜਾਇ ॥ ਮੰਨੇ ਮਗੁ ਨ ਚਲੈ ਪੰਥੁ ॥ ਮੰਨੇ ਧਰਮ ਸੇਤੀ ਸਨਬੰਧੁ ॥ ਐਸਾ ਨਾਮੁ ਨਿਰੰਜਨੁ ਹੋਇ ॥ ਜੇ ਕੋ ਮੰਨਿ ਜਾਣੈ ਮਨਿ ਕੋਇ ॥੧੩॥",
+    "transliteration": "manne maarag thaak na paa-ay manne pat si-o pargat jaa-ay manne mag na chalai panth manne dharam setee sanbandh aisaa naam niranjan ho-ay je ko mann jaanai man ko-ay",
+    "translation": "Through acceptance, one does not face obstacles on the path. Through acceptance, one is honored and recognized. Through acceptance, one does not go astray. Through acceptance, one is connected with righteousness (dharma). Such is the pure Name; only one who truly accepts it understands within."
+  },
+
+  "source": {
+    "text": "Guru Granth Sahib",
+    "tradition": "Sikhism",
+    "author_speaker": "Guru Nanak",
+    "type": "path_clarity",
+    "context": "Describes how 'Mannai' (deep acceptance) stabilizes and directs one’s path."
+  },
+
+  "meaning": {
+    "word_by_word": "mannai (acceptance), maarag (path), thaak (obstacle), pat (honor), dharam (righteousness), sanbandh (connection)",
+    "overall": "Acceptance brings clarity, removes obstacles, and aligns one with the right path."
+  },
+
+  "interpretation": {
+    "traditional": "Through true faith, one walks the path without hindrance and stays aligned with dharma.",
+    "core_principle": "Inner alignment removes confusion and resistance.",
+    "linguistic_note": "'Dharam setee sanbandh' implies natural connection to righteousness, not forced morality."
+  },
+
+  "explanation": {
+    "simple": "Acceptance clears the path and keeps you aligned.",
+    "deep": "This verse shows the **practical effect of Mannai on life direction**. Obstacles are not removed externally but internally, resistance disappears. The path becomes clear, and actions naturally align with dharma. Recognition (‘pat’) comes as a result of alignment, not effort for status."
+  },
+
+  "reasoning": {
+    "logic": {
+      "premise": "Confusion creates obstacles.",
+      "observation": "Acceptance removes inner conflict.",
+      "conclusion": "Clarity leads to smooth progress."
+    },
+    "flow": "Acceptance → Clarity → Alignment → Smooth path → Recognition"
+  },
+
+  "tension": {
+    "human_doubt": "Do obstacles really disappear?",
+    "resolution": "Outer obstacles remain, but inner resistance disappears, making the path easier."
+  },
+
+  "contrast": {
+    "ignorance": "Feeling blocked and confused.",
+    "wisdom": "Moving with clarity and alignment."
+  },
+
+  "analogy": "Like removing friction from a system so movement becomes smooth.",
+
+  "real_life": "Clear thinking reduces unnecessary struggle.",
+
+  "practice": {
+    "actions": [
+      "Accept situations before acting.",
+      "Focus on clarity over control.",
+      "Align actions with principles."
+    ],
+    "reflection_questions": [
+      "Where do I feel resistance?",
+      "Am I clear about my path?",
+      "What changes if I accept instead of fight?"
+    ]
+  },
+
+  "perspectives": {
+    "spiritual": "Acceptance aligns with dharma.",
+    "philosophical": "Clarity removes conflict.",
+    "practical": "Alignment simplifies decisions.",
+    "leadership": "Clarity enables smooth execution."
+  },
+
+  "cross_links": {
+    "similar_ideas": [
+      {
+        "text": "Bhagavad Gita",
+        "reference": "2.50",
+        "idea": "Skill in action comes from clarity."
+      },
+      {
+        "text": "Dhammapada",
+        "reference": "1.13",
+        "idea": "Clear mind leads to right action."
+      },
+      {
+        "text": "Quran",
+        "reference": "65:2",
+        "idea": "God makes a way for the one who aligns."
+      }
+    ]
+  },
+
+  "meta": {
+    "theme": "alignment_path",
+    "mode": "absolute",
+    "duality": "non-dual",
+    "principle_strength": "absolute",
+    "difficulty": "intermediate"
+  },
+
+  "insight": "When you are aligned internally, the path becomes clear and obstacles lose their power."
+},
+
+{
+  "id": "gurbani_14",
+
+  "verse": {
+    "original_gurmukhi": "ਮੰਨੇ ਪਾਵਹਿ ਮੋਖੁ ਦੁਆਰੁ ॥ ਮੰਨੇ ਪਰਵਾਰੈ ਸਾਧਾਰੁ ॥ ਮੰਨੇ ਤਰੈ ਤਾਰੇ ਗੁਰਸਿਖ ॥ ਮੰਨੇ ਨਾਨਕ ਭਵਹਿ ਨ ਭਿਖ ॥ ਐਸਾ ਨਾਮੁ ਨਿਰੰਜਨੁ ਹੋਇ ॥ ਜੇ ਕੋ ਮੰਨਿ ਜਾਣੈ ਮਨਿ ਕੋਇ ॥੧੪॥",
+    "transliteration": "manne paaveh mokh du-aar manne parvaarai saadhaar manne tarai taare gursikh manne naanak bhaveh na bhikh aisaa naam niranjan ho-ay je ko mann jaanai man ko-ay",
+    "translation": "Through acceptance, one finds the gate of liberation. Through acceptance, one supports and uplifts family. Through acceptance, one crosses over and helps others cross. Through acceptance, one does not wander in begging. Such is the pure Name; only one who truly accepts it understands within."
+  },
+
+  "source": {
+    "text": "Guru Granth Sahib",
+    "tradition": "Sikhism",
+    "author_speaker": "Guru Nanak",
+    "type": "liberation_effect",
+    "context": "Describes the highest outcomes of 'Mannai' liberation and the ability to uplift others."
+  },
+
+  "meaning": {
+    "word_by_word": "mannai (acceptance), mokh (liberation), duaar (door), parvaar (family), tarai (crosses), gursikh (disciple), bhikh (begging/wandering)",
+    "overall": "Acceptance leads to liberation, stability, and the ability to uplift others."
+  },
+
+  "interpretation": {
+    "traditional": "Through true faith, one attains liberation and becomes a support for others.",
+    "core_principle": "True transformation benefits both self and others.",
+    "linguistic_note": "'Tarai taare' shows dual effect self-liberation and helping others."
+  },
+
+  "explanation": {
+    "simple": "Acceptance leads to freedom and helps others.",
+    "deep": "This verse shows the **final stage of Mannai**. Acceptance leads to liberation (mokh), stability (no wandering), and responsibility (uplifting others). Growth is not isolated true realization naturally extends outward to support others."
+  },
+
+  "reasoning": {
+    "logic": {
+      "premise": "True understanding transforms the individual.",
+      "observation": "Transformation creates stability and clarity.",
+      "conclusion": "A stable individual can uplift others."
+    },
+    "flow": "Acceptance → Liberation → Stability → Service → Expansion"
+  },
+
+  "tension": {
+    "human_doubt": "Is liberation only personal?",
+    "resolution": "No, true liberation naturally benefits others."
+  },
+
+  "contrast": {
+    "ignorance": "Seeking only personal gain.",
+    "wisdom": "Growing and uplifting others."
+  },
+
+  "analogy": "Like learning to swim and then helping others cross the river.",
+
+  "real_life": "Strong individuals support their families and communities.",
+
+  "practice": {
+    "actions": [
+      "Focus on inner clarity.",
+      "Build stability in your life.",
+      "Help others grow."
+    ],
+    "reflection_questions": [
+      "Am I stable or dependent?",
+      "Do I uplift others?",
+      "What does true freedom mean to me?"
+    ]
+  },
+
+  "perspectives": {
+    "spiritual": "Liberation leads to service.",
+    "philosophical": "True growth extends outward.",
+    "practical": "Stability creates impact.",
+    "leadership": "Strong leaders uplift others."
+  },
+
+  "cross_links": {
+    "similar_ideas": [
+      {
+        "text": "Bhagavad Gita",
+        "reference": "3.25",
+        "idea": "The wise act for the welfare of others."
+      },
+      {
+        "text": "Dhammapada",
+        "reference": "1.12",
+        "idea": "Self-mastery leads to helping others."
+      },
+      {
+        "text": "Quran",
+        "reference": "5:2",
+        "idea": "Help one another in goodness."
+      }
+    ]
+  },
+
+  "meta": {
+    "theme": "liberation_service",
+    "mode": "absolute",
+    "duality": "non-dual",
+    "principle_strength": "absolute",
+    "difficulty": "intermediate"
+  },
+
+  "insight": "True freedom is not just personal it empowers you to uplift others."
+},
+
+{
+  "id": "gurbani_15",
+
+  "verse": {
+    "original_gurmukhi": "ਮੰਨੇ ਪੰਥੁ ਨ ਚਲੈ ਪੰਥੁ ॥ ਮੰਨੇ ਮਗੁ ਨ ਚਲੈ ਪੰਥੁ ॥ ਮੰਨੇ ਪਾਵਹਿ ਮੋਖੁ ਦੁਆਰੁ ॥ ਮੰਨੇ ਪਰਵਾਰੈ ਸਾਧਾਰੁ ॥ ਮੰਨੇ ਤਰੈ ਤਾਰੇ ਗੁਰਸਿਖ ॥ ਮੰਨੇ ਨਾਨਕ ਭਵਹਿ ਨ ਭਿਖ ॥ ਐਸਾ ਨਾਮੁ ਨਿਰੰਜਨੁ ਹੋਇ ॥ ਜੇ ਕੋ ਮੰਨਿ ਜਾਣੈ ਮਨਿ ਕੋਇ ॥੧੫॥",
+    "transliteration": "manne panth na chalai panth manne mag na chalai panth manne paaveh mokh du-aar manne parvaarai saadhaar manne tarai taare gursikh manne naanak bhaveh na bhikh aisaa naam niranjan ho-ay je ko mann jaanai man ko-ay",
+    "translation": "Through acceptance, one does not wander on false paths. Through acceptance, one does not stray from the path. Through acceptance, one finds the gate of liberation. Through acceptance, one supports family. Through acceptance, one crosses over and helps others cross. Through acceptance, O Nanak, one does not wander in begging. Such is the pure Name; only one who truly accepts it understands within."
+  },
+
+  "source": {
+    "text": "Guru Granth Sahib",
+    "tradition": "Sikhism",
+    "author_speaker": "Guru Nanak",
+    "type": "mannai_summary",
+    "context": "Summarizes and reinforces the power of 'Mannai' (acceptance) and its outcomes."
+  },
+
+  "meaning": {
+    "word_by_word": "mannai (acceptance), panth (path), mokh (liberation), parvaar (family), tarai (cross), bhikh (wandering)",
+    "overall": "Acceptance ensures correct direction, stability, liberation, and the ability to uplift others."
+  },
+
+  "interpretation": {
+    "traditional": "True faith keeps one on the right path and leads to liberation.",
+    "core_principle": "Inner alignment prevents deviation and ensures stability.",
+    "linguistic_note": "Repetition emphasizes certainty and completeness of 'Mannai'."
+  },
+
+  "explanation": {
+    "simple": "Acceptance keeps you on the right path and leads to freedom.",
+    "deep": "This verse acts as a **consolidation of Mannai teachings**. It reinforces that acceptance eliminates confusion, prevents deviation, ensures stability, leads to liberation, and extends to helping others. It is the final confirmation of transformation."
+  },
+
+  "reasoning": {
+    "logic": {
+      "premise": "Clarity removes confusion.",
+      "observation": "Acceptance aligns thought and action.",
+      "conclusion": "Alignment leads to stability and right direction."
+    },
+    "flow": "Acceptance → Clarity → Direction → Stability → Liberation"
+  },
+
+  "tension": {
+    "human_doubt": "Can one truly avoid all confusion?",
+    "resolution": "Confusion reduces as alignment increases."
+  },
+
+  "contrast": {
+    "ignorance": "Wandering without direction.",
+    "wisdom": "Moving with clarity and purpose."
+  },
+
+  "analogy": "Like having a clear map that prevents getting lost.",
+
+  "real_life": "Clarity reduces wasted effort and confusion.",
+
+  "practice": {
+    "actions": [
+      "Stay aligned with truth.",
+      "Avoid distractions and false paths.",
+      "Focus on stability and clarity."
+    ],
+    "reflection_questions": [
+      "Am I clear about my direction?",
+      "Do I get distracted easily?",
+      "What keeps me aligned?"
+    ]
+  },
+
+  "perspectives": {
+    "spiritual": "Acceptance ensures liberation.",
+    "philosophical": "Clarity removes confusion.",
+    "practical": "Focus prevents deviation.",
+    "leadership": "Clear direction leads to success."
+  },
+
+  "cross_links": {
+    "similar_ideas": [
+      {
+        "text": "Bhagavad Gita",
+        "reference": "2.41",
+        "idea": "Focused mind has one direction."
+      },
+      {
+        "text": "Dhammapada",
+        "reference": "1.1",
+        "idea": "Mind determines direction."
+      },
+      {
+        "text": "Bible",
+        "reference": "Proverbs 3:6",
+        "idea": "He will make your path straight."
+      }
+    ]
+  },
+
+  "meta": {
+    "theme": "direction",
+    "mode": "absolute",
+    "duality": "non-dual",
+    "principle_strength": "absolute",
+    "difficulty": "intermediate"
+  },
+
+  "insight": "When you are aligned within, you stop wandering and move with clarity and purpose."
+}
+
+      ]
+    }
+]
+}

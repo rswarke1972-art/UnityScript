@@ -1,0 +1,727 @@
+{
+  "id": "quran",
+  "name": "Quran",
+
+  "chapters": [
+    {
+      "name": "Al-Fatiha",
+
+      "verses": [
+        {
+"id": "quran_1_1",
+
+"verse": {
+"original": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+"transliteration": "bismi llāhi r-raḥmāni r-raḥīm",
+"translation": "In the name of Allah, the Most Gracious, the Most Merciful."
+},
+
+"source": {
+"text": "Quran",
+"tradition": "Islamic",
+"author_speaker": "Revelation to Prophet Muhammad",
+"type": "invocation",
+"context": "This verse opens the Quran and precedes almost every chapter, establishing the foundation of divine remembrance and intention."
+},
+
+"meaning": {
+"word_by_word": "بِسْمِ (in the name), اللَّهِ (Allah), الرَّحْمَٰنِ (The Entirely Merciful), الرَّحِيمِ (The Especially Merciful)",
+"overall": "Every action is to begin with the remembrance of Allah, acknowledging His mercy and compassion."
+},
+
+"interpretation": {
+"traditional": "This verse is recited before actions, emphasizing reliance on Allah and recognition of His mercy.",
+"core_principle": "Right action begins with right intention aligned to a higher source.",
+"psychological": "Anchoring actions with intention creates focus, humility, and clarity."
+},
+
+"explanation": {
+"simple": "Begin everything by remembering Allah and His mercy.",
+"deep": "This is not just a ritual phrase it is a mental alignment. By invoking ‘Allah’, the individual shifts from ego-centered action to God-centered action. The attributes ‘Raḥmān’ and ‘Raḥīm’ emphasize that the foundation of existence is mercy, not fear. It reframes how one approaches life: from control to trust."
+},
+
+"reasoning": {
+"logic": {
+"premise": "Actions guided by intention shape outcomes.",
+"observation": "The verse begins with invoking divine mercy.",
+"conclusion": "Aligning intention with a higher principle leads to better action."
+},
+"flow": "Intention → Invocation → Alignment → Action"
+},
+
+"tension": {
+"human_doubt": "Does simply saying a phrase change anything?",
+"resolution": "The value lies not in the words alone, but in the awareness and intention behind them."
+},
+
+"contrast": {
+"ignorance": "Acting without awareness or higher purpose.",
+"wisdom": "Beginning actions with conscious intention and alignment."
+},
+
+"analogy": "Like setting a clear intention before starting an important task, which shapes how you perform it.",
+
+"real_life": "Before studying, working, or making decisions, setting a clear and positive intention improves focus and outcomes.",
+
+"practice": {
+"actions": [
+"Pause before important actions.",
+"Set a clear and positive intention.",
+"Align your actions with values like compassion and awareness."
+],
+"reflection_questions": [
+"Do I act consciously or automatically?",
+"What intention drives my actions?",
+"How would my actions change with awareness?"
+]
+},
+
+"perspectives": {
+"spiritual": "All actions begin and end in the Divine.",
+"philosophical": "Intention defines the quality of action.",
+"practical": "Clear intention improves effectiveness.",
+"leadership": "Leaders must act with purpose and clarity."
+},
+
+"cross_links": {
+"similar_ideas": [
+{
+"text": "Bhagavad Gita",
+"reference": "2.47",
+"idea": "Action should be performed with proper understanding and intention."
+},
+{
+"text": "Rigveda",
+"reference": "1.1.1",
+"idea": "Invocation begins the process of meaningful action."
+}
+]
+},
+
+"meta": {
+"theme": "intention",
+"mode": "devotional",
+"duality": "qualified",
+"principle_strength": "absolute",
+"difficulty": "basic"
+},
+
+"insight": "How you begin determines the nature of what follows."
+},
+
+{
+"id": "quran_1_2",
+
+"verse": {
+"original": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+"transliteration": "al-ḥamdu lillāhi rabbi l-ʿālamīn",
+"translation": "All praise is due to Allah, Lord of the worlds."
+},
+
+"source": {
+"text": "Quran",
+"tradition": "Islamic",
+"author_speaker": "Revelation to Prophet Muhammad",
+"type": "declaration",
+"context": "Following the opening invocation, this verse establishes the fundamental relationship between the Creator and all existence."
+},
+
+"meaning": {
+"word_by_word": "الْحَمْدُ (all praise), لِلَّهِ (belongs to Allah), رَبِّ (Lord/Sustainer), الْعَالَمِينَ (of all worlds)",
+"overall": "All forms of praise and gratitude ultimately belong to Allah, who sustains and governs all existence."
+},
+
+"interpretation": {
+"traditional": "This verse affirms that Allah alone is worthy of all praise as the sustainer of everything.",
+"core_principle": "Recognition of the source of existence leads to gratitude.",
+"psychological": "Gratitude shifts the mind from entitlement to appreciation."
+},
+
+"explanation": {
+"simple": "All praise belongs to Allah, the creator and sustainer of everything.",
+"deep": "This verse reframes ownership and credit. Instead of attributing success or goodness solely to oneself, it points to a larger sustaining reality. ‘Rabb’ is not just creator, but nurturer and maintainer. This creates a mindset of humility and gratitude, dissolving ego-centered thinking."
+},
+
+"reasoning": {
+"logic": {
+"premise": "All existence is sustained by a higher source.",
+"observation": "Praise is directed toward that source.",
+"conclusion": "Gratitude should be aligned with the ultimate source of existence."
+},
+"flow": "Existence → Sustenance → Recognition → Gratitude"
+},
+
+"tension": {
+"human_doubt": "Why should I attribute everything to a higher source?",
+"resolution": "Because recognizing interdependence reduces ego and increases awareness."
+},
+
+"contrast": {
+"ignorance": "Taking full credit for everything.",
+"wisdom": "Acknowledging the larger system behind outcomes."
+},
+
+"analogy": "Like appreciating not just your effort, but also the environment, support, and conditions that made success possible.",
+
+"real_life": "In achievements, recognizing teachers, family, and circumstances builds humility and gratitude.",
+
+"practice": {
+"actions": [
+"Practice gratitude daily.",
+"Acknowledge sources of support in your life.",
+"Shift focus from entitlement to appreciation."
+],
+"reflection_questions": [
+"What do I take for granted?",
+"Who or what supports my life?",
+"How often do I express gratitude?"
+]
+},
+
+"perspectives": {
+"spiritual": "Everything flows from a single sustaining source.",
+"philosophical": "Recognition of origin shapes understanding of value.",
+"practical": "Gratitude improves mental well-being.",
+"leadership": "Leaders must acknowledge contributions beyond themselves."
+},
+
+"cross_links": {
+"similar_ideas": [
+{
+"text": "Isha Upanishad",
+"reference": "1",
+"idea": "Everything is pervaded by a higher reality."
+},
+{
+"text": "Bhagavad Gita",
+"reference": "10.8",
+"idea": "All things originate from the Divine."
+}
+]
+},
+
+"meta": {
+"theme": "gratitude",
+"mode": "devotional",
+"duality": "qualified",
+"principle_strength": "absolute",
+"difficulty": "basic"
+},
+
+"insight": "Gratitude begins when you recognize what is not yours alone."
+},
+
+{
+"id": "quran_1_3",
+
+"verse": {
+"original": "الرَّحْمَٰنِ الرَّحِيمِ",
+"transliteration": "ar-raḥmāni r-raḥīm",
+"translation": "The Most Gracious, the Most Merciful."
+},
+
+"source": {
+"text": "Quran",
+"tradition": "Islamic",
+"author_speaker": "Revelation to Prophet Muhammad",
+"type": "attribute",
+"context": "This verse reinforces the central attributes of Allah introduced in the opening, emphasizing mercy as the defining quality."
+},
+
+"meaning": {
+"word_by_word": "الرَّحْمَٰنِ (The Entirely Merciful), الرَّحِيمِ (The Especially Merciful)",
+"overall": "Allah’s nature is defined by boundless and continuous mercy."
+},
+
+"interpretation": {
+"traditional": "Both names emphasize different dimensions of divine mercy universal and specific.",
+"core_principle": "The foundation of existence is compassion, not harshness.",
+"psychological": "Viewing reality through compassion transforms perception and response."
+},
+
+"explanation": {
+"simple": "Allah is extremely merciful and compassionate.",
+"deep": "The repetition of these attributes is intentional it centers mercy as the core lens. ‘Raḥmān’ reflects mercy that encompasses all existence, while ‘Raḥīm’ reflects a more intimate, continuous mercy. This dual emphasis shifts the worldview from fear-based to compassion-based understanding."
+},
+
+"reasoning": {
+"logic": {
+"premise": "Understanding the nature of the source shapes perception.",
+"observation": "The source is described as merciful.",
+"conclusion": "Reality should be approached with trust and compassion."
+},
+"flow": "Nature of source → Perception → Emotional response → Behavior"
+},
+
+"tension": {
+"human_doubt": "If mercy is central, why do difficulties exist?",
+"resolution": "Mercy may operate beyond immediate perception, not always aligning with short-term comfort."
+},
+
+"contrast": {
+"ignorance": "Viewing reality as harsh and hostile.",
+"wisdom": "Seeing compassion as an underlying principle."
+},
+
+"analogy": "Like a teacher who appears strict but ultimately acts for the student’s growth.",
+
+"real_life": "Understanding others with empathy instead of judgment leads to better relationships and decisions.",
+
+"practice": {
+"actions": [
+"Practice compassion in daily interactions.",
+"Shift from judgment to understanding.",
+"Trust that not all outcomes are immediately visible."
+],
+"reflection_questions": [
+"Do I see situations through fear or compassion?",
+"How do I respond to difficulty?",
+"What would change if I acted with more mercy?"
+]
+},
+
+"perspectives": {
+"spiritual": "Mercy is the essence of the Divine.",
+"philosophical": "Compassion is a fundamental principle of existence.",
+"practical": "Empathy improves decision-making and relationships.",
+"leadership": "Compassionate leadership creates stronger trust."
+},
+
+"cross_links": {
+"similar_ideas": [
+{
+"text": "Bhagavad Gita",
+"reference": "12.13",
+"idea": "The ideal person is compassionate toward all beings."
+},
+{
+"text": "Dhammapada",
+"reference": "1.5",
+"idea": "Hatred is overcome by love."
+}
+]
+},
+
+"meta": {
+"theme": "compassion",
+"mode": "devotional",
+"duality": "qualified",
+"principle_strength": "absolute",
+"difficulty": "basic"
+},
+
+"insight": "When you see through compassion, reality changes its meaning."
+},
+
+{
+"id": "quran_1_4",
+
+"verse": {
+"original": "مَالِكِ يَوْمِ الدِّينِ",
+"transliteration": "māliki yawmi d-dīn",
+"translation": "Master of the Day of Judgment."
+},
+
+"source": {
+"text": "Quran",
+"tradition": "Islamic",
+"author_speaker": "Revelation to Prophet Muhammad",
+"type": "declaration",
+"context": "After establishing mercy, this verse introduces accountability balancing compassion with justice."
+},
+
+"meaning": {
+"word_by_word": "مَالِكِ (Master/Owner), يَوْمِ (Day), الدِّينِ (of Judgment/Recompense)",
+"overall": "Allah is the ultimate authority over the final judgment where all actions are accounted for."
+},
+
+"interpretation": {
+"traditional": "This verse affirms that Allah alone has authority over the Day of Judgment, where every action will be judged.",
+"core_principle": "Accountability is essential for meaningful action.",
+"psychological": "Awareness of consequences shapes behavior and responsibility."
+},
+
+"explanation": {
+"simple": "Allah is the ultimate judge of all actions.",
+"deep": "After emphasizing mercy, the text introduces balance justice. Mercy without accountability can lead to chaos; accountability without mercy leads to fear. This verse establishes a system where actions matter. It reminds the individual that choices have consequences beyond immediate perception."
+},
+
+"reasoning": {
+"logic": {
+"premise": "Actions have consequences.",
+"observation": "There is a final authority over those consequences.",
+"conclusion": "Individuals are accountable for their actions."
+},
+"flow": "Action → Consequence → Judgment → Accountability"
+},
+
+"tension": {
+"human_doubt": "Why is accountability necessary if mercy exists?",
+"resolution": "Mercy guides, but accountability ensures responsibility and justice."
+},
+
+"contrast": {
+"ignorance": "Believing actions have no consequences.",
+"wisdom": "Acting with awareness of responsibility and outcome."
+},
+
+"analogy": "Like a system where rules are fair compassion exists, but actions still have results.",
+
+"real_life": "In life, responsibility and consequences ensure fairness and order in society.",
+
+"practice": {
+"actions": [
+"Take responsibility for your actions.",
+"Think about long-term consequences.",
+"Act with integrity even when unseen."
+],
+"reflection_questions": [
+"Do I consider consequences before acting?",
+"What does responsibility mean to me?",
+"How do I balance freedom with accountability?"
+]
+},
+
+"perspectives": {
+"spiritual": "All actions return to their source for judgment.",
+"philosophical": "Justice balances freedom.",
+"practical": "Accountability improves behavior and decisions.",
+"leadership": "Leaders must ensure fairness and responsibility."
+},
+
+"cross_links": {
+"similar_ideas": [
+{
+"text": "Bhagavad Gita",
+"reference": "4.17",
+"idea": "Understanding action and its consequences is essential."
+},
+{
+"text": "Dhammapada",
+"reference": "1.1",
+"idea": "Actions shaped by mind determine outcomes."
+}
+]
+},
+
+"meta": {
+"theme": "accountability",
+"mode": "devotional",
+"duality": "qualified",
+"principle_strength": "absolute",
+"difficulty": "basic"
+},
+
+"insight": "Freedom has meaning only when actions carry consequences."
+},
+
+{
+"id": "quran_1_5",
+
+"verse": {
+"original": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+"transliteration": "iyyāka naʿbudu wa iyyāka nastaʿīn",
+"translation": "You alone we worship, and You alone we ask for help."
+},
+
+"source": {
+"text": "Quran",
+"tradition": "Islamic",
+"author_speaker": "Revelation to Prophet Muhammad",
+"type": "commitment",
+"context": "After recognizing Allah’s mercy and authority, the speaker responds with devotion and reliance."
+},
+
+"meaning": {
+"word_by_word": "إِيَّاكَ (You alone), نَعْبُدُ (we worship), نَسْتَعِينُ (we seek help)",
+"overall": "The verse expresses exclusive devotion and complete reliance on Allah."
+},
+
+"interpretation": {
+"traditional": "This verse affirms monotheistic devotion and dependence on Allah for guidance and support.",
+"core_principle": "Alignment and reliance must be directed toward a single, highest source.",
+"psychological": "Clarity of focus reduces confusion and strengthens inner stability."
+},
+
+"explanation": {
+"simple": "We worship only Allah and seek help only from Him.",
+"deep": "This verse marks a shift from description to response. After understanding the nature of reality (mercy + accountability), the individual commits: devotion (direction) and dependence (support). Dividing attention between multiple ‘centers’ creates conflict; unifying it creates clarity and strength."
+},
+
+"reasoning": {
+"logic": {
+"premise": "A single ultimate source governs existence.",
+"observation": "Worship and reliance are directed exclusively to that source.",
+"conclusion": "Unified focus leads to clarity and strength."
+},
+"flow": "Recognition → Alignment → Dependence → Stability"
+},
+
+"tension": {
+"human_doubt": "Can I rely only on one source in a complex world?",
+"resolution": "External means exist, but inner reliance remains centered."
+},
+
+"contrast": {
+"ignorance": "Scattered focus and dependence on many conflicting sources.",
+"wisdom": "Unified direction and clear reliance."
+},
+
+"analogy": "Like focusing on one clear goal instead of being pulled in multiple directions.",
+
+"real_life": "People perform better when their focus and purpose are clearly defined rather than divided.",
+
+"practice": {
+"actions": [
+"Clarify your core purpose.",
+"Avoid unnecessary distractions.",
+"Build inner reliance while using external means."
+],
+"reflection_questions": [
+"What do I truly depend on?",
+"Is my focus divided?",
+"What gives me inner stability?"
+]
+},
+
+"perspectives": {
+"spiritual": "True devotion unifies the self.",
+"philosophical": "Clarity arises from singular alignment.",
+"practical": "Focused effort improves outcomes.",
+"leadership": "Clear direction inspires confidence."
+},
+
+"cross_links": {
+"similar_ideas": [
+{
+"text": "Bhagavad Gita",
+"reference": "18.66",
+"idea": "Surrender to a single ultimate reality."
+},
+{
+"text": "Isha Upanishad",
+"reference": "1",
+"idea": "Seeing everything in one reality leads to clarity."
+}
+]
+},
+
+"meta": {
+"theme": "alignment",
+"mode": "devotional",
+"duality": "qualified",
+"principle_strength": "absolute",
+"difficulty": "basic"
+},
+
+"insight": "When your direction and dependence are unified, confusion disappears."
+},
+
+{
+"id": "quran_1_6",
+
+"verse": {
+"original": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+"transliteration": "ihdinā ṣ-ṣirāṭa l-mustaqīm",
+"translation": "Guide us to the straight path."
+},
+
+"source": {
+"text": "Quran",
+"tradition": "Islamic",
+"author_speaker": "Revelation to Prophet Muhammad",
+"type": "supplication",
+"context": "After declaring devotion and reliance, the speaker asks for guidance toward the correct way of living."
+},
+
+"meaning": {
+"word_by_word": "اهْدِنَا (guide us), الصِّرَاطَ (the path), الْمُسْتَقِيمَ (the straight/upright)",
+"overall": "A request for clear, correct guidance in life."
+},
+
+"interpretation": {
+"traditional": "A prayer for guidance toward the path of truth, righteousness, and balance.",
+"core_principle": "Even with intention and devotion, guidance is still needed.",
+"psychological": "Recognizing the need for guidance reflects humility and openness to learning."
+},
+
+"explanation": {
+"simple": "We ask for guidance toward the right path.",
+"deep": "This verse shows that intention alone is not enough direction matters. ‘Ṣirāṭ al-mustaqīm’ is not just a path, but a balanced, straight alignment free from extremes. The request ‘guide us’ implies continuous need guidance is not a one-time event but an ongoing process."
+},
+
+"reasoning": {
+"logic": {
+"premise": "Humans have intention but limited knowledge.",
+"observation": "Guidance is requested.",
+"conclusion": "Right direction requires continuous guidance."
+},
+"flow": "Intention → Limitation → Seeking guidance → Alignment"
+},
+
+"tension": {
+"human_doubt": "If I try my best, why do I still need guidance?",
+"resolution": "Effort without direction can still lead to error."
+},
+
+"contrast": {
+"ignorance": "Assuming you already know the right path.",
+"wisdom": "Continuously seeking guidance and correction."
+},
+
+"analogy": "Like using a map or GPS even when you know your destination.",
+
+"real_life": "People often seek mentors, teachers, or feedback to stay on the right path.",
+
+"practice": {
+"actions": [
+"Seek guidance from reliable sources.",
+"Stay open to correction.",
+"Reflect regularly on your direction."
+],
+"reflection_questions": [
+"Am I open to guidance?",
+"Do I assume I already know everything?",
+"What helps me stay on the right path?"
+]
+},
+
+"perspectives": {
+"spiritual": "Guidance is a continuous divine process.",
+"philosophical": "Direction defines the value of effort.",
+"practical": "Correct guidance prevents wasted effort.",
+"leadership": "Leaders must seek clarity before guiding others."
+},
+
+"cross_links": {
+"similar_ideas": [
+{
+"text": "Bhagavad Gita",
+"reference": "4.34",
+"idea": "Seek guidance from those who know."
+},
+{
+"text": "Dhammapada",
+"reference": "1.1",
+"idea": "Right understanding shapes the path."
+}
+]
+},
+
+"meta": {
+"theme": "guidance",
+"mode": "devotional",
+"duality": "qualified",
+"principle_strength": "absolute",
+"difficulty": "basic"
+},
+
+"insight": "Good intention is not enough right direction is essential."
+},
+
+{
+"id": "quran_1_7",
+
+"verse": {
+"original": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+"transliteration": "ṣirāṭa lladhīna anʿamta ʿalayhim ghayri l-maghḍūbi ʿalayhim wa lā ḍ-ḍāllīn",
+"translation": "The path of those upon whom You have bestowed favor, not of those who have incurred Your anger, nor of those who have gone astray."
+},
+
+"source": {
+"text": "Quran",
+"tradition": "Islamic",
+"author_speaker": "Revelation to Prophet Muhammad",
+"type": "clarification",
+"context": "This verse completes the supplication by defining what the ‘straight path’ is and what it is not."
+},
+
+"meaning": {
+"word_by_word": "صِرَاطَ (path), الَّذِينَ (those who), أَنْعَمْتَ (You have blessed), غَيْرِ (not), الْمَغْضُوبِ (those who incurred anger), الضَّالِّينَ (those who are astray)",
+"overall": "The straight path is defined as the way of those rightly guided, avoiding both error and deviation."
+},
+
+"interpretation": {
+"traditional": "The verse distinguishes between the rightly guided and those who deviate due to rejection or ignorance.",
+"core_principle": "Right path lies between knowing but rejecting truth and not knowing at all.",
+"psychological": "Error arises either from ignorance or from willful distortion."
+},
+
+"explanation": {
+"simple": "The right path is the way of those who are guided not those who go wrong knowingly or unknowingly.",
+"deep": "This verse refines the idea of guidance. It is not enough to seek a path you must avoid two extremes: conscious rejection (‘maghḍūb’) and unconscious misguidance (‘ḍāllīn’). True alignment lies in awareness and correct action together. It is a path of balance knowledge + sincerity."
+},
+
+"reasoning": {
+"logic": {
+"premise": "Not all paths lead to truth.",
+"observation": "Some deviate knowingly, others unknowingly.",
+"conclusion": "The right path avoids both extremes."
+},
+"flow": "Seeking guidance → Defining the path → Identifying deviations → Choosing balance"
+},
+
+"tension": {
+"human_doubt": "How do I know if I am on the right path or going astray?",
+"resolution": "Continuous awareness and correction help maintain alignment."
+},
+
+"contrast": {
+"ignorance": "Following blindly or rejecting truth knowingly.",
+"wisdom": "Walking with awareness, humility, and sincerity."
+},
+
+"analogy": "Like staying on a road by avoiding both drifting off unknowingly and deliberately taking wrong turns.",
+
+"real_life": "In life, mistakes come from both lack of knowledge and intentional wrong choices.",
+
+"practice": {
+"actions": [
+"Seek knowledge continuously.",
+"Act with sincerity.",
+"Correct yourself when you notice deviation."
+],
+"reflection_questions": [
+"Do I ignore truth when I know it?",
+"Where am I unaware or misinformed?",
+"How do I stay aligned consistently?"
+]
+},
+
+"perspectives": {
+"spiritual": "Guidance is preserved through awareness and sincerity.",
+"philosophical": "Truth lies between ignorance and rejection.",
+"practical": "Learning and correction maintain progress.",
+"leadership": "Leaders must avoid both ignorance and deliberate error."
+},
+
+"cross_links": {
+"similar_ideas": [
+{
+"text": "Bhagavad Gita",
+"reference": "6.16-17",
+"idea": "Balance avoids extremes and leads to success."
+},
+{
+"text": "Dhammapada",
+"reference": "Middle Way",
+"idea": "Avoid extremes to find the right path."
+}
+]
+},
+
+"meta": {
+"theme": "right_path",
+"mode": "devotional",
+"duality": "qualified",
+"principle_strength": "absolute",
+"difficulty": "basic"
+},
+
+"insight": "The right path is not just forward it is away from both ignorance and knowing error."
+}
+
+      ]
+    }
+]
+}
