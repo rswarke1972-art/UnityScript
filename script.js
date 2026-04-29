@@ -10,12 +10,23 @@ async function loadData() {
 // ------------------ START ------------------
 
 document.addEventListener("DOMContentLoaded", async () => {
-  data = await loadData();
 
   const page = window.location.pathname;
 
-  if (page.includes("index.html") || page === "/") loadBooks();
-  else if (page.includes("chapters.html")) loadChapters();
+  // ✅ DO NOT load data on index page
+  if (page.includes("index.html") || page === "/") {
+    loadBooks();
+    return;
+  }
+
+  // ✅ Load only when needed
+  try {
+    data = await loadData();
+  } catch (e) {
+    console.warn("Data load failed, using localStorage instead");
+  }
+
+  if (page.includes("chapters.html")) loadChapters();
   else if (page.includes("verses.html")) loadVerses();
   else if (page.includes("viewer.html")) renderVerse();
 });
@@ -36,40 +47,32 @@ async function loadBooks() {
     "gurbani.json"
   ];
 
-  const books = [];
-
   for (let file of files) {
     try {
       const res = await fetch("data/" + file);
 
-      if (!res.ok) throw new Error("Failed: " + file);
+      if (!res.ok) throw new Error(file);
 
-      const json = await res.json();
-      books.push(json);
+      const book = await res.json();
+
+      const btn = document.createElement("button");
+      btn.className = "level-btn";
+      btn.innerText = book.name;
+
+      btn.onclick = () => {
+        localStorage.setItem("scripture", JSON.stringify(book));
+        window.location.href = "chapters.html";
+      };
+
+      app.appendChild(btn);
 
     } catch (err) {
-      console.error("Error loading:", file, err);
+      console.error("❌ Failed:", file);
     }
   }
 
-  app.innerHTML = "";
-
-  books.forEach(book => {
-    const btn = document.createElement("button");
-    btn.className = "level-btn";
-    btn.innerText = book.name;
-
-    btn.onclick = () => {
-      localStorage.setItem("scripture", JSON.stringify(book));
-      window.location.href = "chapters.html";
-    };
-
-    app.appendChild(btn);
-  });
-
-  // 🔥 DEBUG fallback
-  if (books.length === 0) {
-    app.innerHTML = "<p style='color:white'>No books loaded</p>";
+  if (app.innerHTML === "Loading...") {
+    app.innerHTML = "<p style='color:white'>Nothing loaded</p>";
   }
 }
 // ------------------ CHAPTERS ------------------
