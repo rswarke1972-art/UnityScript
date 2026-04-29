@@ -25,16 +25,33 @@ document.addEventListener("DOMContentLoaded", async () => {
 async function loadBooks() {
   const app = document.getElementById("app");
 
-const gita = await fetch("data/bhagavad-gita.json").then(r => r.json());
-const quran = await fetch("data/quran.json").then(r => r.json());
-const dhamma = await fetch("data/dhammapada.json").then(r => r.json());
-const upanishads = await fetch("data/upanishads.json").then(r => r.json()); // ✅ ADD
-const bible = await fetch("data/bible.json").then(r => r.json());
-const torah = await fetch("data/torah.json").then(r => r.json());
-const rigved = await fetch("data/rigved.json").then(r => r.json());
-const gurbani = await fetch("data/gurbani.json").then(r => r.json());
+  const files = [
+    "bhagavad-gita.json",
+    "quran.json",
+    "dhammapada.json",
+    "upanishads.json",
+    "bible.json",
+    "torah.json",
+    "rigved.json",
+    "gurbani.json"
+  ];
 
-const books = [gita, quran, dhamma, upanishads, bible, torah, rigved, gurbani];
+  const books = [];
+
+  for (let file of files) {
+    try {
+      const res = await fetch("data/" + file);
+
+      if (!res.ok) throw new Error("Failed: " + file);
+
+      const json = await res.json();
+      books.push(json);
+
+    } catch (err) {
+      console.error("Error loading:", file, err);
+    }
+  }
+
   app.innerHTML = "";
 
   books.forEach(book => {
@@ -49,6 +66,11 @@ const books = [gita, quran, dhamma, upanishads, bible, torah, rigved, gurbani];
 
     app.appendChild(btn);
   });
+
+  // 🔥 DEBUG fallback
+  if (books.length === 0) {
+    app.innerHTML = "<p style='color:white'>No books loaded</p>";
+  }
 }
 // ------------------ CHAPTERS ------------------
 
