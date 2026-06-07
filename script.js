@@ -407,9 +407,14 @@ async function loadChapters() {
         app.appendChild(grid);
       } else {
         // Step 2: Render Chapters List for Selected Book
-        // Load specific book data for lazy loading
-        const data = await getBookData(scriptureId, bookIndex);
-        const book = data.books[0];
+        // Load specific book data for lazy loading (Bible only)
+        let book;
+        if (scriptureId === 'bible' && scriptureData.books[bookIndex].filePath) {
+          const data = await getBookData(scriptureId, bookIndex);
+          book = data.books[0];
+        } else {
+          book = scriptureData.books[bookIndex];
+        }
         
         if (headerTitle) headerTitle.innerText = `📖 ${book.name}`;
         if (subtitle) subtitle.innerText = "Choose a Chapter";
@@ -498,6 +503,7 @@ async function loadVerses() {
     
     let bookIndex = null;
     let chapterIndex = route.chapter;
+    let usedLazyLoading = false;
     
     if (scriptureData.books) {
       bookIndex = route.book;
@@ -506,9 +512,10 @@ async function loadVerses() {
         bookIndex = storedBookIdx !== null ? parseInt(storedBookIdx, 10) : null;
       }
       
-      // Load specific book data for lazy loading
-      if (bookIndex !== null && !isNaN(bookIndex)) {
+      // Load specific book data for lazy loading (Bible only)
+      if (scriptureId === 'bible' && bookIndex !== null && !isNaN(bookIndex) && scriptureData.books[bookIndex].filePath) {
         scriptureData = await getBookData(scriptureId, bookIndex);
+        usedLazyLoading = true;
       }
     }
     
@@ -526,7 +533,7 @@ async function loadVerses() {
     let pathLabel = "";
     
     if (scriptureData.books) {
-      const book = scriptureData.books[0];
+      const book = usedLazyLoading ? scriptureData.books[0] : scriptureData.books[bookIndex];
       if (!book) {
         throw new Error(`Book index ${bookIndex + 1} does not exist.`);
       }
@@ -618,6 +625,7 @@ async function renderVerse() {
     let bookIndex = null;
     let chapterIndex = route.chapter;
     let verseIndex = route.verse;
+    let usedLazyLoading = false;
     
     if (scriptureData.books) {
       bookIndex = route.book;
@@ -626,9 +634,10 @@ async function renderVerse() {
         bookIndex = storedBookIdx !== null ? parseInt(storedBookIdx, 10) : null;
       }
       
-      // Load specific book data for lazy loading
-      if (bookIndex !== null && !isNaN(bookIndex)) {
+      // Load specific book data for lazy loading (Bible only)
+      if (scriptureId === 'bible' && bookIndex !== null && !isNaN(bookIndex) && scriptureData.books[bookIndex].filePath) {
         scriptureData = await getBookData(scriptureId, bookIndex);
+        usedLazyLoading = true;
       }
     }
     
@@ -651,7 +660,7 @@ async function renderVerse() {
     let bookName = "";
     
     if (scriptureData.books) {
-      const book = scriptureData.books[0];
+      const book = usedLazyLoading ? scriptureData.books[0] : scriptureData.books[bookIndex];
       if (!book) {
         throw new Error(`Book index ${bookIndex + 1} does not exist.`);
       }
