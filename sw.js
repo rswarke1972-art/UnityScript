@@ -1,4 +1,4 @@
-const CACHE_NAME = 'unityscript-v2';
+const CACHE_NAME = 'unityscript-v3';
 const OFFLINE_FALLBACK_URL = 'offline.html';
 
 const PRECACHE_ASSETS = [
