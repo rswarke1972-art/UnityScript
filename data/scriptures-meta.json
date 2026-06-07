@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:95f08a0fb6de982432153ecc44bb796a2a22b638f664ad622476f509101629f6
-size 977
+{
+  "bhagavad_gita": {
+    "id": "bhagavad_gita",
+    "name": "Bhagavad Gita",
+    "language": "sanskrit",
+    "tradition": "Hindu",
+    "filePath": "data/bhagavad-gita.json",
+    "chapterCount": 18
+  },
+  "quran": {
+    "id": "quran",
+    "name": "Quran",
+    "language": "arabic",
+    "tradition": "Islamic",
+    "filePath": "data/quran.json",
+    "chapterCount": 114
+  },
+  "bible": {
+    "id": "bible",
+    "name": "Bible",
+    "language": "english",
+    "tradition": "Christian/Jewish",
+    "filePath": "data/bible.json",
+    "chapterCount": 66
+  },
+  "dhammapada": {
+    "id": "dhammapada",
+    "name": "Dhammapada",
+    "language": "pali",
+    "tradition": "Buddhist",
+    "filePath": "data/dhammapada.json",
+    "chapterCount": 26
+  },
+  "upanishads": {
+    "id": "upanishads",
+    "name": "Upanishads",
+    "language": "sanskrit",
+    "tradition": "Hindu",
+    "filePath": "data/upanishads.json",
+    "chapterCount": 10
+  }
+}
