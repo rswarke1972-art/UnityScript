@@ -1,7 +1,8 @@
 // Central App State & Cache
 const state = {
   metadata: null,
-  scriptureCache: {}
+  scriptureCache: {},
+  bookCache: {}
 };
 
 // ------------------ UTILS & RETRY FETCH ------------------
@@ -50,6 +51,45 @@ async function getScriptureData(scriptureId) {
     return data;
   } catch (err) {
     throw new Error(`Failed to load scripture file for "${scriptureId}": ${err.message}`);
+  }
+}
+
+async function getBookData(scriptureId, bookIndex) {
+  const cacheKey = `${scriptureId}_book_${bookIndex}`;
+  if (state.bookCache[cacheKey]) {
+    return state.bookCache[cacheKey];
+  }
+
+  const meta = await fetchMetadata();
+  const bookInfo = meta[scriptureId];
+  if (!bookInfo) {
+    throw new Error(`Scripture ID "${scriptureId}" is not registered in metadata.`);
+  }
+
+  try {
+    const res = await fetchWithRetry(bookInfo.filePath);
+    const indexData = await res.json();
+    
+    // Extract book metadata
+    const bookMeta = indexData.books[bookIndex];
+    if (!bookMeta) {
+      throw new Error(`Book index ${bookIndex + 1} does not exist in index.`);
+    }
+
+    // Load the specific book file
+    const bookRes = await fetchWithRetry(bookMeta.filePath);
+    const bookData = await bookRes.json();
+
+    // Combine index + book data for compatibility
+    const combinedData = {
+      ...indexData,
+      books: [bookData]
+    };
+
+    state.bookCache[cacheKey] = combinedData;
+    return combinedData;
+  } catch (err) {
+    throw new Error(`Failed to load book ${bookIndex + 1}: ${err.message}`);
   }
 }
 
@@ -367,7 +407,10 @@ async function loadChapters() {
         app.appendChild(grid);
       } else {
         // Step 2: Render Chapters List for Selected Book
-        const book = scriptureData.books[bookIndex];
+        // Load specific book data for lazy loading
+        const data = await getBookData(scriptureId, bookIndex);
+        const book = data.books[0];
+        
         if (headerTitle) headerTitle.innerText = `📖 ${book.name}`;
         if (subtitle) subtitle.innerText = "Choose a Chapter";
         if (backBtn) {
@@ -450,7 +493,7 @@ async function loadVerses() {
       return;
     }
     
-    const scriptureData = await getScriptureData(scriptureId);
+    let scriptureData = await getScriptureData(scriptureId);
     localStorage.setItem("scriptureId", scriptureId);
     
     let bookIndex = null;
@@ -461,6 +504,11 @@ async function loadVerses() {
       if (bookIndex === null) {
         const storedBookIdx = localStorage.getItem("bookIndex");
         bookIndex = storedBookIdx !== null ? parseInt(storedBookIdx, 10) : null;
+      }
+      
+      // Load specific book data for lazy loading
+      if (bookIndex !== null && !isNaN(bookIndex)) {
+        scriptureData = await getBookData(scriptureId, bookIndex);
       }
     }
     
@@ -478,7 +526,7 @@ async function loadVerses() {
     let pathLabel = "";
     
     if (scriptureData.books) {
-      const book = scriptureData.books[bookIndex];
+      const book = scriptureData.books[0];
       if (!book) {
         throw new Error(`Book index ${bookIndex + 1} does not exist.`);
       }
@@ -564,7 +612,7 @@ async function renderVerse() {
       return;
     }
     
-    const scriptureData = await getScriptureData(scriptureId);
+    let scriptureData = await getScriptureData(scriptureId);
     localStorage.setItem("scriptureId", scriptureId);
     
     let bookIndex = null;
@@ -576,6 +624,11 @@ async function renderVerse() {
       if (bookIndex === null) {
         const storedBookIdx = localStorage.getItem("bookIndex");
         bookIndex = storedBookIdx !== null ? parseInt(storedBookIdx, 10) : null;
+      }
+      
+      // Load specific book data for lazy loading
+      if (bookIndex !== null && !isNaN(bookIndex)) {
+        scriptureData = await getBookData(scriptureId, bookIndex);
       }
     }
     
@@ -598,7 +651,7 @@ async function renderVerse() {
     let bookName = "";
     
     if (scriptureData.books) {
-      const book = scriptureData.books[bookIndex];
+      const book = scriptureData.books[0];
       if (!book) {
         throw new Error(`Book index ${bookIndex + 1} does not exist.`);
       }
