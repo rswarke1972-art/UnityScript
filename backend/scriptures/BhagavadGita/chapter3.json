@@ -1,0 +1,32 @@
+{
+  "chapterNumber": 3,
+  "title": "Karma Yoga",
+  "sanskritTitle": "कर्मयोग",
+  "verseCount": 43,
+  "verses": [
+    {
+      "id": "BG.03.019",
+      "book": "BG",
+      "chapter": 3,
+      "verse": 19,
+      "sanskrit": "तस्मादसक्तः सततं कार्यं कर्म समाचर | असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ||",
+      "transliteration": "tasmādasaktaḥ satataṃ kāryaṃ karma samācara | asakto hyācarankarma paramāpnoti pūruṣaḥ ||",
+      "translation": "Therefore, without attachment, always perform work which has to be done; for by performing work without attachment one attains the Supreme.",
+      "meter": "Anushtubh",
+      "language": "Sanskrit",
+      "audioCached": false
+    },
+    {
+      "id": "BG.03.030",
+      "book": "BG",
+      "chapter": 3,
+      "verse": 30,
+      "sanskrit": "मयि सर्वाणि कर्माणि सन्न्यस्याध्यात्मचेतसा | निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ||",
+      "transliteration": "mayi sarvāṇi karmāṇi sannyasyādhyātmacetasa | nirāśīrnirmamo bhūtvā yudhyasva vigatajvaraḥ ||",
+      "translation": "Surrender all your actions to Me with your mind focused on the Self. Free from desire and ego, fight without grief.",
+      "meter": "Anushtubh",
+      "language": "Sanskrit",
+      "audioCached": false
+    }
+  ]
+}

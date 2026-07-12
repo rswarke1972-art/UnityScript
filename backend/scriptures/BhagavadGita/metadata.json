@@ -1,0 +1,9 @@
+{
+  "id": "BG",
+  "name": "Bhagavad Gita",
+  "sanskritName": "श्रीमद्भगवद्गीता",
+  "description": "The 700-verse Hindu scripture that is part of the Mahabharata, a dialogue between Prince Arjuna and Lord Krishna.",
+  "verseCount": 700,
+  "language": "Sanskrit",
+  "chapters": 18
+}

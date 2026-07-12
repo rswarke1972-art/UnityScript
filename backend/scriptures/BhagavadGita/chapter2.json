@@ -1,0 +1,56 @@
+{
+  "chapterNumber": 2,
+  "title": "Sankhya Yoga",
+  "sanskritTitle": "सांख्ययोग",
+  "verseCount": 72,
+  "verses": [
+    {
+      "id": "BG.02.001",
+      "book": "BG",
+      "chapter": 2,
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच | तं तथा कृपयाविष्टमश्रुपूर्णाक्षमेव विषीदन्तमिदं वचोऽवदत् मधुसूदनः ||",
+      "transliteration": "sañjaya uvāca | taṃ tathā kṛpayāviṣṭamaśrupūrṇākṣameva viṣīdantamidaṃ vaco'vadat madhusūdanaḥ ||",
+      "translation": "Sanjaya said: Seeing Arjuna filled with compassion, his eyes brimming with tears, and overwhelmed with despair, Lord Krishna spoke these words.",
+      "meter": "Anushtubh",
+      "language": "Sanskrit",
+      "audioCached": false
+    },
+    {
+      "id": "BG.02.007",
+      "book": "BG",
+      "chapter": 2,
+      "verse": 7,
+      "sanskrit": "कर्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः | यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ||",
+      "transliteration": "karpaṇyadoṣopahatasvabhāvaḥ pṛcchāmi tvāṃ dharmasammūḍhacetāḥ | yacchreyaḥ syānniścitaṃ brūhi tanme śiṣyaste'haṃ śādhi māṃ tvāṃ prapannam ||",
+      "translation": "My nature is overcome by weakness, and I am confused about my duty. I ask You: tell me what is truly good for me. I am Your disciple. Teach me, for I have surrendered to You.",
+      "meter": "Anushtubh",
+      "language": "Sanskrit",
+      "audioCached": false
+    },
+    {
+      "id": "BG.02.011",
+      "book": "BG",
+      "chapter": 2,
+      "verse": 11,
+      "sanskrit": "शोचस्त्वं प्रज्ञावादांश्च भाषसे गुणान्सुरेषु | न त्वेवाहं जातु नासं न त्वं निमे नराः सर्वे ||",
+      "transliteration": "śocastvaṃ prajñāvādāṃśca bhāṣase guṇānsureṣu | na tv evāhaṃ jātu nāsaṃ na tvaṃ nime narāḥ sarve ||",
+      "translation": "You grieve for those who should not be grieved for, yet you speak words of wisdom. The wise grieve neither for the living nor for the dead.",
+      "meter": "Anushtubh",
+      "language": "Sanskrit",
+      "audioCached": false
+    },
+    {
+      "id": "BG.02.047",
+      "book": "BG",
+      "chapter": 2,
+      "verse": 47,
+      "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन | मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ||",
+      "transliteration": "karmaṇyevādhikāraste mā phaleṣu kadācana | mā karmaphalaheturbhūrmā te saṅgo'astvakarmaṇi ||",
+      "translation": "You have the right to perform your duty, but you are not entitled to the fruits of your actions. Never consider yourself the cause of results, nor be attached to inaction.",
+      "meter": "Anushtubh",
+      "language": "Sanskrit",
+      "audioCached": false
+    }
+  ]
+}

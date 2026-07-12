@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
+  <title>UnityScript Timestamp Studio</title>
+  <link rel="stylesheet" href="timestamp-maker.css">
+</head>
+<body>
+  <header class="studio-header">
+    <div>
+      <p class="eyebrow">Developer tool</p>
+      <h1>UnityScript Timestamp Studio</h1>
+    </div>
+    <a class="viewer-link" href="index.html">Open UnityScript</a>
+  </header>
+
+  <main class="studio-layout">
+    <section class="setup-panel" aria-labelledby="setup-heading">
+      <h2 id="setup-heading">Source</h2>
+      <div class="field-grid">
+        <label>
+          Scripture
+          <select id="scriptureSelect" disabled></select>
+        </label>
+        <label>
+          Chapter
+          <select id="chapterSelect" disabled></select>
+        </label>
+        <label>
+          Provider name
+          <input id="providerInput" type="text" placeholder="e.g. The Sanskrit Channel" autocomplete="off">
+        </label>
+        <label>
+          YouTube video ID
+          <input id="videoIdInput" type="text" placeholder="Paste an ID or YouTube URL" autocomplete="off">
+        </label>
+      </div>
+      <div class="form-actions">
+        <button id="loadVideoButton" type="button">Load video</button>
+        <p id="dataStatus" class="status" role="status">Loading scripture catalogue…</p>
+      </div>
+    </section>
+
+    <section class="player-panel" aria-labelledby="player-heading">
+      <div class="section-heading">
+        <h2 id="player-heading">YouTube player</h2>
+        <output id="currentTime" class="time-readout">00:00</output>
+      </div>
+      <div id="playerFrame" class="player-frame">
+        <p>Load a YouTube video to begin marking verses.</p>
+      </div>
+    </section>
+
+    <section class="marking-panel" aria-labelledby="marking-heading">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Current verse</p>
+          <h2 id="marking-heading"><output id="currentVerseId">—</output></h2>
+        </div>
+        <p id="verseProgress" class="progress">0 of 0</p>
+      </div>
+      <div class="marking-actions">
+        <button id="previousButton" type="button" class="secondary-button" disabled>Previous</button>
+        <button id="saveButton" type="button" disabled>Save timestamp</button>
+        <button id="nextButton" type="button" class="secondary-button" disabled>Next</button>
+      </div>
+      <p id="saveStatus" class="status" role="status">Select a scripture chapter to begin.</p>
+      <div class="saved-section">
+        <div class="section-heading compact-heading">
+          <h3>Saved timestamps</h3>
+          <output id="savedCount">0 saved</output>
+        </div>
+        <ol id="savedList" class="saved-list" aria-live="polite"></ol>
+      </div>
+    </section>
+
+    <section class="export-panel" aria-labelledby="export-heading">
+      <div>
+        <p class="eyebrow">Ready when you are</p>
+        <h2 id="export-heading">Export JSON</h2>
+        <p>Exports the current provider, video, chapter, and all marked verse starts.</p>
+      </div>
+      <button id="exportButton" type="button" class="secondary-button" disabled>Export JSON</button>
+    </section>
+  </main>
+
+  <script src="https://www.youtube.com/iframe_api"></script>
+  <script src="timestamp-maker.js"></script>
+</body>
+</html>

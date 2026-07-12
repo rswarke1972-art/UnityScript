@@ -29,6 +29,86 @@
     </button>
   </div>
 </main>
+<div id="chantPracticeModal" class="chant-practice-modal" role="dialog" aria-modal="true" aria-labelledby="chantPracticeTitle" aria-hidden="true" hidden>
+  <div class="chant-practice-dialog">
+    <div class="chant-practice-heading">
+      <h2 id="chantPracticeTitle">Chant Practice</h2>
+      <button id="chantPracticeClose" class="chant-practice-close" type="button" aria-label="Close Chant Practice">&times;</button>
+    </div>
+    <p id="chantPracticeVerseId" class="chant-practice-verse-id"></p>
+    <section class="chant-practice-section" aria-labelledby="chantPracticeExpectedTitle">
+      <h3 id="chantPracticeExpectedTitle">Expected</h3>
+      <p id="chantPracticeExpected" class="chant-practice-text"></p>
+    </section>
+    <div class="chant-practice-recording-actions">
+      <button id="chantPracticeStart" type="button">Start Recording</button>
+      <button id="chantPracticeStop" class="chant-practice-secondary" type="button" disabled>Stop Recording</button>
+      <span id="chantPracticeStatus" class="chant-practice-status" role="status">Ready to record.</span>
+    </div>
+    <section class="chant-practice-section" aria-labelledby="chantPracticeRecognizedTitle">
+      <h3 id="chantPracticeRecognizedTitle">Recognized Text</h3>
+      <p id="chantPracticeRecognized" class="chant-practice-text muted">Record your chant to transcribe it locally.</p>
+    </section>
+    <div class="chant-practice-compare-actions">
+      <button id="chantPracticeCompare" type="button" disabled>Compare</button>
+    </div>
+    <section id="chantPracticeFeedback" class="chant-practice-section" hidden aria-labelledby="chantPracticeFeedbackTitle">
+      <h3 id="chantPracticeFeedbackTitle">Feedback</h3>
+      <p id="chantPracticeAccuracy" class="chant-practice-accuracy"></p>
+      <div class="chant-practice-diff-grid">
+        <div>
+          <h4>Expected</h4>
+          <p id="chantPracticeExpectedDiff" class="chant-practice-text"></p>
+        </div>
+        <div>
+          <h4>Recognized</h4>
+          <p id="chantPracticeRecognizedDiff" class="chant-practice-text"></p>
+        </div>
+      </div>
+      <p id="chantPracticeDetails" class="chant-practice-details"></p>
+    </section>
+    <button id="chantPracticeCloseButton" class="chant-practice-close-button" type="button">Close</button>
+  </div>
+</div>
+<div id="studyChatModal" class="study-chat-modal" role="dialog" aria-modal="true" aria-labelledby="studyChatTitle" aria-hidden="true" hidden>
+  <div class="study-chat-dialog">
+    <div class="study-chat-heading">
+      <div>
+        <h2 id="studyChatTitle">AI Study Companion</h2>
+        <p id="studyChatVerse" class="study-chat-verse"></p>
+      </div>
+      <button id="studyChatClose" class="study-chat-close" type="button" aria-label="Close AI Study Companion">&times;</button>
+    </div>
+    <div id="studyChatMessages" class="study-chat-messages" aria-live="polite"></div>
+    <form id="studyChatForm" class="study-chat-form">
+      <label class="sr-only" for="studyChatQuestion">Ask about this verse</label>
+      <textarea id="studyChatQuestion" rows="3" maxlength="4000" placeholder="Ask about this verse..."></textarea>
+      <div class="study-chat-actions">
+        <span id="studyChatLoading" class="study-chat-loading" hidden>Thinking...</span>
+        <button id="studyChatSend" type="submit">Send</button>
+        <button id="studyChatCloseButton" class="study-chat-close-button" type="button">Close</button>
+      </div>
+    </form>
+  </div>
+</div>
+<div id="humanChantModal" class="human-chant-modal" role="dialog" aria-modal="true" aria-labelledby="humanChantTitle" aria-hidden="true" hidden>
+  <div class="human-chant-dialog">
+    <div class="human-chant-heading">
+      <h2 id="humanChantTitle">Human Chant</h2>
+      <button id="humanChantClose" class="human-chant-close" type="button" aria-label="Close human chant">&times;</button>
+    </div>
+    <label id="humanChantProviderPicker" class="human-chant-provider-picker" hidden>
+      Provider
+      <select id="humanChantProviderSelect"></select>
+    </label>
+    <p id="humanChantProvider" class="human-chant-provider" hidden></p>
+    <p id="humanChantStatus" class="human-chant-status" role="status">Loading human chant...</p>
+    <div id="humanChantPlayerWrap" class="human-chant-player-wrap" hidden>
+      <div id="humanChantPlayer"></div>
+    </div>
+    <button id="humanChantCloseButton" class="human-chant-close-button" type="button">Close</button>
+  </div>
+</div>
 
 <!-- ✅ ONLY script.js here -->
 <script src="script.js"></script>

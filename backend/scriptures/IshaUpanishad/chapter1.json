@@ -1,0 +1,32 @@
+{
+  "chapterNumber": 1,
+  "title": "Complete Text",
+  "sanskritTitle": "सम्पूर्ण पाठ",
+  "verseCount": 18,
+  "verses": [
+    {
+      "id": "ISHA.01.001",
+      "book": "IS",
+      "chapter": 1,
+      "verse": 1,
+      "sanskrit": "पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते | पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ||",
+      "transliteration": "pūrṇamadaḥ pūrṇamidaṃ pūrṇātpūrṇamudacyate | pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ||",
+      "translation": "That is whole, this is whole; from the whole, the whole becomes whole; taking the whole from the whole, the whole remains whole.",
+      "meter": "Anushtubh",
+      "language": "Sanskrit",
+      "audioCached": false
+    },
+    {
+      "id": "ISHA.01.002",
+      "book": "IS",
+      "chapter": 1,
+      "verse": 2,
+      "sanskrit": "वङ्गमनस्येह कर्मणि न लग्यते सर्वेषु कालेषु | सर्वभूतानि चात्मन्येव व्यूह्यात्मानि च सर्वशः ||",
+      "transliteration": "vaṅgamanasyeha karmaṇi na lagyate sarveṣu kāleṣu | sarvabhūtāni cātmanyeva vyūhyātmāni ca sarvaśaḥ ||",
+      "translation": "One who sees all beings in the Self alone, and the Self in all beings, does not feel hatred by reason of that seeing.",
+      "meter": "Anushtubh",
+      "language": "Sanskrit",
+      "audioCached": false
+    }
+  ]
+}

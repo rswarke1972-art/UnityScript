@@ -1,0 +1,44 @@
+{
+  "chapterNumber": 1,
+  "title": "Arjuna Vishada Yoga",
+  "sanskritTitle": "अर्जुनविषादयोग",
+  "verseCount": 47,
+  "verses": [
+    {
+      "id": "BG.01.001",
+      "book": "BG",
+      "chapter": 1,
+      "verse": 1,
+      "sanskrit": "धृतराष्ट्र उवाच | धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः | मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||",
+      "transliteration": "dhṛtarāṣṭra uvāca | dharmakṣetre kuruksetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāścaiva kimakurvata sañjaya ||",
+      "translation": "Dhritarashtra said: O Sanjaya, what did my sons and the sons of Pandu do when they assembled on the holy field of Kurukshetra, eager to fight?",
+      "meter": "Anushtubh",
+      "language": "Sanskrit",
+      "audioCached": false
+    },
+    {
+      "id": "BG.01.002",
+      "book": "BG",
+      "chapter": 1,
+      "verse": 2,
+      "sanskrit": "सञ्जय उवाच | दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा | आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ||",
+      "transliteration": "sañjaya uvāca | dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanas tadā | ācāryamupasaṅgamya rājā vacanamabravīt ||",
+      "translation": "Sanjaya said: Seeing the army of the Pandavas arrayed in battle formation, King Duryodhana approached his teacher and spoke these words.",
+      "meter": "Anushtubh",
+      "language": "Sanskrit",
+      "audioCached": false
+    },
+    {
+      "id": "BG.01.011",
+      "book": "BG",
+      "chapter": 1,
+      "verse": 11,
+      "sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिताः | भीष्ममेवाभिरक्षन्तु भवन्तः सर्वशः स्थिराः ||",
+      "transliteration": "ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ | bhīṣmamevābhirakṣantu bhavantaḥ sarvaśaḥ sthirāḥ ||",
+      "translation": "Let all the warriors stand in their respective positions in the army, protecting Bhishma from all sides.",
+      "meter": "Anushtubh",
+      "language": "Sanskrit",
+      "audioCached": false
+    }
+  ]
+}
