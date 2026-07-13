@@ -1,0 +1,32 @@
+{
+  "bhagavad_gita": {
+    "ai": "vagdhenu",
+    "human": true,
+    "aiLabel": "AI Chant",
+    "humanLabel": "Human Chant"
+  },
+  "upanishads": {
+    "ai": "vagdhenu",
+    "human": true,
+    "aiLabel": "AI Chant",
+    "humanLabel": "Human Chant"
+  },
+  "dhammapada": {
+    "ai": "vagdhenu",
+    "human": true,
+    "aiLabel": "AI Chant",
+    "humanLabel": "Human Chant"
+  },
+  "bible": {
+    "ai": "piper",
+    "human": true,
+    "aiLabel": "AI Reading",
+    "humanLabel": "Human Reading"
+  },
+  "quran": {
+    "ai": null,
+    "human": true,
+    "aiLabel": "AI Recitation",
+    "humanLabel": "Human Recitation"
+  }
+}
