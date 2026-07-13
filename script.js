@@ -1027,6 +1027,9 @@ function formatText(text) {
     .replace(/\*(.*?)\*/g, "<i>$1</i>");   // italic
 }
 
+window.UNITYSCRIPT_API_BASE =
+"https://barrel-emerging-disclose-rolls.trycloudflare.com";
+
 const VAGDHENU_API_BASE = window.UNITYSCRIPT_API_BASE || localStorage.getItem("unityscriptApiBase") || "http://127.0.0.1:8000";
 
 let currentAudioUrl = null;
