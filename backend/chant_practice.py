@@ -135,10 +135,10 @@ class ChantPracticeService:
             raise ValueError(f"Unsupported CHANT_PRACTICE_PROVIDER: {provider}")
         return cls(
             FasterWhisperTranscriber(
-                model_path=os.getenv("CHANT_PRACTICE_MODEL_PATH"),
+                model_path=os.getenv("CHANT_PRACTICE_MODEL_PATH", "medium"),
                 device=os.getenv("CHANT_PRACTICE_DEVICE", "auto"),
                 compute_type=os.getenv("CHANT_PRACTICE_COMPUTE_TYPE", "int8"),
-                language=os.getenv("CHANT_PRACTICE_LANGUAGE", "sa"),
+                language=os.getenv("CHANT_PRACTICE_LANGUAGE", None),
             )
         )
 
