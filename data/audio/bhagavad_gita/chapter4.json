@@ -1,0 +1,140 @@
+{
+  "scripture": "bhagavad_gita",
+  "chapter": 4,
+  "chapterLabel": "Jnana Karma Sannyasa Yoga",
+  "providers": [
+    {
+      "id": "the-sanskrit-channel",
+      "name": "The Sanskrit Channel",
+      "videoId": "WITUOwi3EYk",
+      "verses": {
+        "bhagavad_gita_4_1": {
+          "start": 2721
+        },
+        "bhagavad_gita_4_2": {
+          "start": 2738
+        },
+        "bhagavad_gita_4_3": {
+          "start": 2752
+        },
+        "bhagavad_gita_4_4": {
+          "start": 2767
+        },
+        "bhagavad_gita_4_5": {
+          "start": 2783
+        },
+        "bhagavad_gita_4_6": {
+          "start": 2801
+        },
+        "bhagavad_gita_4_7": {
+          "start": 2815
+        },
+        "bhagavad_gita_4_8": {
+          "start": 2830
+        },
+        "bhagavad_gita_4_9": {
+          "start": 2845
+        },
+        "bhagavad_gita_4_10": {
+          "start": 2858
+        },
+        "bhagavad_gita_4_11": {
+          "start": 2873
+        },
+        "bhagavad_gita_4_12": {
+          "start": 2888
+        },
+        "bhagavad_gita_4_13": {
+          "start": 2903
+        },
+        "bhagavad_gita_4_14": {
+          "start": 2916
+        },
+        "bhagavad_gita_4_15": {
+          "start": 2930
+        },
+        "bhagavad_gita_4_16": {
+          "start": 2945
+        },
+        "bhagavad_gita_4_17": {
+          "start": 2961
+        },
+        "bhagavad_gita_4_18": {
+          "start": 2975
+        },
+        "bhagavad_gita_4_19": {
+          "start": 2988
+        },
+        "bhagavad_gita_4_20": {
+          "start": 3003
+        },
+        "bhagavad_gita_4_21": {
+          "start": 3018
+        },
+        "bhagavad_gita_4_22": {
+          "start": 3032
+        },
+        "bhagavad_gita_4_23": {
+          "start": 3046
+        },
+        "bhagavad_gita_4_24": {
+          "start": 3060
+        },
+        "bhagavad_gita_4_25": {
+          "start": 3073
+        },
+        "bhagavad_gita_4_26": {
+          "start": 3088
+        },
+        "bhagavad_gita_4_27": {
+          "start": 3102
+        },
+        "bhagavad_gita_4_28": {
+          "start": 3116
+        },
+        "bhagavad_gita_4_29": {
+          "start": 3132
+        },
+        "bhagavad_gita_4_30": {
+          "start": 3147
+        },
+        "bhagavad_gita_4_31": {
+          "start": 3162
+        },
+        "bhagavad_gita_4_32": {
+          "start": 3176
+        },
+        "bhagavad_gita_4_33": {
+          "start": 3190
+        },
+        "bhagavad_gita_4_34": {
+          "start": 3204
+        },
+        "bhagavad_gita_4_35": {
+          "start": 3218
+        },
+        "bhagavad_gita_4_36": {
+          "start": 3232
+        },
+        "bhagavad_gita_4_37": {
+          "start": 3246
+        },
+        "bhagavad_gita_4_38": {
+          "start": 3259
+        },
+        "bhagavad_gita_4_39": {
+          "start": 3272
+        },
+        "bhagavad_gita_4_40": {
+          "start": 3286
+        },
+        "bhagavad_gita_4_41": {
+          "start": 3300
+        },
+        "bhagavad_gita_4_42": {
+          "start": 3314
+        }
+      }
+    }
+  ]
+}

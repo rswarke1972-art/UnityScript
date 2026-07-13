@@ -1,0 +1,251 @@
+{
+  "scripture": "bhagavad_gita",
+  "chapter": 18,
+  "chapterLabel": "Moksha Sannyasa Yoga",
+  "providers": [
+    {
+      "id": "the-sanskrit-channel",
+      "name": "The Sanskrit Channel",
+      "videoId": "WITUOwi3EYk",
+      "verses": {
+        "bhagavad_gita_18_1": {
+          "start": 10190
+        },
+        "bhagavad_gita_18_2": {
+          "start": 10207
+        },
+        "bhagavad_gita_18_3": {
+          "start": 10226
+        },
+        "bhagavad_gita_18_4": {
+          "start": 10241
+        },
+        "bhagavad_gita_18_5": {
+          "start": 10256
+        },
+        "bhagavad_gita_18_6": {
+          "start": 10271
+        },
+        "bhagavad_gita_18_7": {
+          "start": 10286
+        },
+        "bhagavad_gita_18_8": {
+          "start": 10300
+        },
+        "bhagavad_gita_18_9": {
+          "start": 10316
+        },
+        "bhagavad_gita_18_10": {
+          "start": 10331
+        },
+        "bhagavad_gita_18_11": {
+          "start": 10346
+        },
+        "bhagavad_gita_18_12": {
+          "start": 10361
+        },
+        "bhagavad_gita_18_13": {
+          "start": 10375
+        },
+        "bhagavad_gita_18_14": {
+          "start": 10391
+        },
+        "bhagavad_gita_18_15": {
+          "start": 10405
+        },
+        "bhagavad_gita_18_16": {
+          "start": 10420
+        },
+        "bhagavad_gita_18_17": {
+          "start": 10432
+        },
+        "bhagavad_gita_18_18": {
+          "start": 10447
+        },
+        "bhagavad_gita_18_19": {
+          "start": 10462
+        },
+        "bhagavad_gita_18_20": {
+          "start": 10477
+        },
+        "bhagavad_gita_18_21": {
+          "start": 10492
+        },
+        "bhagavad_gita_18_22": {
+          "start": 10507
+        },
+        "bhagavad_gita_18_23": {
+          "start": 10520
+        },
+        "bhagavad_gita_18_24": {
+          "start": 10533
+        },
+        "bhagavad_gita_18_25": {
+          "start": 10548
+        },
+        "bhagavad_gita_18_26": {
+          "start": 10562
+        },
+        "bhagavad_gita_18_27": {
+          "start": 10577
+        },
+        "bhagavad_gita_18_28": {
+          "start": 10592
+        },
+        "bhagavad_gita_18_29": {
+          "start": 10607
+        },
+        "bhagavad_gita_18_30": {
+          "start": 10621
+        },
+        "bhagavad_gita_18_31": {
+          "start": 10637
+        },
+        "bhagavad_gita_18_32": {
+          "start": 10652
+        },
+        "bhagavad_gita_18_33": {
+          "start": 10667
+        },
+        "bhagavad_gita_18_34": {
+          "start": 10683
+        },
+        "bhagavad_gita_18_35": {
+          "start": 10699
+        },
+        "bhagavad_gita_18_36": {
+          "start": 10714
+        },
+        "bhagavad_gita_18_37": {
+          "start": 10729
+        },
+        "bhagavad_gita_18_38": {
+          "start": 10743
+        },
+        "bhagavad_gita_18_39": {
+          "start": 10756
+        },
+        "bhagavad_gita_18_40": {
+          "start": 10772
+        },
+        "bhagavad_gita_18_41": {
+          "start": 10787
+        },
+        "bhagavad_gita_18_42": {
+          "start": 10802
+        },
+        "bhagavad_gita_18_43": {
+          "start": 10817
+        },
+        "bhagavad_gita_18_44": {
+          "start": 10833
+        },
+        "bhagavad_gita_18_45": {
+          "start": 10848
+        },
+        "bhagavad_gita_18_46": {
+          "start": 10863
+        },
+        "bhagavad_gita_18_47": {
+          "start": 10877
+        },
+        "bhagavad_gita_18_48": {
+          "start": 10893
+        },
+        "bhagavad_gita_18_49": {
+          "start": 10910
+        },
+        "bhagavad_gita_18_50": {
+          "start": 10925
+        },
+        "bhagavad_gita_18_51": {
+          "start": 10942
+        },
+        "bhagavad_gita_18_52": {
+          "start": 10958
+        },
+        "bhagavad_gita_18_53": {
+          "start": 10973
+        },
+        "bhagavad_gita_18_54": {
+          "start": 10988
+        },
+        "bhagavad_gita_18_55": {
+          "start": 11003
+        },
+        "bhagavad_gita_18_56": {
+          "start": 11019
+        },
+        "bhagavad_gita_18_57": {
+          "start": 11035
+        },
+        "bhagavad_gita_18_58": {
+          "start": 11050
+        },
+        "bhagavad_gita_18_59": {
+          "start": 11064
+        },
+        "bhagavad_gita_18_60": {
+          "start": 11079
+        },
+        "bhagavad_gita_18_61": {
+          "start": 11093
+        },
+        "bhagavad_gita_18_62": {
+          "start": 11108
+        },
+        "bhagavad_gita_18_63": {
+          "start": 11124
+        },
+        "bhagavad_gita_18_64": {
+          "start": 11139
+        },
+        "bhagavad_gita_18_65": {
+          "start": 11154
+        },
+        "bhagavad_gita_18_66": {
+          "start": 11169
+        },
+        "bhagavad_gita_18_67": {
+          "start": 11185
+        },
+        "bhagavad_gita_18_68": {
+          "start": 11199
+        },
+        "bhagavad_gita_18_69": {
+          "start": 11214
+        },
+        "bhagavad_gita_18_70": {
+          "start": 11227
+        },
+        "bhagavad_gita_18_71": {
+          "start": 11241
+        },
+        "bhagavad_gita_18_72": {
+          "start": 11256
+        },
+        "bhagavad_gita_18_73": {
+          "start": 11270
+        },
+        "bhagavad_gita_18_74": {
+          "start": 11289
+        },
+        "bhagavad_gita_18_75": {
+          "start": 11305
+        },
+        "bhagavad_gita_18_76": {
+          "start": 11319
+        },
+        "bhagavad_gita_18_77": {
+          "start": 11333
+        },
+        "bhagavad_gita_18_78": {
+          "start": 11349
+        },
+        "bhagavad_gita_18_79": {
+          "start": 11362
+        }
+      }
+    }
+  ]
+}

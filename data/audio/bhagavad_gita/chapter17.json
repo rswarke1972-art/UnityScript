@@ -1,0 +1,101 @@
+{
+  "scripture": "bhagavad_gita",
+  "chapter": 17,
+  "chapterLabel": "Shraddhatraya Vibhaga Yoga",
+  "providers": [
+    {
+      "id": "the-sanskrit-channel",
+      "name": "The Sanskrit Channel",
+      "videoId": "WITUOwi3EYk",
+      "verses": {
+        "bhagavad_gita_17_1": {
+          "start": 9731
+        },
+        "bhagavad_gita_17_2": {
+          "start": 9751
+        },
+        "bhagavad_gita_17_3": {
+          "start": 9769
+        },
+        "bhagavad_gita_17_4": {
+          "start": 9784
+        },
+        "bhagavad_gita_17_5": {
+          "start": 9801
+        },
+        "bhagavad_gita_17_6": {
+          "start": 9816
+        },
+        "bhagavad_gita_17_7": {
+          "start": 9832
+        },
+        "bhagavad_gita_17_8": {
+          "start": 9846
+        },
+        "bhagavad_gita_17_9": {
+          "start": 9861
+        },
+        "bhagavad_gita_17_10": {
+          "start": 9876
+        },
+        "bhagavad_gita_17_11": {
+          "start": 9890
+        },
+        "bhagavad_gita_17_12": {
+          "start": 9904
+        },
+        "bhagavad_gita_17_13": {
+          "start": 9919
+        },
+        "bhagavad_gita_17_14": {
+          "start": 9932
+        },
+        "bhagavad_gita_17_15": {
+          "start": 9945
+        },
+        "bhagavad_gita_17_16": {
+          "start": 9960
+        },
+        "bhagavad_gita_17_17": {
+          "start": 9974
+        },
+        "bhagavad_gita_17_18": {
+          "start": 9989
+        },
+        "bhagavad_gita_17_19": {
+          "start": 10004
+        },
+        "bhagavad_gita_17_20": {
+          "start": 10019
+        },
+        "bhagavad_gita_17_21": {
+          "start": 10035
+        },
+        "bhagavad_gita_17_22": {
+          "start": 10050
+        },
+        "bhagavad_gita_17_23": {
+          "start": 10063
+        },
+        "bhagavad_gita_17_24": {
+          "start": 10079
+        },
+        "bhagavad_gita_17_25": {
+          "start": 10094
+        },
+        "bhagavad_gita_17_26": {
+          "start": 10111
+        },
+        "bhagavad_gita_17_27": {
+          "start": 10126
+        },
+        "bhagavad_gita_17_28": {
+          "start": 10140
+        },
+        "bhagavad_gita_17_29": {
+          "start": 10155
+        }
+      }
+    }
+  ]
+}

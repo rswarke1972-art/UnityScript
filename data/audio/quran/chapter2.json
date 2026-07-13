@@ -1,0 +1,872 @@
+{
+  "scripture": "quran",
+  "chapter": 2,
+  "chapterLabel": "Al-Baqara",
+  "providers": [
+    {
+      "id": "zikrullah-tv",
+      "name": "Zikrullah TV",
+      "videoId": "QV3rAwvvVTs",
+      "verses": {
+        "quran_2_1": {
+          "start": 18
+        },
+        "quran_2_2": {
+          "start": 29
+        },
+        "quran_2_3": {
+          "start": 43
+        },
+        "quran_2_4": {
+          "start": 59
+        },
+        "quran_2_5": {
+          "start": 82
+        },
+        "quran_2_6": {
+          "start": 102
+        },
+        "quran_2_7": {
+          "start": 120
+        },
+        "quran_2_8": {
+          "start": 145
+        },
+        "quran_2_9": {
+          "start": 162
+        },
+        "quran_2_10": {
+          "start": 182
+        },
+        "quran_2_11": {
+          "start": 202
+        },
+        "quran_2_12": {
+          "start": 219
+        },
+        "quran_2_13": {
+          "start": 232
+        },
+        "quran_2_14": {
+          "start": 281
+        },
+        "quran_2_15": {
+          "start": 309
+        },
+        "quran_2_16": {
+          "start": 322
+        },
+        "quran_2_17": {
+          "start": 339
+        },
+        "quran_2_18": {
+          "start": 362
+        },
+        "quran_2_19": {
+          "start": 374
+        },
+        "quran_2_20": {
+          "start": 408
+        },
+        "quran_2_21": {
+          "start": 453
+        },
+        "quran_2_22": {
+          "start": 473
+        },
+        "quran_2_23": {
+          "start": 523
+        },
+        "quran_2_24": {
+          "start": 562
+        },
+        "quran_2_25": {
+          "start": 582
+        },
+        "quran_2_26": {
+          "start": 640
+        },
+        "quran_2_27": {
+          "start": 701
+        },
+        "quran_2_28": {
+          "start": 740
+        },
+        "quran_2_29": {
+          "start": 764
+        },
+        "quran_2_30": {
+          "start": 796
+        },
+        "quran_2_31": {
+          "start": 839
+        },
+        "quran_2_32": {
+          "start": 875
+        },
+        "quran_2_33": {
+          "start": 896
+        },
+        "quran_2_34": {
+          "start": 945
+        },
+        "quran_2_35": {
+          "start": 972
+        },
+        "quran_2_36": {
+          "start": 1000
+        },
+        "quran_2_37": {
+          "start": 1032
+        },
+        "quran_2_38": {
+          "start": 1056
+        },
+        "quran_2_39": {
+          "start": 1089
+        },
+        "quran_2_40": {
+          "start": 1110
+        },
+        "quran_2_41": {
+          "start": 1139
+        },
+        "quran_2_42": {
+          "start": 1176
+        },
+        "quran_2_43": {
+          "start": 1189
+        },
+        "quran_2_44": {
+          "start": 1204
+        },
+        "quran_2_45": {
+          "start": 1225
+        },
+        "quran_2_46": {
+          "start": 1243
+        },
+        "quran_2_47": {
+          "start": 1266
+        },
+        "quran_2_48": {
+          "start": 1291
+        },
+        "quran_2_49": {
+          "start": 1321
+        },
+        "quran_2_50": {
+          "start": 1366
+        },
+        "quran_2_51": {
+          "start": 1385
+        },
+        "quran_2_52": {
+          "start": 1410
+        },
+        "quran_2_53": {
+          "start": 1424
+        },
+        "quran_2_54": {
+          "start": 1435
+        },
+        "quran_2_55": {
+          "start": 1491
+        },
+        "quran_2_56": {
+          "start": 1515
+        },
+        "quran_2_57": {
+          "start": 1527
+        },
+        "quran_2_58": {
+          "start": 1559
+        },
+        "quran_2_59": {
+          "start": 1598
+        },
+        "quran_2_60": {
+          "start": 1628
+        },
+        "quran_2_61": {
+          "start": 1663
+        },
+        "quran_2_62": {
+          "start": 1760
+        },
+        "quran_2_63": {
+          "start": 1801
+        },
+        "quran_2_64": {
+          "start": 1827
+        },
+        "quran_2_65": {
+          "start": 1850
+        },
+        "quran_2_66": {
+          "start": 1865
+        },
+        "quran_2_67": {
+          "start": 1880
+        },
+        "quran_2_68": {
+          "start": 1910
+        },
+        "quran_2_69": {
+          "start": 1939
+        },
+        "quran_2_70": {
+          "start": 1966
+        },
+        "quran_2_71": {
+          "start": 1991
+        },
+        "quran_2_72": {
+          "start": 2023
+        },
+        "quran_2_73": {
+          "start": 2040
+        },
+        "quran_2_74": {
+          "start": 2058
+        },
+        "quran_2_75": {
+          "start": 2114
+        },
+        "quran_2_76": {
+          "start": 2144
+        },
+        "quran_2_77": {
+          "start": 2190
+        },
+        "quran_2_78": {
+          "start": 2203
+        },
+        "quran_2_79": {
+          "start": 2221
+        },
+        "quran_2_80": {
+          "start": 2260
+        },
+        "quran_2_81": {
+          "start": 2302
+        },
+        "quran_2_82": {
+          "start": 2327
+        },
+        "quran_2_83": {
+          "start": 2344
+        },
+        "quran_2_84": {
+          "start": 2410
+        },
+        "quran_2_85": {
+          "start": 2445
+        },
+        "quran_2_86": {
+          "start": 2528
+        },
+        "quran_2_87": {
+          "start": 2550
+        },
+        "quran_2_88": {
+          "start": 2599
+        },
+        "quran_2_89": {
+          "start": 2616
+        },
+        "quran_2_90": {
+          "start": 2657
+        },
+        "quran_2_91": {
+          "start": 2713
+        },
+        "quran_2_92": {
+          "start": 2768
+        },
+        "quran_2_93": {
+          "start": 2799
+        },
+        "quran_2_94": {
+          "start": 2847
+        },
+        "quran_2_95": {
+          "start": 2871
+        },
+        "quran_2_96": {
+          "start": 2887
+        },
+        "quran_2_97": {
+          "start": 2926
+        },
+        "quran_2_98": {
+          "start": 2955
+        },
+        "quran_2_99": {
+          "start": 2982
+        },
+        "quran_2_100": {
+          "start": 3003
+        },
+        "quran_2_101": {
+          "start": 3019
+        },
+        "quran_2_102": {
+          "start": 3062
+        },
+        "quran_2_103": {
+          "start": 3176
+        },
+        "quran_2_104": {
+          "start": 3196
+        },
+        "quran_2_105": {
+          "start": 3214
+        },
+        "quran_2_106": {
+          "start": 3254
+        },
+        "quran_2_107": {
+          "start": 3279
+        },
+        "quran_2_108": {
+          "start": 3301
+        },
+        "quran_2_109": {
+          "start": 3325
+        },
+        "quran_2_110": {
+          "start": 3369
+        },
+        "quran_2_111": {
+          "start": 3397
+        },
+        "quran_2_112": {
+          "start": 3422
+        },
+        "quran_2_113": {
+          "start": 3444
+        },
+        "quran_2_114": {
+          "start": 3488
+        },
+        "quran_2_115": {
+          "start": 3531
+        },
+        "quran_2_116": {
+          "start": 3551
+        },
+        "quran_2_117": {
+          "start": 3569
+        },
+        "quran_2_118": {
+          "start": 3588
+        },
+        "quran_2_119": {
+          "start": 3622
+        },
+        "quran_2_120": {
+          "start": 3639
+        },
+        "quran_2_121": {
+          "start": 3679
+        },
+        "quran_2_122": {
+          "start": 3704
+        },
+        "quran_2_123": {
+          "start": 3725
+        },
+        "quran_2_124": {
+          "start": 3754
+        },
+        "quran_2_125": {
+          "start": 3786
+        },
+        "quran_2_126": {
+          "start": 3828
+        },
+        "quran_2_127": {
+          "start": 3872
+        },
+        "quran_2_128": {
+          "start": 3895
+        },
+        "quran_2_129": {
+          "start": 3923
+        },
+        "quran_2_130": {
+          "start": 3955
+        },
+        "quran_2_131": {
+          "start": 3980
+        },
+        "quran_2_132": {
+          "start": 3992
+        },
+        "quran_2_133": {
+          "start": 4019
+        },
+        "quran_2_134": {
+          "start": 4059
+        },
+        "quran_2_135": {
+          "start": 4080
+        },
+        "quran_2_136": {
+          "start": 4099
+        },
+        "quran_2_137": {
+          "start": 4161
+        },
+        "quran_2_138": {
+          "start": 4192
+        },
+        "quran_2_139": {
+          "start": 4208
+        },
+        "quran_2_140": {
+          "start": 4228
+        },
+        "quran_2_141": {
+          "start": 4273
+        },
+        "quran_2_142": {
+          "start": 4296
+        },
+        "quran_2_143": {
+          "start": 4332
+        },
+        "quran_2_144": {
+          "start": 4422
+        },
+        "quran_2_145": {
+          "start": 4476
+        },
+        "quran_2_146": {
+          "start": 4527
+        },
+        "quran_2_147": {
+          "start": 4554
+        },
+        "quran_2_148": {
+          "start": 4564
+        },
+        "quran_2_149": {
+          "start": 4593
+        },
+        "quran_2_150": {
+          "start": 4618
+        },
+        "quran_2_151": {
+          "start": 4662
+        },
+        "quran_2_152": {
+          "start": 4700
+        },
+        "quran_2_153": {
+          "start": 4711
+        },
+        "quran_2_154": {
+          "start": 4732
+        },
+        "quran_2_155": {
+          "start": 4755
+        },
+        "quran_2_156": {
+          "start": 4787
+        },
+        "quran_2_157": {
+          "start": 4817
+        },
+        "quran_2_158": {
+          "start": 4835
+        },
+        "quran_2_159": {
+          "start": 4871
+        },
+        "quran_2_160": {
+          "start": 4923
+        },
+        "quran_2_161": {
+          "start": 4942
+        },
+        "quran_2_162": {
+          "start": 4980
+        },
+        "quran_2_163": {
+          "start": 4994
+        },
+        "quran_2_164": {
+          "start": 5013
+        },
+        "quran_2_165": {
+          "start": 5109
+        },
+        "quran_2_166": {
+          "start": 5162
+        },
+        "quran_2_167": {
+          "start": 5182
+        },
+        "quran_2_168": {
+          "start": 5215
+        },
+        "quran_2_169": {
+          "start": 5244
+        },
+        "quran_2_170": {
+          "start": 5268
+        },
+        "quran_2_171": {
+          "start": 5308
+        },
+        "quran_2_172": {
+          "start": 5333
+        },
+        "quran_2_173": {
+          "start": 5357
+        },
+        "quran_2_174": {
+          "start": 5397
+        },
+        "quran_2_175": {
+          "start": 5456
+        },
+        "quran_2_176": {
+          "start": 5478
+        },
+        "quran_2_177": {
+          "start": 5499
+        },
+        "quran_2_178": {
+          "start": 5595
+        },
+        "quran_2_179": {
+          "start": 5658
+        },
+        "quran_2_180": {
+          "start": 5673
+        },
+        "quran_2_181": {
+          "start": 5707
+        },
+        "quran_2_182": {
+          "start": 5730
+        },
+        "quran_2_183": {
+          "start": 5761
+        },
+        "quran_2_184": {
+          "start": 5785
+        },
+        "quran_2_185": {
+          "start": 5835
+        },
+        "quran_2_186": {
+          "start": 5897
+        },
+        "quran_2_187": {
+          "start": 5922
+        },
+        "quran_2_188": {
+          "start": 6018
+        },
+        "quran_2_189": {
+          "start": 6065
+        },
+        "quran_2_190": {
+          "start": 6101
+        },
+        "quran_2_191": {
+          "start": 6120
+        },
+        "quran_2_192": {
+          "start": 6164
+        },
+        "quran_2_193": {
+          "start": 6176
+        },
+        "quran_2_194": {
+          "start": 6199
+        },
+        "quran_2_195": {
+          "start": 6231
+        },
+        "quran_2_196": {
+          "start": 6250
+        },
+        "quran_2_197": {
+          "start": 6353
+        },
+        "quran_2_198": {
+          "start": 6399
+        },
+        "quran_2_199": {
+          "start": 6447
+        },
+        "quran_2_200": {
+          "start": 6467
+        },
+        "quran_2_201": {
+          "start": 6502
+        },
+        "quran_2_202": {
+          "start": 6528
+        },
+        "quran_2_203": {
+          "start": 6543
+        },
+        "quran_2_204": {
+          "start": 6587
+        },
+        "quran_2_205": {
+          "start": 6612
+        },
+        "quran_2_206": {
+          "start": 6629
+        },
+        "quran_2_207": {
+          "start": 6646
+        },
+        "quran_2_208": {
+          "start": 6669
+        },
+        "quran_2_209": {
+          "start": 6698
+        },
+        "quran_2_210": {
+          "start": 6725
+        },
+        "quran_2_211": {
+          "start": 6759
+        },
+        "quran_2_212": {
+          "start": 6791
+        },
+        "quran_2_213": {
+          "start": 6820
+        },
+        "quran_2_214": {
+          "start": 6914
+        },
+        "quran_2_215": {
+          "start": 6968
+        },
+        "quran_2_216": {
+          "start": 7014
+        },
+        "quran_2_217": {
+          "start": 7050
+        },
+        "quran_2_218": {
+          "start": 7148
+        },
+        "quran_2_219": {
+          "start": 7176
+        },
+        "quran_2_220": {
+          "start": 7224
+        },
+        "quran_2_221": {
+          "start": 7264
+        },
+        "quran_2_222": {
+          "start": 7334
+        },
+        "quran_2_223": {
+          "start": 7382
+        },
+        "quran_2_224": {
+          "start": 7415
+        },
+        "quran_2_225": {
+          "start": 7438
+        },
+        "quran_2_226": {
+          "start": 7467
+        },
+        "quran_2_227": {
+          "start": 7491
+        },
+        "quran_2_228": {
+          "start": 7500
+        },
+        "quran_2_229": {
+          "start": 7573
+        },
+        "quran_2_230": {
+          "start": 7663
+        },
+        "quran_2_231": {
+          "start": 7720
+        },
+        "quran_2_232": {
+          "start": 7814
+        },
+        "quran_2_233": {
+          "start": 7873
+        },
+        "quran_2_234": {
+          "start": 7982
+        },
+        "quran_2_235": {
+          "start": 8054
+        },
+        "quran_2_236": {
+          "start": 8146
+        },
+        "quran_2_237": {
+          "start": 8186
+        },
+        "quran_2_238": {
+          "start": 8251
+        },
+        "quran_2_239": {
+          "start": 8264
+        },
+        "quran_2_240": {
+          "start": 8287
+        },
+        "quran_2_241": {
+          "start": 8336
+        },
+        "quran_2_242": {
+          "start": 8350
+        },
+        "quran_2_243": {
+          "start": 8362
+        },
+        "quran_2_244": {
+          "start": 8395
+        },
+        "quran_2_245": {
+          "start": 8409
+        },
+        "quran_2_246": {
+          "start": 8436
+        },
+        "quran_2_247": {
+          "start": 8519
+        },
+        "quran_2_248": {
+          "start": 8577
+        },
+        "quran_2_249": {
+          "start": 8636
+        },
+        "quran_2_250": {
+          "start": 8727
+        },
+        "quran_2_251": {
+          "start": 8756
+        },
+        "quran_2_252": {
+          "start": 8812
+        },
+        "quran_2_253": {
+          "start": 8828
+        },
+        "quran_2_254": {
+          "start": 8920
+        },
+        "quran_2_255": {
+          "start": 8960
+        },
+        "quran_2_256": {
+          "start": 9041
+        },
+        "quran_2_257": {
+          "start": 9079
+        },
+        "quran_2_258": {
+          "start": 9129
+        },
+        "quran_2_259": {
+          "start": 9193
+        },
+        "quran_2_260": {
+          "start": 9288
+        },
+        "quran_2_261": {
+          "start": 9347
+        },
+        "quran_2_262": {
+          "start": 9395
+        },
+        "quran_2_263": {
+          "start": 9446
+        },
+        "quran_2_264": {
+          "start": 9470
+        },
+        "quran_2_265": {
+          "start": 9546
+        },
+        "quran_2_266": {
+          "start": 9604
+        },
+        "quran_2_267": {
+          "start": 9679
+        },
+        "quran_2_268": {
+          "start": 9750
+        },
+        "quran_2_269": {
+          "start": 9774
+        },
+        "quran_2_270": {
+          "start": 9800
+        },
+        "quran_2_271": {
+          "start": 9828
+        },
+        "quran_2_272": {
+          "start": 9861
+        },
+        "quran_2_273": {
+          "start": 9912
+        },
+        "quran_2_274": {
+          "start": 9958
+        },
+        "quran_2_275": {
+          "start": 9990
+        },
+        "quran_2_276": {
+          "start": 10058
+        },
+        "quran_2_277": {
+          "start": 10074
+        },
+        "quran_2_278": {
+          "start": 10105
+        },
+        "quran_2_279": {
+          "start": 10122
+        },
+        "quran_2_280": {
+          "start": 10146
+        },
+        "quran_2_281": {
+          "start": 10165
+        },
+        "quran_2_282": {
+          "start": 10186
+        },
+        "quran_2_283": {
+          "start": 10402
+        },
+        "quran_2_284": {
+          "start": 10452
+        },
+        "quran_2_285": {
+          "start": 10495
+        },
+        "quran_2_286": {
+          "start": 10539
+        }
+      }
+    }
+  ]
+}

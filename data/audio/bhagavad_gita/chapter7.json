@@ -1,0 +1,107 @@
+{
+  "scripture": "bhagavad_gita",
+  "chapter": 7,
+  "chapterLabel": "Jnana Vijnana Yoga",
+  "providers": [
+    {
+      "id": "the-sanskrit-channel",
+      "name": "The Sanskrit Channel",
+      "videoId": "WITUOwi3EYk",
+      "verses": {
+        "bhagavad_gita_7_1": {
+          "start": 4523
+        },
+        "bhagavad_gita_7_2": {
+          "start": 4540
+        },
+        "bhagavad_gita_7_3": {
+          "start": 4553
+        },
+        "bhagavad_gita_7_4": {
+          "start": 4566
+        },
+        "bhagavad_gita_7_5": {
+          "start": 4580
+        },
+        "bhagavad_gita_7_6": {
+          "start": 4594
+        },
+        "bhagavad_gita_7_7": {
+          "start": 4607
+        },
+        "bhagavad_gita_7_8": {
+          "start": 4619
+        },
+        "bhagavad_gita_7_9": {
+          "start": 4633
+        },
+        "bhagavad_gita_7_10": {
+          "start": 4646
+        },
+        "bhagavad_gita_7_11": {
+          "start": 4661
+        },
+        "bhagavad_gita_7_12": {
+          "start": 4674
+        },
+        "bhagavad_gita_7_13": {
+          "start": 4689
+        },
+        "bhagavad_gita_7_14": {
+          "start": 4702
+        },
+        "bhagavad_gita_7_15": {
+          "start": 4717
+        },
+        "bhagavad_gita_7_16": {
+          "start": 4732
+        },
+        "bhagavad_gita_7_17": {
+          "start": 4747
+        },
+        "bhagavad_gita_7_18": {
+          "start": 4759
+        },
+        "bhagavad_gita_7_19": {
+          "start": 4774
+        },
+        "bhagavad_gita_7_20": {
+          "start": 4787
+        },
+        "bhagavad_gita_7_21": {
+          "start": 4803
+        },
+        "bhagavad_gita_7_22": {
+          "start": 4817
+        },
+        "bhagavad_gita_7_23": {
+          "start": 4829
+        },
+        "bhagavad_gita_7_24": {
+          "start": 4843
+        },
+        "bhagavad_gita_7_25": {
+          "start": 4857
+        },
+        "bhagavad_gita_7_26": {
+          "start": 4871
+        },
+        "bhagavad_gita_7_27": {
+          "start": 4884
+        },
+        "bhagavad_gita_7_28": {
+          "start": 4898
+        },
+        "bhagavad_gita_7_29": {
+          "start": 4912
+        },
+        "bhagavad_gita_7_30": {
+          "start": 4925
+        },
+        "bhagavad_gita_7_31": {
+          "start": 4938
+        }
+      }
+    }
+  ]
+}

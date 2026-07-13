@@ -1,0 +1,107 @@
+{
+  "scripture": "bible",
+  "chapter": "1-1",
+  "chapterLabel": "Genesis · Chapter 1",
+  "providers": [
+    {
+      "id": "biblical-pursuit",
+      "name": "Biblical Pursuit",
+      "videoId": "0XJk2DQZWLE",
+      "verses": {
+        "genesis_1_1": {
+          "start": 2
+        },
+        "genesis_1_2": {
+          "start": 5
+        },
+        "genesis_1_3": {
+          "start": 14
+        },
+        "genesis_1_4": {
+          "start": 19
+        },
+        "genesis_1_5": {
+          "start": 24
+        },
+        "genesis_1_6": {
+          "start": 32
+        },
+        "genesis_1_7": {
+          "start": 38
+        },
+        "genesis_1_8": {
+          "start": 46
+        },
+        "genesis_1_9": {
+          "start": 50
+        },
+        "genesis_1_10": {
+          "start": 59
+        },
+        "genesis_1_11": {
+          "start": 67
+        },
+        "genesis_1_12": {
+          "start": 78
+        },
+        "genesis_1_13": {
+          "start": 88
+        },
+        "genesis_1_14": {
+          "start": 91
+        },
+        "genesis_1_15": {
+          "start": 101
+        },
+        "genesis_1_16": {
+          "start": 106
+        },
+        "genesis_1_17": {
+          "start": 115
+        },
+        "genesis_1_18": {
+          "start": 119
+        },
+        "genesis_1_19": {
+          "start": 126
+        },
+        "genesis_1_20": {
+          "start": 129
+        },
+        "genesis_1_21": {
+          "start": 138
+        },
+        "genesis_1_22": {
+          "start": 150
+        },
+        "genesis_1_23": {
+          "start": 158
+        },
+        "genesis_1_24": {
+          "start": 161
+        },
+        "genesis_1_25": {
+          "start": 171
+        },
+        "genesis_1_26": {
+          "start": 182
+        },
+        "genesis_1_27": {
+          "start": 197
+        },
+        "genesis_1_28": {
+          "start": 204
+        },
+        "genesis_1_29": {
+          "start": 218
+        },
+        "genesis_1_30": {
+          "start": 230
+        },
+        "genesis_1_31": {
+          "start": 241
+        }
+      }
+    }
+  ]
+}

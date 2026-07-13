@@ -1,0 +1,119 @@
+{
+  "scripture": "bhagavad_gita",
+  "chapter": 9,
+  "chapterLabel": "Raja Vidya Raja Guhya Yoga",
+  "providers": [
+    {
+      "id": "the-sanskrit-channel",
+      "name": "The Sanskrit Channel",
+      "videoId": "WITUOwi3EYk",
+      "verses": {
+        "bhagavad_gita_9_1": {
+          "start": 5419
+        },
+        "bhagavad_gita_9_2": {
+          "start": 5437
+        },
+        "bhagavad_gita_9_3": {
+          "start": 5450
+        },
+        "bhagavad_gita_9_4": {
+          "start": 5464
+        },
+        "bhagavad_gita_9_5": {
+          "start": 5477
+        },
+        "bhagavad_gita_9_6": {
+          "start": 5491
+        },
+        "bhagavad_gita_9_7": {
+          "start": 5505
+        },
+        "bhagavad_gita_9_8": {
+          "start": 5519
+        },
+        "bhagavad_gita_9_9": {
+          "start": 5531
+        },
+        "bhagavad_gita_9_10": {
+          "start": 5543
+        },
+        "bhagavad_gita_9_11": {
+          "start": 5556
+        },
+        "bhagavad_gita_9_12": {
+          "start": 5570
+        },
+        "bhagavad_gita_9_13": {
+          "start": 5586
+        },
+        "bhagavad_gita_9_14": {
+          "start": 5601
+        },
+        "bhagavad_gita_9_15": {
+          "start": 5615
+        },
+        "bhagavad_gita_9_16": {
+          "start": 5629
+        },
+        "bhagavad_gita_9_17": {
+          "start": 5642
+        },
+        "bhagavad_gita_9_18": {
+          "start": 5654
+        },
+        "bhagavad_gita_9_19": {
+          "start": 5668
+        },
+        "bhagavad_gita_9_20": {
+          "start": 5681
+        },
+        "bhagavad_gita_9_21": {
+          "start": 5699
+        },
+        "bhagavad_gita_9_22": {
+          "start": 5718
+        },
+        "bhagavad_gita_9_23": {
+          "start": 5734
+        },
+        "bhagavad_gita_9_24": {
+          "start": 5749
+        },
+        "bhagavad_gita_9_25": {
+          "start": 5764
+        },
+        "bhagavad_gita_9_26": {
+          "start": 5779
+        },
+        "bhagavad_gita_9_27": {
+          "start": 5793
+        },
+        "bhagavad_gita_9_28": {
+          "start": 5806
+        },
+        "bhagavad_gita_9_29": {
+          "start": 5821
+        },
+        "bhagavad_gita_9_30": {
+          "start": 5836
+        },
+        "bhagavad_gita_9_31": {
+          "start": 5851
+        },
+        "bhagavad_gita_9_32": {
+          "start": 5865
+        },
+        "bhagavad_gita_9_33": {
+          "start": 5880
+        },
+        "bhagavad_gita_9_34": {
+          "start": 5894
+        },
+        "bhagavad_gita_9_35": {
+          "start": 5908
+        }
+      }
+    }
+  ]
+}

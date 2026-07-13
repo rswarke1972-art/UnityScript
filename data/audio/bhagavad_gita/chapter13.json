@@ -1,0 +1,122 @@
+{
+  "scripture": "bhagavad_gita",
+  "chapter": 13,
+  "chapterLabel": "Kshetra Kshetrajna Vibhaga Yoga",
+  "providers": [
+    {
+      "id": "the-sanskrit-channel",
+      "name": "The Sanskrit Channel",
+      "videoId": "WITUOwi3EYk",
+      "verses": {
+        "bhagavad_gita_13_1": {
+          "start": 7951
+        },
+        "bhagavad_gita_13_2": {
+          "start": 7969
+        },
+        "bhagavad_gita_13_3": {
+          "start": 7987
+        },
+        "bhagavad_gita_13_4": {
+          "start": 8003
+        },
+        "bhagavad_gita_13_5": {
+          "start": 8018
+        },
+        "bhagavad_gita_13_6": {
+          "start": 8033
+        },
+        "bhagavad_gita_13_7": {
+          "start": 8047
+        },
+        "bhagavad_gita_13_8": {
+          "start": 8063
+        },
+        "bhagavad_gita_13_9": {
+          "start": 8077
+        },
+        "bhagavad_gita_13_10": {
+          "start": 8089
+        },
+        "bhagavad_gita_13_11": {
+          "start": 8101
+        },
+        "bhagavad_gita_13_12": {
+          "start": 8114
+        },
+        "bhagavad_gita_13_13": {
+          "start": 8128
+        },
+        "bhagavad_gita_13_14": {
+          "start": 8143
+        },
+        "bhagavad_gita_13_15": {
+          "start": 8157
+        },
+        "bhagavad_gita_13_16": {
+          "start": 8171
+        },
+        "bhagavad_gita_13_17": {
+          "start": 8184
+        },
+        "bhagavad_gita_13_18": {
+          "start": 8197
+        },
+        "bhagavad_gita_13_19": {
+          "start": 8210
+        },
+        "bhagavad_gita_13_20": {
+          "start": 8226
+        },
+        "bhagavad_gita_13_21": {
+          "start": 8239
+        },
+        "bhagavad_gita_13_22": {
+          "start": 8253
+        },
+        "bhagavad_gita_13_23": {
+          "start": 8267
+        },
+        "bhagavad_gita_13_24": {
+          "start": 8282
+        },
+        "bhagavad_gita_13_25": {
+          "start": 8296
+        },
+        "bhagavad_gita_13_26": {
+          "start": 8311
+        },
+        "bhagavad_gita_13_27": {
+          "start": 8326
+        },
+        "bhagavad_gita_13_28": {
+          "start": 8339
+        },
+        "bhagavad_gita_13_29": {
+          "start": 8352
+        },
+        "bhagavad_gita_13_30": {
+          "start": 8366
+        },
+        "bhagavad_gita_13_31": {
+          "start": 8378
+        },
+        "bhagavad_gita_13_32": {
+          "start": 8391
+        },
+        "bhagavad_gita_13_33": {
+          "start": 8404
+        },
+        "bhagavad_gita_13_34": {
+          "start": 8417
+        },
+        "bhagavad_gita_13_35": {
+          "start": 8431
+        },
+        "bhagavad_gita_13_36": {
+          "start": 8445
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "scripture": "bhagavad_gita",
+  "chapter": 14,
+  "chapterLabel": "Gunatraya Vibhaga Yoga",
+  "providers": [
+    {
+      "id": "the-sanskrit-channel",
+      "name": "The Sanskrit Channel",
+      "videoId": "WITUOwi3EYk",
+      "verses": {
+        "bhagavad_gita_14_1": {
+          "start": 8483
+        },
+        "bhagavad_gita_14_2": {
+          "start": 8504
+        },
+        "bhagavad_gita_14_3": {
+          "start": 8520
+        },
+        "bhagavad_gita_14_4": {
+          "start": 8536
+        },
+        "bhagavad_gita_14_5": {
+          "start": 8552
+        },
+        "bhagavad_gita_14_6": {
+          "start": 8569
+        },
+        "bhagavad_gita_14_7": {
+          "start": 8584
+        },
+        "bhagavad_gita_14_8": {
+          "start": 8599
+        },
+        "bhagavad_gita_14_9": {
+          "start": 8614
+        },
+        "bhagavad_gita_14_10": {
+          "start": 8629
+        },
+        "bhagavad_gita_14_11": {
+          "start": 8644
+        },
+        "bhagavad_gita_14_12": {
+          "start": 8659
+        },
+        "bhagavad_gita_14_13": {
+          "start": 8674
+        },
+        "bhagavad_gita_14_14": {
+          "start": 8690
+        },
+        "bhagavad_gita_14_15": {
+          "start": 8704
+        },
+        "bhagavad_gita_14_16": {
+          "start": 8719
+        },
+        "bhagavad_gita_14_17": {
+          "start": 8733
+        },
+        "bhagavad_gita_14_18": {
+          "start": 8749
+        },
+        "bhagavad_gita_14_19": {
+          "start": 8766
+        },
+        "bhagavad_gita_14_20": {
+          "start": 8782
+        },
+        "bhagavad_gita_14_21": {
+          "start": 8797
+        },
+        "bhagavad_gita_14_22": {
+          "start": 8814
+        },
+        "bhagavad_gita_14_23": {
+          "start": 8832
+        },
+        "bhagavad_gita_14_24": {
+          "start": 8847
+        },
+        "bhagavad_gita_14_25": {
+          "start": 8863
+        },
+        "bhagavad_gita_14_26": {
+          "start": 8879
+        },
+        "bhagavad_gita_14_27": {
+          "start": 8895
+        },
+        "bhagavad_gita_14_28": {
+          "start": 8911
+        }
+      }
+    }
+  ]
+}

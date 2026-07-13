@@ -1,0 +1,77 @@
+{
+  "scripture": "bhagavad_gita",
+  "chapter": 12,
+  "chapterLabel": "Bhakti Yoga",
+  "providers": [
+    {
+      "id": "the-sanskrit-channel",
+      "name": "The Sanskrit Channel",
+      "videoId": "WITUOwi3EYk",
+      "verses": {
+        "bhagavad_gita_12_1": {
+          "start": 7615
+        },
+        "bhagavad_gita_12_2": {
+          "start": 7634
+        },
+        "bhagavad_gita_12_3": {
+          "start": 7653
+        },
+        "bhagavad_gita_12_4": {
+          "start": 7666
+        },
+        "bhagavad_gita_12_5": {
+          "start": 7682
+        },
+        "bhagavad_gita_12_6": {
+          "start": 7695
+        },
+        "bhagavad_gita_12_7": {
+          "start": 7711
+        },
+        "bhagavad_gita_12_8": {
+          "start": 7727
+        },
+        "bhagavad_gita_12_9": {
+          "start": 7741
+        },
+        "bhagavad_gita_12_10": {
+          "start": 7756
+        },
+        "bhagavad_gita_12_11": {
+          "start": 7770
+        },
+        "bhagavad_gita_12_12": {
+          "start": 7785
+        },
+        "bhagavad_gita_12_13": {
+          "start": 7799
+        },
+        "bhagavad_gita_12_14": {
+          "start": 7814
+        },
+        "bhagavad_gita_12_15": {
+          "start": 7829
+        },
+        "bhagavad_gita_12_16": {
+          "start": 7844
+        },
+        "bhagavad_gita_12_17": {
+          "start": 7858
+        },
+        "bhagavad_gita_12_18": {
+          "start": 7873
+        },
+        "bhagavad_gita_12_19": {
+          "start": 7887
+        },
+        "bhagavad_gita_12_20": {
+          "start": 7901
+        },
+        "bhagavad_gita_12_21": {
+          "start": 7916
+        }
+      }
+    }
+  ]
+}

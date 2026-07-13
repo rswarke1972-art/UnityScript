@@ -1,0 +1,89 @@
+{
+  "scripture": "bhagavad_gita",
+  "chapter": 16,
+  "chapterLabel": "Daivasura Sampad Vibhaga Yoga",
+  "providers": [
+    {
+      "id": "the-sanskrit-channel",
+      "name": "The Sanskrit Channel",
+      "videoId": "WITUOwi3EYk",
+      "verses": {
+        "bhagavad_gita_16_1": {
+          "start": 9324
+        },
+        "bhagavad_gita_16_2": {
+          "start": 9342
+        },
+        "bhagavad_gita_16_3": {
+          "start": 9356
+        },
+        "bhagavad_gita_16_4": {
+          "start": 9370
+        },
+        "bhagavad_gita_16_5": {
+          "start": 9385
+        },
+        "bhagavad_gita_16_6": {
+          "start": 9400
+        },
+        "bhagavad_gita_16_7": {
+          "start": 9417
+        },
+        "bhagavad_gita_16_8": {
+          "start": 9433
+        },
+        "bhagavad_gita_16_9": {
+          "start": 9447
+        },
+        "bhagavad_gita_16_10": {
+          "start": 9463
+        },
+        "bhagavad_gita_16_11": {
+          "start": 9480
+        },
+        "bhagavad_gita_16_12": {
+          "start": 9496
+        },
+        "bhagavad_gita_16_13": {
+          "start": 9513
+        },
+        "bhagavad_gita_16_14": {
+          "start": 9524
+        },
+        "bhagavad_gita_16_15": {
+          "start": 9537
+        },
+        "bhagavad_gita_16_16": {
+          "start": 9553
+        },
+        "bhagavad_gita_16_17": {
+          "start": 9569
+        },
+        "bhagavad_gita_16_18": {
+          "start": 9586
+        },
+        "bhagavad_gita_16_19": {
+          "start": 9603
+        },
+        "bhagavad_gita_16_20": {
+          "start": 9616
+        },
+        "bhagavad_gita_16_21": {
+          "start": 9632
+        },
+        "bhagavad_gita_16_22": {
+          "start": 9646
+        },
+        "bhagavad_gita_16_23": {
+          "start": 9661
+        },
+        "bhagavad_gita_16_24": {
+          "start": 9676
+        },
+        "bhagavad_gita_16_25": {
+          "start": 9692
+        }
+      }
+    }
+  ]
+}

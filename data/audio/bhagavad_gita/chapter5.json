@@ -1,0 +1,101 @@
+{
+  "scripture": "bhagavad_gita",
+  "chapter": 5,
+  "chapterLabel": "Karma Sannyasa Yoga",
+  "providers": [
+    {
+      "id": "the-sanskrit-channel",
+      "name": "The Sanskrit Channel",
+      "videoId": "WITUOwi3EYk",
+      "verses": {
+        "bhagavad_gita_5_1": {
+          "start": 3363
+        },
+        "bhagavad_gita_5_2": {
+          "start": 3381
+        },
+        "bhagavad_gita_5_3": {
+          "start": 3398
+        },
+        "bhagavad_gita_5_4": {
+          "start": 3413
+        },
+        "bhagavad_gita_5_5": {
+          "start": 3427
+        },
+        "bhagavad_gita_5_6": {
+          "start": 3441
+        },
+        "bhagavad_gita_5_7": {
+          "start": 3455
+        },
+        "bhagavad_gita_5_8": {
+          "start": 3470
+        },
+        "bhagavad_gita_5_9": {
+          "start": 3483
+        },
+        "bhagavad_gita_5_10": {
+          "start": 3496
+        },
+        "bhagavad_gita_5_11": {
+          "start": 3511
+        },
+        "bhagavad_gita_5_12": {
+          "start": 3525
+        },
+        "bhagavad_gita_5_13": {
+          "start": 3539
+        },
+        "bhagavad_gita_5_14": {
+          "start": 3553
+        },
+        "bhagavad_gita_5_15": {
+          "start": 3567
+        },
+        "bhagavad_gita_5_16": {
+          "start": 3581
+        },
+        "bhagavad_gita_5_17": {
+          "start": 3595
+        },
+        "bhagavad_gita_5_18": {
+          "start": 3610
+        },
+        "bhagavad_gita_5_19": {
+          "start": 3623
+        },
+        "bhagavad_gita_5_20": {
+          "start": 3639
+        },
+        "bhagavad_gita_5_21": {
+          "start": 3653
+        },
+        "bhagavad_gita_5_22": {
+          "start": 3667
+        },
+        "bhagavad_gita_5_23": {
+          "start": 3681
+        },
+        "bhagavad_gita_5_24": {
+          "start": 3696
+        },
+        "bhagavad_gita_5_25": {
+          "start": 3710
+        },
+        "bhagavad_gita_5_26": {
+          "start": 3723
+        },
+        "bhagavad_gita_5_27": {
+          "start": 3737
+        },
+        "bhagavad_gita_5_28": {
+          "start": 3751
+        },
+        "bhagavad_gita_5_29": {
+          "start": 3764
+        }
+      }
+    }
+  ]
+}

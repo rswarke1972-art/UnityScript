@@ -1,0 +1,143 @@
+{
+  "scripture": "bhagavad_gita",
+  "chapter": 3,
+  "chapterLabel": "Karma Yoga",
+  "providers": [
+    {
+      "id": "the-sanskrit-channel",
+      "name": "The Sanskrit Channel",
+      "videoId": "WITUOwi3EYk",
+      "verses": {
+        "bhagavad_gita_3_1": {
+          "start": 2079
+        },
+        "bhagavad_gita_3_2": {
+          "start": 2097
+        },
+        "bhagavad_gita_3_3": {
+          "start": 2111
+        },
+        "bhagavad_gita_3_4": {
+          "start": 2131
+        },
+        "bhagavad_gita_3_5": {
+          "start": 2144
+        },
+        "bhagavad_gita_3_6": {
+          "start": 2158
+        },
+        "bhagavad_gita_3_7": {
+          "start": 2174
+        },
+        "bhagavad_gita_3_8": {
+          "start": 2186
+        },
+        "bhagavad_gita_3_9": {
+          "start": 2199
+        },
+        "bhagavad_gita_3_10": {
+          "start": 2214
+        },
+        "bhagavad_gita_3_11": {
+          "start": 2228
+        },
+        "bhagavad_gita_3_12": {
+          "start": 2243
+        },
+        "bhagavad_gita_3_13": {
+          "start": 2258
+        },
+        "bhagavad_gita_3_14": {
+          "start": 2272
+        },
+        "bhagavad_gita_3_15": {
+          "start": 2286
+        },
+        "bhagavad_gita_3_16": {
+          "start": 2301
+        },
+        "bhagavad_gita_3_17": {
+          "start": 2315
+        },
+        "bhagavad_gita_3_18": {
+          "start": 2328
+        },
+        "bhagavad_gita_3_19": {
+          "start": 2342
+        },
+        "bhagavad_gita_3_20": {
+          "start": 2357
+        },
+        "bhagavad_gita_3_21": {
+          "start": 2369
+        },
+        "bhagavad_gita_3_22": {
+          "start": 2381
+        },
+        "bhagavad_gita_3_23": {
+          "start": 2395
+        },
+        "bhagavad_gita_3_24": {
+          "start": 2409
+        },
+        "bhagavad_gita_3_25": {
+          "start": 2422
+        },
+        "bhagavad_gita_3_26": {
+          "start": 2436
+        },
+        "bhagavad_gita_3_27": {
+          "start": 2450
+        },
+        "bhagavad_gita_3_28": {
+          "start": 2464
+        },
+        "bhagavad_gita_3_29": {
+          "start": 2476
+        },
+        "bhagavad_gita_3_30": {
+          "start": 2490
+        },
+        "bhagavad_gita_3_31": {
+          "start": 2505
+        },
+        "bhagavad_gita_3_32": {
+          "start": 2517
+        },
+        "bhagavad_gita_3_33": {
+          "start": 2531
+        },
+        "bhagavad_gita_3_34": {
+          "start": 2545
+        },
+        "bhagavad_gita_3_35": {
+          "start": 2559
+        },
+        "bhagavad_gita_3_36": {
+          "start": 2574
+        },
+        "bhagavad_gita_3_37": {
+          "start": 2591
+        },
+        "bhagavad_gita_3_38": {
+          "start": 2608
+        },
+        "bhagavad_gita_3_39": {
+          "start": 2621
+        },
+        "bhagavad_gita_3_40": {
+          "start": 2635
+        },
+        "bhagavad_gita_3_41": {
+          "start": 2648
+        },
+        "bhagavad_gita_3_42": {
+          "start": 2662
+        },
+        "bhagavad_gita_3_43": {
+          "start": 2674
+        }
+      }
+    }
+  ]
+}

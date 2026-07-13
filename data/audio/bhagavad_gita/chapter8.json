@@ -1,0 +1,101 @@
+{
+  "scripture": "bhagavad_gita",
+  "chapter": 8,
+  "chapterLabel": "Akshara Brahma Yoga",
+  "providers": [
+    {
+      "id": "the-sanskrit-channel",
+      "name": "The Sanskrit Channel",
+      "videoId": "WITUOwi3EYk",
+      "verses": {
+        "bhagavad_gita_8_1": {
+          "start": 4971
+        },
+        "bhagavad_gita_8_2": {
+          "start": 4987
+        },
+        "bhagavad_gita_8_3": {
+          "start": 5001
+        },
+        "bhagavad_gita_8_4": {
+          "start": 5018
+        },
+        "bhagavad_gita_8_5": {
+          "start": 5032
+        },
+        "bhagavad_gita_8_6": {
+          "start": 5047
+        },
+        "bhagavad_gita_8_7": {
+          "start": 5061
+        },
+        "bhagavad_gita_8_8": {
+          "start": 5074
+        },
+        "bhagavad_gita_8_9": {
+          "start": 5088
+        },
+        "bhagavad_gita_8_10": {
+          "start": 5105
+        },
+        "bhagavad_gita_8_11": {
+          "start": 5122
+        },
+        "bhagavad_gita_8_12": {
+          "start": 5139
+        },
+        "bhagavad_gita_8_13": {
+          "start": 5153
+        },
+        "bhagavad_gita_8_14": {
+          "start": 5167
+        },
+        "bhagavad_gita_8_15": {
+          "start": 5181
+        },
+        "bhagavad_gita_8_16": {
+          "start": 5196
+        },
+        "bhagavad_gita_8_17": {
+          "start": 5211
+        },
+        "bhagavad_gita_8_18": {
+          "start": 5224
+        },
+        "bhagavad_gita_8_19": {
+          "start": 5239
+        },
+        "bhagavad_gita_8_20": {
+          "start": 5254
+        },
+        "bhagavad_gita_8_21": {
+          "start": 5269
+        },
+        "bhagavad_gita_8_22": {
+          "start": 5281
+        },
+        "bhagavad_gita_8_23": {
+          "start": 5295
+        },
+        "bhagavad_gita_8_24": {
+          "start": 5308
+        },
+        "bhagavad_gita_8_25": {
+          "start": 5322
+        },
+        "bhagavad_gita_8_26": {
+          "start": 5336
+        },
+        "bhagavad_gita_8_27": {
+          "start": 5350
+        },
+        "bhagavad_gita_8_28": {
+          "start": 5363
+        },
+        "bhagavad_gita_8_29": {
+          "start": 5382
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "scripture": "bhagavad_gita",
+  "chapter": 15,
+  "chapterLabel": "Purushottama Yoga",
+  "providers": [
+    {
+      "id": "the-sanskrit-channel",
+      "name": "The Sanskrit Channel",
+      "videoId": "WITUOwi3EYk",
+      "verses": {
+        "bhagavad_gita_15_1": {
+          "start": 8949
+        },
+        "bhagavad_gita_15_2": {
+          "start": 8966
+        },
+        "bhagavad_gita_15_3": {
+          "start": 8985
+        },
+        "bhagavad_gita_15_4": {
+          "start": 9005
+        },
+        "bhagavad_gita_15_5": {
+          "start": 9025
+        },
+        "bhagavad_gita_15_6": {
+          "start": 9047
+        },
+        "bhagavad_gita_15_7": {
+          "start": 9062
+        },
+        "bhagavad_gita_15_8": {
+          "start": 9079
+        },
+        "bhagavad_gita_15_9": {
+          "start": 9095
+        },
+        "bhagavad_gita_15_10": {
+          "start": 9110
+        },
+        "bhagavad_gita_15_11": {
+          "start": 9126
+        },
+        "bhagavad_gita_15_12": {
+          "start": 9142
+        },
+        "bhagavad_gita_15_13": {
+          "start": 9158
+        },
+        "bhagavad_gita_15_14": {
+          "start": 9175
+        },
+        "bhagavad_gita_15_15": {
+          "start": 9192
+        },
+        "bhagavad_gita_15_16": {
+          "start": 9212
+        },
+        "bhagavad_gita_15_17": {
+          "start": 9227
+        },
+        "bhagavad_gita_15_18": {
+          "start": 9244
+        },
+        "bhagavad_gita_15_19": {
+          "start": 9258
+        },
+        "bhagavad_gita_15_20": {
+          "start": 9273
+        },
+        "bhagavad_gita_15_21": {
+          "start": 9286
+        }
+      }
+    }
+  ]
+}

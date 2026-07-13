@@ -1,0 +1,600 @@
+{
+    "scripture":  "bhagavad_gita",
+    "chapter":  1,
+    "chapterLabel":  "Arjuna Vishada Yoga",
+    "providers":  [
+                      {
+                          "id":  "the-sanskrit-channel",
+                          "name":  "The Sanskrit Channel",
+                          "videoId":  "WITUOwi3EYk",
+                          "verses":  {
+                                         "gita_1_1":  {
+                                                          "start":  315
+                                                      },
+                                         "gita_1_2":  {
+                                                          "start":  331
+                                                      },
+                                         "gita_1_3":  {
+                                                          "start":  345
+                                                      },
+                                         "gita_1_4":  {
+                                                          "start":  358
+                                                      },
+                                         "gita_1_5":  {
+                                                          "start":  371
+                                                      },
+                                         "gita_1_6":  {
+                                                          "start":  385
+                                                      },
+                                         "gita_1_7":  {
+                                                          "start":  400
+                                                      },
+                                         "gita_1_8":  {
+                                                          "start":  414
+                                                      },
+                                         "gita_1_9":  {
+                                                          "start":  427
+                                                      },
+                                         "gita_1_10":  {
+                                                           "start":  441
+                                                       },
+                                         "gita_1_11":  {
+                                                           "start":  455
+                                                       },
+                                         "gita_1_12":  {
+                                                           "start":  468
+                                                       },
+                                         "gita_1_13":  {
+                                                           "start":  481
+                                                       },
+                                         "gita_1_14":  {
+                                                           "start":  495
+                                                       },
+                                         "gita_1_15":  {
+                                                           "start":  508
+                                                       },
+                                         "gita_1_16":  {
+                                                           "start":  521
+                                                       },
+                                         "gita_1_17":  {
+                                                           "start":  533
+                                                       },
+                                         "gita_1_18":  {
+                                                           "start":  546
+                                                       },
+                                         "gita_1_19":  {
+                                                           "start":  559
+                                                       },
+                                         "gita_1_20":  {
+                                                           "start":  572
+                                                       },
+                                         "gita_1_21":  {
+                                                           "start":  586
+                                                       },
+                                         "gita_1_22":  {
+                                                           "start":  603
+                                                       },
+                                         "gita_1_23":  {
+                                                           "start":  616
+                                                       },
+                                         "gita_1_24":  {
+                                                           "start":  629
+                                                       },
+                                         "gita_1_25":  {
+                                                           "start":  645
+                                                       },
+                                         "gita_1_26":  {
+                                                           "start":  657
+                                                       },
+                                         "gita_1_27":  {
+                                                           "start":  672
+                                                       },
+                                         "gita_1_28":  {
+                                                           "start":  685
+                                                       },
+                                         "gita_1_29":  {
+                                                           "start":  700
+                                                       },
+                                         "gita_1_30":  {
+                                                           "start":  712
+                                                       },
+                                         "gita_1_31":  {
+                                                           "start":  725
+                                                       },
+                                         "gita_1_32":  {
+                                                           "start":  737
+                                                       },
+                                         "gita_1_33":  {
+                                                           "start":  751
+                                                       },
+                                         "gita_1_34":  {
+                                                           "start":  764
+                                                       },
+                                         "gita_1_35":  {
+                                                           "start":  777
+                                                       },
+                                         "gita_1_36":  {
+                                                           "start":  790
+                                                       },
+                                         "gita_1_37":  {
+                                                           "start":  803
+                                                       },
+                                         "gita_1_38":  {
+                                                           "start":  816
+                                                       },
+                                         "gita_1_39":  {
+                                                           "start":  829
+                                                       },
+                                         "gita_1_40":  {
+                                                           "start":  841
+                                                       },
+                                         "gita_1_41":  {
+                                                           "start":  854
+                                                       },
+                                         "gita_1_42":  {
+                                                           "start":  868
+                                                       },
+                                         "gita_1_43":  {
+                                                           "start":  881
+                                                       },
+                                         "gita_1_44":  {
+                                                           "start":  896
+                                                       },
+                                         "gita_1_45":  {
+                                                           "start":  907
+                                                       },
+                                         "gita_1_46":  {
+                                                           "start":  919
+                                                       },
+                                         "gita_1_47":  {
+                                                           "start":  935
+                                                       }
+                                     }
+                      },
+                      {
+                        "id":  "ChinmayaChannel",
+                          "name":  "ChinmayaChannel",
+                          "videoId":  "uip3DK9JVLU",
+  "verses": {
+    "gita_1_1": {
+      "start": 9
+    },
+    "gita_1_2": {
+      "start": 31
+    },
+    "gita_1_3": {
+      "start": 51
+    },
+    "gita_1_4": {
+      "start": 69
+    },
+    "gita_1_5": {
+      "start": 86
+    },
+    "gita_1_6": {
+      "start": 103
+    },
+    "gita_1_7": {
+      "start": 121
+    },
+    "gita_1_8": {
+      "start": 138
+    },
+    "gita_1_9": {
+      "start": 156
+    },
+    "gita_1_10": {
+      "start": 173
+    },
+    "gita_1_11": {
+      "start": 191
+    },
+    "gita_1_12": {
+      "start": 208
+    },
+    "gita_1_13": {
+      "start": 225
+    },
+    "gita_1_14": {
+      "start": 242
+    },
+    "gita_1_15": {
+      "start": 259
+    },
+    "gita_1_16": {
+      "start": 276
+    },
+    "gita_1_17": {
+      "start": 292
+    },
+    "gita_1_18": {
+      "start": 309
+    },
+    "gita_1_19": {
+      "start": 326
+    },
+    "gita_1_20": {
+      "start": 343
+    },
+    "gita_1_21": {
+      "start": 361
+    },
+    "gita_1_22": {
+      "start": 379
+    },
+    "gita_1_23": {
+      "start": 396
+    },
+    "gita_1_24": {
+      "start": 413
+    },
+    "gita_1_25": {
+      "start": 433
+    },
+    "gita_1_26": {
+      "start": 450
+    },
+    "gita_1_27": {
+      "start": 468
+    },
+    "gita_1_28": {
+      "start": 486
+    },
+    "gita_1_29": {
+      "start": 506
+    },
+    "gita_1_30": {
+      "start": 522
+    },
+    "gita_1_31": {
+      "start": 539
+    },
+    "gita_1_32": {
+      "start": 555
+    },
+    "gita_1_33": {
+      "start": 572
+    },
+    "gita_1_34": {
+      "start": 590
+    },
+    "gita_1_35": {
+      "start": 607
+    },
+    "gita_1_36": {
+      "start": 623
+    },
+    "gita_1_37": {
+      "start": 641
+    },
+    "gita_1_38": {
+      "start": 658
+    },
+    "gita_1_39": {
+      "start": 675
+    },
+    "gita_1_40": {
+      "start": 692
+    },
+    "gita_1_41": {
+      "start": 708
+    },
+    "gita_1_42": {
+      "start": 725
+    },
+    "gita_1_43": {
+      "start": 741
+    },
+    "gita_1_44": {
+      "start": 760
+    },
+    "gita_1_45": {
+      "start": 776
+    },
+    "gita_1_46": {
+      "start": 792
+    },
+    "gita_1_47": {
+      "start": 810
+    }
+  }
+},
+{
+    "id":  "Braja Beats",
+                          "name":  "Braja Beats",
+                          "videoId":  "HWMp63m5zI8",
+  "verses": {
+    "gita_1_1": {
+      "start": 34
+    },
+    "gita_1_2": {
+      "start": 48
+    },
+    "gita_1_3": {
+      "start": 62
+    },
+    "gita_1_4": {
+      "start": 74
+    },
+    "gita_1_5": {
+      "start": 84
+    },
+    "gita_1_6": {
+      "start": 95
+    },
+    "gita_1_7": {
+      "start": 108
+    },
+    "gita_1_8": {
+      "start": 119
+    },
+    "gita_1_9": {
+      "start": 130
+    },
+    "gita_1_10": {
+      "start": 142
+    },
+    "gita_1_11": {
+      "start": 154
+    },
+    "gita_1_12": {
+      "start": 165
+    },
+    "gita_1_13": {
+      "start": 177
+    },
+    "gita_1_14": {
+      "start": 188
+    },
+    "gita_1_15": {
+      "start": 199
+    },
+    "gita_1_16": {
+      "start": 211
+    },
+    "gita_1_17": {
+      "start": 222
+    },
+    "gita_1_18": {
+      "start": 233
+    },
+    "gita_1_19": {
+      "start": 245
+    },
+    "gita_1_20": {
+      "start": 256
+    },
+    "gita_1_21": {
+      "start": 267
+    },
+    "gita_1_22": {
+      "start": 281
+    },
+    "gita_1_23": {
+      "start": 292
+    },
+    "gita_1_24": {
+      "start": 305
+    },
+    "gita_1_25": {
+      "start": 318
+    },
+    "gita_1_26": {
+      "start": 330
+    },
+    "gita_1_27": {
+      "start": 342
+    },
+    "gita_1_28": {
+      "start": 354
+    },
+    "gita_1_29": {
+      "start": 368
+    },
+    "gita_1_30": {
+      "start": 378
+    },
+    "gita_1_31": {
+      "start": 390
+    },
+    "gita_1_32": {
+      "start": 400
+    },
+    "gita_1_33": {
+      "start": 412
+    },
+    "gita_1_34": {
+      "start": 423
+    },
+    "gita_1_35": {
+      "start": 436
+    },
+    "gita_1_36": {
+      "start": 448
+    },
+    "gita_1_37": {
+      "start": 459
+    },
+    "gita_1_38": {
+      "start": 471
+    },
+    "gita_1_39": {
+      "start": 482
+    },
+    "gita_1_40": {
+      "start": 492
+    },
+    "gita_1_41": {
+      "start": 504
+    },
+    "gita_1_42": {
+      "start": 515
+    },
+    "gita_1_43": {
+      "start": 527
+    },
+    "gita_1_44": {
+      "start": 539
+    },
+    "gita_1_45": {
+      "start": 550
+    },
+    "gita_1_46": {
+      "start": 561
+    },
+    "gita_1_47": {
+      "start": 573
+    }
+  }
+},
+{
+        "id":  "ajay-gauranga-das",
+                          "name":  "Ajay Gauranga Das",
+                          "videoId":  "13zmr_Swz4E",
+      "verses": {
+        "gita_1_1": {
+          "start": 20
+        },
+        "gita_1_2": {
+          "start": 40
+        },
+        "gita_1_3": {
+          "start": 58
+        },
+        "gita_1_4": {
+          "start": 72
+        },
+        "gita_1_5": {
+          "start": 86
+        },
+        "gita_1_6": {
+          "start": 100
+        },
+        "gita_1_7": {
+          "start": 114
+        },
+        "gita_1_8": {
+          "start": 127
+        },
+        "gita_1_9": {
+          "start": 140
+        },
+        "gita_1_10": {
+          "start": 153
+        },
+        "gita_1_11": {
+          "start": 166
+        },
+        "gita_1_12": {
+          "start": 179
+        },
+        "gita_1_13": {
+          "start": 192
+        },
+        "gita_1_14": {
+          "start": 206
+        },
+        "gita_1_15": {
+          "start": 219
+        },
+        "gita_1_16": {
+          "start": 233
+        },
+        "gita_1_17": {
+          "start": 245
+        },
+        "gita_1_18": {
+          "start": 258
+        },
+        "gita_1_19": {
+          "start": 272
+        },
+        "gita_1_20": {
+          "start": 285
+        },
+        "gita_1_21": {
+          "start": 298
+        },
+        "gita_1_22": {
+          "start": 314
+        },
+        "gita_1_23": {
+          "start": 328
+        },
+        "gita_1_24": {
+          "start": 343
+        },
+        "gita_1_25": {
+          "start": 359
+        },
+        "gita_1_26": {
+          "start": 374
+        },
+        "gita_1_27": {
+          "start": 389
+        },
+        "gita_1_28": {
+          "start": 403
+        },
+        "gita_1_29": {
+          "start": 420
+        },
+        "gita_1_30": {
+          "start": 432
+        },
+        "gita_1_31": {
+          "start": 446
+        },
+        "gita_1_32": {
+          "start": 458
+        },
+        "gita_1_33": {
+          "start": 472
+        },
+        "gita_1_34": {
+          "start": 487
+        },
+        "gita_1_35": {
+          "start": 501
+        },
+        "gita_1_36": {
+          "start": 514
+        },
+        "gita_1_37": {
+          "start": 528
+        },
+        "gita_1_38": {
+          "start": 542
+        },
+        "gita_1_39": {
+          "start": 555
+        },
+        "gita_1_40": {
+          "start": 567
+        },
+        "gita_1_41": {
+          "start": 579
+        },
+        "gita_1_42": {
+          "start": 592
+        },
+        "gita_1_43": {
+          "start": 605
+        },
+        "gita_1_44": {
+          "start": 619
+        },
+        "gita_1_45": {
+          "start": 631
+        },
+        "gita_1_46": {
+          "start": 643
+        },
+        "gita_1_47": {
+          "start": 657
+        }
+      }
+    }
+
+                  ]
+}

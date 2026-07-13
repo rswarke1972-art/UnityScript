@@ -1,0 +1,91 @@
+{
+  "scripture": "quran",
+  "chapter": 1,
+  "chapterLabel": "Al-Fatiha",
+  "providers": [
+    {
+      "id": "ayat",
+      "name": "AYAT",
+      "videoId": "ZYaZ6Odbx_Y",
+      "verses": {
+        "quran_1_1": {
+          "start": 6
+        },
+        "quran_1_2": {
+          "start": 12
+        },
+        "quran_1_3": {
+          "start": 17
+        },
+        "quran_1_4": {
+          "start": 21
+        },
+        "quran_1_5": {
+          "start": 26
+        },
+        "quran_1_6": {
+          "start": 33
+        },
+        "quran_1_7": {
+          "start": 39
+        }
+      }
+    },
+    {
+      "id": "m-asif",
+      "name": "M Asif",
+      "videoId": "UDvh63xHVa0",
+      "verses": {
+        "quran_1_1": {
+          "start": 12
+        },
+        "quran_1_2": {
+          "start": 18
+        },
+        "quran_1_3": {
+          "start": 23
+        },
+        "quran_1_4": {
+          "start": 28
+        },
+        "quran_1_5": {
+          "start": 32
+        },
+        "quran_1_6": {
+          "start": 39
+        },
+        "quran_1_7": {
+          "start": 44
+        }
+      }
+    },
+    {
+      "id": "the-meaning-of-islam",
+      "name": "The Meaning of Islam",
+      "videoId": "-PqP0BCiTlE",
+      "verses": {
+        "quran_1_1": {
+          "start": 19
+        },
+        "quran_1_2": {
+          "start": 32
+        },
+        "quran_1_3": {
+          "start": 43
+        },
+        "quran_1_4": {
+          "start": 52
+        },
+        "quran_1_5": {
+          "start": 60
+        },
+        "quran_1_6": {
+          "start": 71
+        },
+        "quran_1_7": {
+          "start": 79
+        }
+      }
+    }
+  ]
+}

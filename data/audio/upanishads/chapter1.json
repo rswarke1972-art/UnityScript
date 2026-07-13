@@ -1,0 +1,83 @@
+{
+  "scripture": "upanishads",
+  "chapter": "1-1",
+  "chapterLabel": "Aitareya Upanishad · Chapter 1",
+  "providers": [
+    {
+      "id": "swaminarayansurat",
+      "name": "SwaminarayanSurat",
+      "videoId": "Qd8l9Am5JRU",
+      "verses": {
+        "aitareya_1_1": {
+          "start": 108
+        },
+        "aitareya_1_2": {
+          "start": 125
+        },
+        "aitareya_1_3": {
+          "start": 152
+        },
+        "aitareya_1_4": {
+          "start": 168
+        },
+        "aitareya_1_5": {
+          "start": 258
+        },
+        "aitareya_1_6": {
+          "start": 287
+        },
+        "aitareya_1_7": {
+          "start": 306
+        },
+        "aitareya_1_8": {
+          "start": 325
+        },
+        "aitareya_1_9": {
+          "start": 371
+        },
+        "aitareya_1_10": {
+          "start": 420
+        },
+        "aitareya_1_11": {
+          "start": 432
+        },
+        "aitareya_1_12": {
+          "start": 447
+        },
+        "aitareya_1_13": {
+          "start": 472
+        },
+        "aitareya_1_14": {
+          "start": 492
+        },
+        "aitareya_1_15": {
+          "start": 509
+        },
+        "aitareya_1_16": {
+          "start": 529
+        },
+        "aitareya_1_17": {
+          "start": 546
+        },
+        "aitareya_1_18": {
+          "start": 564
+        },
+        "aitareya_1_19": {
+          "start": 583
+        },
+        "aitareya_1_20": {
+          "start": 598
+        },
+        "aitareya_1_21": {
+          "start": 638
+        },
+        "aitareya_1_22": {
+          "start": 663
+        },
+        "aitareya_1_23": {
+          "start": 680
+        }
+      }
+    }
+  ]
+}
